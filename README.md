@@ -60,6 +60,4 @@ python reproduce.py train --stage all --device cuda --run-name my_reproduction
 
 ## 上傳 GitHub
 
-這份本機交接包尚未上傳，也未包含 `.git` 歷史或執行環境。請依 [GitHub 上傳說明](docs/GITHUB_UPLOAD.md) 建立 repository。模型與 GMD token 超過網頁單檔上傳限制，應使用 Git 工具推送。此包沒有 Git LFS 指標檔；下載後保留實際權重檔。
-
 GMD 的原始 CC BY 4.0 授權與引用資料已附。六首國樂譜面與其資料未被套用新的開放授權，來源與授權範圍見 [資料來源](docs/DATA_SOURCES_AND_LICENSES.md)。
