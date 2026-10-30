@@ -1,0 +1,15 @@
+{
+  "phase": "completed",
+  "updated_at": "2026-10-28T22:36:12.899916+00:00",
+  "pid": 48988,
+  "epoch": 30,
+  "max_epochs": 30,
+  "batch": 0,
+  "batches_per_epoch": 413,
+  "global_step": 12390,
+  "best_val_loss": 0.6927768099203133,
+  "best_epoch": 30,
+  "elapsed_seconds_this_process": 149.5,
+  "test_loss": 0.6903382741648962,
+  "summary": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\outputs\\gmd_transformer_v1\\summary.json"
+}

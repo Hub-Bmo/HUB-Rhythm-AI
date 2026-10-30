@@ -1,0 +1,217 @@
+{
+  "works": {
+    "天下無雙": {
+      "segments": 6,
+      "source_bars": 26,
+      "unique_source_events": 559,
+      "token_events_including_repeats": 559,
+      "tokens": 5801,
+      "group_id": "PKG-90e3a054613c40e7a095b0bc7ceacc02",
+      "source_sha256": "81766262524732b7cdad368c83f51801b123a836b972dfb3fc2002f19e9625c8"
+    },
+    "闖將令": {
+      "segments": 17,
+      "source_bars": 58,
+      "unique_source_events": 150,
+      "token_events_including_repeats": 150,
+      "tokens": 1977,
+      "group_id": "PKG-2153fbb849d646cc99932b4e0335d25e",
+      "source_sha256": "2d634d15f2581404082b25ffe38c22f97957931ba496899a87ca34cce14bf127"
+    },
+    "黃土情": {
+      "segments": 30,
+      "source_bars": 142,
+      "unique_source_events": 534,
+      "token_events_including_repeats": 534,
+      "tokens": 6715,
+      "group_id": "PKG-88d1741615d9455a9f3c645d834d8e77",
+      "source_sha256": "6a6dadf5e2f97131606aaaafbc216dcad477002978b77d38959a4d89f8806a4c"
+    },
+    "黃土高坡": {
+      "segments": 62,
+      "source_bars": 259,
+      "unique_source_events": 834,
+      "token_events_including_repeats": 834,
+      "tokens": 11034,
+      "group_id": "PKG-405d3820c01e416783bad4b371f66474",
+      "source_sha256": "3edc23849324de4a3b9b60c0120e2fd855a1d825f750189bc7b6200da6b55e21"
+    },
+    "節慶歡舞": {
+      "segments": 13,
+      "source_bars": 151,
+      "unique_source_events": 1109,
+      "token_events_including_repeats": 1436,
+      "tokens": 17142,
+      "group_id": "PKG-26100e9993d044c68fdafce6cb34def4",
+      "source_sha256": "7fa82b5d625f7a44e891ca059ebdb522017ab8a53eec823a43520ac04f12664d"
+    },
+    "海神音詩": {
+      "segments": 4,
+      "source_bars": 204,
+      "unique_source_events": 1803,
+      "token_events_including_repeats": 1803,
+      "tokens": 19720,
+      "group_id": "PKG-cc0353d6d1354a43965e8cffd1ee45ef",
+      "source_sha256": "5b62c018d8edaa9941cb6cbaaf5b646358151ddd8ae58aa3d4d85404800508cb"
+    }
+  },
+  "sequence_count": 132,
+  "token_count": 62389,
+  "vocabulary_size": 84,
+  "unknown_tokens": 3157,
+  "token_events_including_repeats": 5316,
+  "new_instrument_concepts": [
+    {
+      "source_name": "軍鈸",
+      "concept": {
+        "id": "C00012",
+        "label": "軍鈸"
+      }
+    },
+    {
+      "source_name": "小堂鼓",
+      "concept": {
+        "id": "C00013",
+        "label": "小堂鼓"
+      }
+    },
+    {
+      "source_name": "大堂鼓",
+      "concept": {
+        "id": "C00014",
+        "label": "大堂鼓"
+      }
+    },
+    {
+      "source_name": "大鈸（獅鈸）",
+      "concept": {
+        "id": "C00015",
+        "label": "大鈸（獅鈸）"
+      }
+    },
+    {
+      "source_name": "吊鈸",
+      "concept": {
+        "id": "C00016",
+        "label": "吊鈸"
+      }
+    },
+    {
+      "source_name": "碰鈴",
+      "concept": {
+        "id": "C00017",
+        "label": "碰鈴"
+      }
+    },
+    {
+      "source_name": "低音鑼",
+      "concept": {
+        "id": "C00018",
+        "label": "低音鑼"
+      }
+    },
+    {
+      "source_name": "大銅磐",
+      "concept": {
+        "id": "C00019",
+        "label": "大銅磐"
+      }
+    },
+    {
+      "source_name": "低音堂鼓",
+      "concept": {
+        "id": "C00020",
+        "label": "低音堂鼓"
+      }
+    },
+    {
+      "source_name": "班鼓",
+      "concept": {
+        "id": "C00021",
+        "label": "班鼓"
+      }
+    },
+    {
+      "source_name": "子弟鑼",
+      "concept": {
+        "id": "C00022",
+        "label": "子弟鑼"
+      }
+    },
+    {
+      "source_name": "高音堂鼓",
+      "concept": {
+        "id": "C00023",
+        "label": "高音堂鼓"
+      }
+    },
+    {
+      "source_name": "最下方鑼聲部",
+      "concept": {
+        "id": "C00024",
+        "label": "最下方鑼聲部"
+      }
+    },
+    {
+      "source_name": "沙鎚",
+      "concept": {
+        "id": "C00025",
+        "label": "沙鎚"
+      }
+    },
+    {
+      "source_name": "沙槌",
+      "concept": {
+        "id": "C00026",
+        "label": "沙槌"
+      }
+    },
+    {
+      "source_name": "風鈴",
+      "concept": {
+        "id": "C00027",
+        "label": "風鈴"
+      }
+    },
+    {
+      "source_name": "風鑼",
+      "concept": {
+        "id": "C00028",
+        "label": "風鑼"
+      }
+    },
+    {
+      "source_name": "鈴鑼",
+      "concept": {
+        "id": "C00029",
+        "label": "鈴鑼"
+      }
+    },
+    {
+      "source_name": "三角鐵",
+      "concept": {
+        "id": "C00030",
+        "label": "三角鐵"
+      }
+    },
+    {
+      "source_name": "低音大鑼",
+      "concept": {
+        "id": "C00031",
+        "label": "低音大鑼"
+      }
+    },
+    {
+      "source_name": "文鑼",
+      "concept": {
+        "id": "C00032",
+        "label": "文鑼"
+      }
+    }
+  ],
+  "original_four_sequences_unchanged": true,
+  "original_vocabulary_ids_unchanged": true,
+  "original_json_and_library_unchanged": true,
+  "original_segment_playback_orders_preserved": true,
+  "api_requests": 0
+}

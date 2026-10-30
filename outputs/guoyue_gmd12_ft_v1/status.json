@@ -1,0 +1,15 @@
+{
+  "phase": "completed",
+  "updated_at": "2026-10-29T04:37:26.292301+00:00",
+  "pid": 60332,
+  "epoch": 60,
+  "max_epochs": 60,
+  "batch": 0,
+  "batches_per_epoch": 22,
+  "global_step": 1320,
+  "best_val_loss": 0.3671225954238489,
+  "best_epoch": 60,
+  "elapsed_seconds_this_process": 21.6,
+  "test_loss": null,
+  "summary": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\outputs\\guoyue_gmd12_ft_v1\\summary.json"
+}

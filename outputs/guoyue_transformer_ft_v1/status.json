@@ -1,0 +1,15 @@
+{
+  "phase": "completed",
+  "updated_at": "2026-10-29T03:46:14.375578+00:00",
+  "pid": 31440,
+  "epoch": 60,
+  "max_epochs": 60,
+  "batch": 0,
+  "batches_per_epoch": 22,
+  "global_step": 1320,
+  "best_val_loss": 0.40649560930992595,
+  "best_epoch": 60,
+  "elapsed_seconds_this_process": 21.7,
+  "test_loss": null,
+  "summary": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\outputs\\guoyue_transformer_ft_v1\\summary.json"
+}

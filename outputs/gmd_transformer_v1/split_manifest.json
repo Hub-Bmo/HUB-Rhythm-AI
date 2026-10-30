@@ -1,0 +1,4608 @@
+{
+  "train": [
+    {
+      "segment_id": "GMD000011",
+      "midi_filename": "drummer1/session1/1_funk_80_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000012",
+      "midi_filename": "drummer1/session1/10_jazz-funk_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000013",
+      "midi_filename": "drummer1/session1/100_neworleans-secondline_94_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000014",
+      "midi_filename": "drummer1/session1/101_dance-disco_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000015",
+      "midi_filename": "drummer1/session1/102_funk_95_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000016",
+      "midi_filename": "drummer1/session1/103_funk_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000017",
+      "midi_filename": "drummer1/session1/104_funk_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000019",
+      "midi_filename": "drummer1/session1/106_funk_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000020",
+      "midi_filename": "drummer1/session1/107_funk_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000021",
+      "midi_filename": "drummer1/session1/108_funk_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000022",
+      "midi_filename": "drummer1/session1/109_funk_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000023",
+      "midi_filename": "drummer1/session1/11_jazz-funk_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000024",
+      "midi_filename": "drummer1/session1/110_funk_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000025",
+      "midi_filename": "drummer1/session1/111_funk_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000026",
+      "midi_filename": "drummer1/session1/112_funk_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000027",
+      "midi_filename": "drummer1/session1/113_funk_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000028",
+      "midi_filename": "drummer1/session1/114_funk_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000029",
+      "midi_filename": "drummer1/session1/115_funk_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000030",
+      "midi_filename": "drummer1/session1/116_funk_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000031",
+      "midi_filename": "drummer1/session1/117_funk_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000032",
+      "midi_filename": "drummer1/session1/118_funk_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000033",
+      "midi_filename": "drummer1/session1/119_funk_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000034",
+      "midi_filename": "drummer1/session1/12_jazz-funk_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000035",
+      "midi_filename": "drummer1/session1/120_funk_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000037",
+      "midi_filename": "drummer1/session1/122_funk_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000038",
+      "midi_filename": "drummer1/session1/123_funk_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000039",
+      "midi_filename": "drummer1/session1/124_funk_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000040",
+      "midi_filename": "drummer1/session1/125_funk_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000042",
+      "midi_filename": "drummer1/session1/127_funk-fast_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000043",
+      "midi_filename": "drummer1/session1/128_funk-fast_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000044",
+      "midi_filename": "drummer1/session1/129_funk-fast_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000045",
+      "midi_filename": "drummer1/session1/13_jazz-funk_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000046",
+      "midi_filename": "drummer1/session1/130_funk-fast_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000047",
+      "midi_filename": "drummer1/session1/131_funk-fast_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000048",
+      "midi_filename": "drummer1/session1/132_funk-fast_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000050",
+      "midi_filename": "drummer1/session1/134_funk-fast_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000051",
+      "midi_filename": "drummer1/session1/135_funk-fast_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000052",
+      "midi_filename": "drummer1/session1/136_funk-fast_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000053",
+      "midi_filename": "drummer1/session1/137_funk-fast_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000054",
+      "midi_filename": "drummer1/session1/138_funk-fast_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000055",
+      "midi_filename": "drummer1/session1/139_funk-fast_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000056",
+      "midi_filename": "drummer1/session1/14_jazz-funk_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000059",
+      "midi_filename": "drummer1/session1/142_funk-fast_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000060",
+      "midi_filename": "drummer1/session1/143_funk-fast_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000061",
+      "midi_filename": "drummer1/session1/144_funk-fast_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000063",
+      "midi_filename": "drummer1/session1/146_latin-brazilian-baiao_95_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000065",
+      "midi_filename": "drummer1/session1/148_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000066",
+      "midi_filename": "drummer1/session1/149_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000067",
+      "midi_filename": "drummer1/session1/15_jazz-funk_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000068",
+      "midi_filename": "drummer1/session1/150_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000069",
+      "midi_filename": "drummer1/session1/151_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000070",
+      "midi_filename": "drummer1/session1/152_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000072",
+      "midi_filename": "drummer1/session1/154_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000073",
+      "midi_filename": "drummer1/session1/155_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000074",
+      "midi_filename": "drummer1/session1/156_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000076",
+      "midi_filename": "drummer1/session1/158_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000077",
+      "midi_filename": "drummer1/session1/159_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000079",
+      "midi_filename": "drummer1/session1/160_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000080",
+      "midi_filename": "drummer1/session1/161_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000082",
+      "midi_filename": "drummer1/session1/163_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000083",
+      "midi_filename": "drummer1/session1/164_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000084",
+      "midi_filename": "drummer1/session1/165_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000086",
+      "midi_filename": "drummer1/session1/167_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000087",
+      "midi_filename": "drummer1/session1/168_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000088",
+      "midi_filename": "drummer1/session1/169_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000090",
+      "midi_filename": "drummer1/session1/170_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000092",
+      "midi_filename": "drummer1/session1/172_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000093",
+      "midi_filename": "drummer1/session1/173_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000094",
+      "midi_filename": "drummer1/session1/174_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000095",
+      "midi_filename": "drummer1/session1/175_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000096",
+      "midi_filename": "drummer1/session1/176_afrocuban_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000097",
+      "midi_filename": "drummer1/session1/177_afrocuban_105_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000098",
+      "midi_filename": "drummer1/session1/178_afrocuban_105_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000099",
+      "midi_filename": "drummer1/session1/179_afrocuban_105_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000101",
+      "midi_filename": "drummer1/session1/180_afrocuban_105_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000102",
+      "midi_filename": "drummer1/session1/181_afrocuban_105_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000103",
+      "midi_filename": "drummer1/session1/182_afrocuban_105_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000104",
+      "midi_filename": "drummer1/session1/183_afrocuban_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000105",
+      "midi_filename": "drummer1/session1/184_reggae_78_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000106",
+      "midi_filename": "drummer1/session1/185_reggae_78_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000107",
+      "midi_filename": "drummer1/session1/186_reggae_78_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000108",
+      "midi_filename": "drummer1/session1/187_reggae_78_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000109",
+      "midi_filename": "drummer1/session1/188_reggae_78_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000111",
+      "midi_filename": "drummer1/session1/19_jazz-funk_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000112",
+      "midi_filename": "drummer1/session1/190_reggae_78_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000113",
+      "midi_filename": "drummer1/session1/191_reggae_78_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000114",
+      "midi_filename": "drummer1/session1/192_reggae_78_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000115",
+      "midi_filename": "drummer1/session1/193_reggae_78_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000117",
+      "midi_filename": "drummer1/session1/195_reggae_78_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000119",
+      "midi_filename": "drummer1/session1/197_reggae_78_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000120",
+      "midi_filename": "drummer1/session1/198_reggae_78_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000121",
+      "midi_filename": "drummer1/session1/199_reggae_78_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000123",
+      "midi_filename": "drummer1/session1/20_jazz-funk_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000124",
+      "midi_filename": "drummer1/session1/200_reggae_78_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000125",
+      "midi_filename": "drummer1/session1/201_reggae-slow_64_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000126",
+      "midi_filename": "drummer1/session1/202_rock-halftime_140_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000128",
+      "midi_filename": "drummer1/session1/204_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000130",
+      "midi_filename": "drummer1/session1/206_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000132",
+      "midi_filename": "drummer1/session1/208_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000133",
+      "midi_filename": "drummer1/session1/209_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000134",
+      "midi_filename": "drummer1/session1/21_jazz-funk_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000135",
+      "midi_filename": "drummer1/session1/210_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000136",
+      "midi_filename": "drummer1/session1/211_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000138",
+      "midi_filename": "drummer1/session1/213_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000139",
+      "midi_filename": "drummer1/session1/214_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000140",
+      "midi_filename": "drummer1/session1/215_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000142",
+      "midi_filename": "drummer1/session1/217_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000144",
+      "midi_filename": "drummer1/session1/219_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000145",
+      "midi_filename": "drummer1/session1/22_jazz-funk_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000146",
+      "midi_filename": "drummer1/session1/220_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000147",
+      "midi_filename": "drummer1/session1/221_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000148",
+      "midi_filename": "drummer1/session1/222_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000149",
+      "midi_filename": "drummer1/session1/223_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000150",
+      "midi_filename": "drummer1/session1/224_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000151",
+      "midi_filename": "drummer1/session1/225_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000152",
+      "midi_filename": "drummer1/session1/226_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000153",
+      "midi_filename": "drummer1/session1/227_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000154",
+      "midi_filename": "drummer1/session1/228_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000155",
+      "midi_filename": "drummer1/session1/229_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000156",
+      "midi_filename": "drummer1/session1/23_jazz-funk_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000157",
+      "midi_filename": "drummer1/session1/230_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000158",
+      "midi_filename": "drummer1/session1/231_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000159",
+      "midi_filename": "drummer1/session1/232_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000160",
+      "midi_filename": "drummer1/session1/233_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000161",
+      "midi_filename": "drummer1/session1/234_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000162",
+      "midi_filename": "drummer1/session1/235_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000164",
+      "midi_filename": "drummer1/session1/237_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000167",
+      "midi_filename": "drummer1/session1/24_jazz-funk_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000168",
+      "midi_filename": "drummer1/session1/240_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000169",
+      "midi_filename": "drummer1/session1/241_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000170",
+      "midi_filename": "drummer1/session1/242_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000171",
+      "midi_filename": "drummer1/session1/243_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000172",
+      "midi_filename": "drummer1/session1/244_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000173",
+      "midi_filename": "drummer1/session1/245_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000174",
+      "midi_filename": "drummer1/session1/246_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000175",
+      "midi_filename": "drummer1/session1/247_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000176",
+      "midi_filename": "drummer1/session1/248_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000177",
+      "midi_filename": "drummer1/session1/249_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000178",
+      "midi_filename": "drummer1/session1/25_jazz-funk_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000180",
+      "midi_filename": "drummer1/session1/251_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000181",
+      "midi_filename": "drummer1/session1/252_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000182",
+      "midi_filename": "drummer1/session1/253_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000183",
+      "midi_filename": "drummer1/session1/254_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000185",
+      "midi_filename": "drummer1/session1/256_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000187",
+      "midi_filename": "drummer1/session1/258_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000189",
+      "midi_filename": "drummer1/session1/26_jazz-funk_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000190",
+      "midi_filename": "drummer1/session1/260_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000192",
+      "midi_filename": "drummer1/session1/262_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000193",
+      "midi_filename": "drummer1/session1/263_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000194",
+      "midi_filename": "drummer1/session1/264_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000195",
+      "midi_filename": "drummer1/session1/265_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000196",
+      "midi_filename": "drummer1/session1/266_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000197",
+      "midi_filename": "drummer1/session1/267_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000198",
+      "midi_filename": "drummer1/session1/268_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000199",
+      "midi_filename": "drummer1/session1/27_jazz-funk_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000202",
+      "midi_filename": "drummer1/session1/3_funk_80_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000205",
+      "midi_filename": "drummer1/session1/32_latin-samba_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000206",
+      "midi_filename": "drummer1/session1/33_latin-samba_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000207",
+      "midi_filename": "drummer1/session1/34_latin-samba_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000208",
+      "midi_filename": "drummer1/session1/35_latin-samba_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000209",
+      "midi_filename": "drummer1/session1/36_latin-samba_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000210",
+      "midi_filename": "drummer1/session1/37_latin-samba_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000212",
+      "midi_filename": "drummer1/session1/39_latin-samba_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000214",
+      "midi_filename": "drummer1/session1/40_latin-samba_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000216",
+      "midi_filename": "drummer1/session1/42_latin-samba_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000218",
+      "midi_filename": "drummer1/session1/44_latin-samba_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000219",
+      "midi_filename": "drummer1/session1/45_latin-samba_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000220",
+      "midi_filename": "drummer1/session1/46_latin-samba_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000221",
+      "midi_filename": "drummer1/session1/47_jazz_102_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000222",
+      "midi_filename": "drummer1/session1/48_jazz_93_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000223",
+      "midi_filename": "drummer1/session1/49_jazz_125_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000224",
+      "midi_filename": "drummer1/session1/5_jazz-funk_116_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000225",
+      "midi_filename": "drummer1/session1/50_jazz_125_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000226",
+      "midi_filename": "drummer1/session1/51_rock-shuffle_125_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000227",
+      "midi_filename": "drummer1/session1/52_jazz_125_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000228",
+      "midi_filename": "drummer1/session1/53_jazz_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000230",
+      "midi_filename": "drummer1/session1/55_jazz_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000231",
+      "midi_filename": "drummer1/session1/56_jazz_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000232",
+      "midi_filename": "drummer1/session1/57_jazz_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000233",
+      "midi_filename": "drummer1/session1/58_jazz_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000235",
+      "midi_filename": "drummer1/session1/6_jazz-funk_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000239",
+      "midi_filename": "drummer1/session1/63_jazz_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000240",
+      "midi_filename": "drummer1/session1/64_jazz_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000241",
+      "midi_filename": "drummer1/session1/65_jazz_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000242",
+      "midi_filename": "drummer1/session1/66_jazz_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000243",
+      "midi_filename": "drummer1/session1/67_jazz_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000244",
+      "midi_filename": "drummer1/session1/68_jazz_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000245",
+      "midi_filename": "drummer1/session1/69_jazz_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000247",
+      "midi_filename": "drummer1/session1/70_jazz_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000249",
+      "midi_filename": "drummer1/session1/72_jazz_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000250",
+      "midi_filename": "drummer1/session1/73_jazz_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000251",
+      "midi_filename": "drummer1/session1/74_jazz_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000252",
+      "midi_filename": "drummer1/session1/75_jazz_125_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000253",
+      "midi_filename": "drummer1/session1/76_jazz-mediumfast_180_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000254",
+      "midi_filename": "drummer1/session1/77_jazz-mediumfast_180_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000255",
+      "midi_filename": "drummer1/session1/78_jazz-fast_290_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000256",
+      "midi_filename": "drummer1/session1/79_latin-reggaeton_90_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000257",
+      "midi_filename": "drummer1/session1/8_jazz-funk_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000258",
+      "midi_filename": "drummer1/session1/80_dance-breakbeat_170_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000259",
+      "midi_filename": "drummer1/session1/81_dance-breakbeat_170_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000260",
+      "midi_filename": "drummer1/session1/82_neworleans-funk_84_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000261",
+      "midi_filename": "drummer1/session1/83_neworleans-funk_84_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000262",
+      "midi_filename": "drummer1/session1/84_neworleans-funk_84_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000263",
+      "midi_filename": "drummer1/session1/85_neworleans-funk_84_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000264",
+      "midi_filename": "drummer1/session1/86_neworleans-funk_84_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000265",
+      "midi_filename": "drummer1/session1/87_neworleans-funk_84_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000266",
+      "midi_filename": "drummer1/session1/88_neworleans-funk_84_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000267",
+      "midi_filename": "drummer1/session1/89_neworleans-funk_84_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000268",
+      "midi_filename": "drummer1/session1/9_jazz-funk_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000269",
+      "midi_filename": "drummer1/session1/90_neworleans-funk_84_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000270",
+      "midi_filename": "drummer1/session1/91_neworleans-funk_84_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000271",
+      "midi_filename": "drummer1/session1/92_neworleans-funk_84_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000273",
+      "midi_filename": "drummer1/session1/94_neworleans-funk_84_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000274",
+      "midi_filename": "drummer1/session1/95_neworleans-funk_84_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000275",
+      "midi_filename": "drummer1/session1/96_neworleans-funk_84_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000276",
+      "midi_filename": "drummer1/session1/97_neworleans-funk_84_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000280",
+      "midi_filename": "drummer1/session2/10_country_114_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000282",
+      "midi_filename": "drummer1/session2/101_funk-rock_92_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000283",
+      "midi_filename": "drummer1/session2/102_funk-rock_92_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000284",
+      "midi_filename": "drummer1/session2/103_funk-rock_92_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000285",
+      "midi_filename": "drummer1/session2/104_funk-rock_92_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000286",
+      "midi_filename": "drummer1/session2/105_funk-rock_92_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000287",
+      "midi_filename": "drummer1/session2/106_funk-rock_92_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000289",
+      "midi_filename": "drummer1/session2/108_funk-rock_92_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000290",
+      "midi_filename": "drummer1/session2/109_funk-rock_92_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000291",
+      "midi_filename": "drummer1/session2/11_country_114_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000293",
+      "midi_filename": "drummer1/session2/111_rock-prog_110_beat_5-4.mid"
+    },
+    {
+      "segment_id": "GMD000294",
+      "midi_filename": "drummer1/session2/112_afrocuban-bembe_122_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000295",
+      "midi_filename": "drummer1/session2/113_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000296",
+      "midi_filename": "drummer1/session2/114_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000297",
+      "midi_filename": "drummer1/session2/115_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000299",
+      "midi_filename": "drummer1/session2/117_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000300",
+      "midi_filename": "drummer1/session2/118_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000302",
+      "midi_filename": "drummer1/session2/12_country_114_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000303",
+      "midi_filename": "drummer1/session2/120_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000304",
+      "midi_filename": "drummer1/session2/121_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000305",
+      "midi_filename": "drummer1/session2/122_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000306",
+      "midi_filename": "drummer1/session2/123_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000307",
+      "midi_filename": "drummer1/session2/124_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000308",
+      "midi_filename": "drummer1/session2/125_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000309",
+      "midi_filename": "drummer1/session2/126_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000310",
+      "midi_filename": "drummer1/session2/127_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000311",
+      "midi_filename": "drummer1/session2/128_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000312",
+      "midi_filename": "drummer1/session2/129_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000313",
+      "midi_filename": "drummer1/session2/13_country_114_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000314",
+      "midi_filename": "drummer1/session2/130_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000316",
+      "midi_filename": "drummer1/session2/132_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000320",
+      "midi_filename": "drummer1/session2/136_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000321",
+      "midi_filename": "drummer1/session2/137_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000322",
+      "midi_filename": "drummer1/session2/138_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000323",
+      "midi_filename": "drummer1/session2/139_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000325",
+      "midi_filename": "drummer1/session2/140_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000326",
+      "midi_filename": "drummer1/session2/141_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000330",
+      "midi_filename": "drummer1/session2/145_gospel_120_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000331",
+      "midi_filename": "drummer1/session2/146_gospel_120_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000332",
+      "midi_filename": "drummer1/session2/147_gospel_120_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000333",
+      "midi_filename": "drummer1/session2/148_gospel_120_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000335",
+      "midi_filename": "drummer1/session2/15_country_114_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000337",
+      "midi_filename": "drummer1/session2/151_gospel_120_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000338",
+      "midi_filename": "drummer1/session2/152_gospel_120_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000339",
+      "midi_filename": "drummer1/session2/153_gospel_120_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000340",
+      "midi_filename": "drummer1/session2/154_gospel_120_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000341",
+      "midi_filename": "drummer1/session2/155_gospel_120_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000342",
+      "midi_filename": "drummer1/session2/156_gospel_120_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000343",
+      "midi_filename": "drummer1/session2/157_gospel_120_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000344",
+      "midi_filename": "drummer1/session2/158_gospel_120_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000345",
+      "midi_filename": "drummer1/session2/159_gospel_120_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000348",
+      "midi_filename": "drummer1/session2/161_afrocuban-rhumba_110_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000349",
+      "midi_filename": "drummer1/session2/162_afrocuban-rhumba_110_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000350",
+      "midi_filename": "drummer1/session2/163_afrocuban-rhumba_110_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000351",
+      "midi_filename": "drummer1/session2/164_afrocuban-rhumba_110_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000352",
+      "midi_filename": "drummer1/session2/165_afrocuban-rhumba_110_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000353",
+      "midi_filename": "drummer1/session2/166_afrocuban-rhumba_110_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000355",
+      "midi_filename": "drummer1/session2/168_afrocuban-rhumba_110_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000356",
+      "midi_filename": "drummer1/session2/169_afrocuban-rhumba_110_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000357",
+      "midi_filename": "drummer1/session2/17_country_114_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000358",
+      "midi_filename": "drummer1/session2/170_afrocuban-rhumba_110_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000359",
+      "midi_filename": "drummer1/session2/171_afrocuban-rhumba_110_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000360",
+      "midi_filename": "drummer1/session2/172_afrocuban-rhumba_110_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000361",
+      "midi_filename": "drummer1/session2/173_afrocuban-rhumba_110_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000362",
+      "midi_filename": "drummer1/session2/174_afrocuban-rhumba_110_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000363",
+      "midi_filename": "drummer1/session2/175_afrocuban-rhumba_110_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000364",
+      "midi_filename": "drummer1/session2/176_afrocuban-rhumba_110_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000365",
+      "midi_filename": "drummer1/session2/177_afrocuban-rhumba_110_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000366",
+      "midi_filename": "drummer1/session2/178_afrocuban-rhumba_110_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000367",
+      "midi_filename": "drummer1/session2/179_afrocuban-rhumba_110_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000369",
+      "midi_filename": "drummer1/session2/180_rock_50_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000370",
+      "midi_filename": "drummer1/session2/181_rock_115_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000371",
+      "midi_filename": "drummer1/session2/182_rock_115_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000372",
+      "midi_filename": "drummer1/session2/183_rock_115_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000373",
+      "midi_filename": "drummer1/session2/184_rock_115_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000375",
+      "midi_filename": "drummer1/session2/186_rock_115_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000376",
+      "midi_filename": "drummer1/session2/187_rock_115_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000378",
+      "midi_filename": "drummer1/session2/189_rock_115_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000379",
+      "midi_filename": "drummer1/session2/19_country_114_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000380",
+      "midi_filename": "drummer1/session2/190_rock_115_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000381",
+      "midi_filename": "drummer1/session2/191_rock_115_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000382",
+      "midi_filename": "drummer1/session2/192_rock_115_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000383",
+      "midi_filename": "drummer1/session2/193_rock_115_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000384",
+      "midi_filename": "drummer1/session2/194_rock_115_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000387",
+      "midi_filename": "drummer1/session2/197_rock_115_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000389",
+      "midi_filename": "drummer1/session2/2_latin-chacarera_118_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000390",
+      "midi_filename": "drummer1/session2/20_country_114_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000391",
+      "midi_filename": "drummer1/session2/21_country_114_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000392",
+      "midi_filename": "drummer1/session2/22_country_114_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000393",
+      "midi_filename": "drummer1/session2/23_country_114_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000396",
+      "midi_filename": "drummer1/session2/26_country_114_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000397",
+      "midi_filename": "drummer1/session2/27_country_114_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000398",
+      "midi_filename": "drummer1/session2/28_country_114_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000399",
+      "midi_filename": "drummer1/session2/29_country_114_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000400",
+      "midi_filename": "drummer1/session2/3_latin-chacarera_118_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000402",
+      "midi_filename": "drummer1/session2/31_country_114_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000403",
+      "midi_filename": "drummer1/session2/32_punk_140_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000404",
+      "midi_filename": "drummer1/session2/33_punk_128_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000405",
+      "midi_filename": "drummer1/session2/34_punk_128_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000407",
+      "midi_filename": "drummer1/session2/36_punk_128_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000408",
+      "midi_filename": "drummer1/session2/37_punk_128_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000410",
+      "midi_filename": "drummer1/session2/39_punk_128_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000411",
+      "midi_filename": "drummer1/session2/4_jazz_120_beat_3-4.mid"
+    },
+    {
+      "segment_id": "GMD000412",
+      "midi_filename": "drummer1/session2/40_punk_128_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000413",
+      "midi_filename": "drummer1/session2/41_punk_128_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000414",
+      "midi_filename": "drummer1/session2/42_punk_128_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000415",
+      "midi_filename": "drummer1/session2/43_punk_128_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000416",
+      "midi_filename": "drummer1/session2/44_punk_128_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000417",
+      "midi_filename": "drummer1/session2/45_punk_128_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000418",
+      "midi_filename": "drummer1/session2/46_punk_128_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000422",
+      "midi_filename": "drummer1/session2/5_jazz_200_beat_3-4.mid"
+    },
+    {
+      "segment_id": "GMD000423",
+      "midi_filename": "drummer1/session2/50_punk_128_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000424",
+      "midi_filename": "drummer1/session2/51_punk_128_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000425",
+      "midi_filename": "drummer1/session2/52_punk_128_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000426",
+      "midi_filename": "drummer1/session2/53_punk_128_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000427",
+      "midi_filename": "drummer1/session2/54_punk_128_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000428",
+      "midi_filename": "drummer1/session2/55_punk_128_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000429",
+      "midi_filename": "drummer1/session2/56_punk_128_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000431",
+      "midi_filename": "drummer1/session2/58_punk_128_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000432",
+      "midi_filename": "drummer1/session2/59_punk_128_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000433",
+      "midi_filename": "drummer1/session2/6_rock_102_beat_3-4.mid"
+    },
+    {
+      "segment_id": "GMD000434",
+      "midi_filename": "drummer1/session2/60_punk_128_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000435",
+      "midi_filename": "drummer1/session2/61_punk_128_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000437",
+      "midi_filename": "drummer1/session2/63_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000438",
+      "midi_filename": "drummer1/session2/64_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000439",
+      "midi_filename": "drummer1/session2/65_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000440",
+      "midi_filename": "drummer1/session2/66_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000442",
+      "midi_filename": "drummer1/session2/68_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000443",
+      "midi_filename": "drummer1/session2/69_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000444",
+      "midi_filename": "drummer1/session2/7_jazz-march_88_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000445",
+      "midi_filename": "drummer1/session2/70_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000446",
+      "midi_filename": "drummer1/session2/71_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000447",
+      "midi_filename": "drummer1/session2/72_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000448",
+      "midi_filename": "drummer1/session2/73_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000449",
+      "midi_filename": "drummer1/session2/74_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000450",
+      "midi_filename": "drummer1/session2/75_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000451",
+      "midi_filename": "drummer1/session2/76_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000452",
+      "midi_filename": "drummer1/session2/77_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000455",
+      "midi_filename": "drummer1/session2/8_jazz-march_176_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000456",
+      "midi_filename": "drummer1/session2/80_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000457",
+      "midi_filename": "drummer1/session2/81_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000459",
+      "midi_filename": "drummer1/session2/83_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000460",
+      "midi_filename": "drummer1/session2/84_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000461",
+      "midi_filename": "drummer1/session2/85_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000464",
+      "midi_filename": "drummer1/session2/88_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000465",
+      "midi_filename": "drummer1/session2/89_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000466",
+      "midi_filename": "drummer1/session2/9_jazz-march_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000467",
+      "midi_filename": "drummer1/session2/90_funk-rock_92_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000468",
+      "midi_filename": "drummer1/session2/91_funk-rock_92_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000469",
+      "midi_filename": "drummer1/session2/92_funk-rock_92_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000470",
+      "midi_filename": "drummer1/session2/93_funk-rock_92_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000471",
+      "midi_filename": "drummer1/session2/94_funk-rock_92_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000472",
+      "midi_filename": "drummer1/session2/95_funk-rock_92_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000473",
+      "midi_filename": "drummer1/session2/96_funk-rock_92_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000474",
+      "midi_filename": "drummer1/session2/97_funk-rock_92_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000477",
+      "midi_filename": "drummer1/session3/1_rock-prog_125_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000478",
+      "midi_filename": "drummer1/session3/10_rock-folk_90_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000479",
+      "midi_filename": "drummer1/session3/11_afrobeat_94_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000482",
+      "midi_filename": "drummer1/session3/14_rock_94_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000484",
+      "midi_filename": "drummer1/session3/16_funk_117_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000485",
+      "midi_filename": "drummer1/session3/17_afrocuban-calypso_108_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000486",
+      "midi_filename": "drummer1/session3/18_rock_128_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000487",
+      "midi_filename": "drummer1/session3/2_jazz-swing_185_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000488",
+      "midi_filename": "drummer1/session3/3_rock-rockabilly_200_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000489",
+      "midi_filename": "drummer1/session3/4_jazz-linear_182_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000490",
+      "midi_filename": "drummer1/session3/5_jazz-linear_128_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000491",
+      "midi_filename": "drummer1/session3/6_dance-disco_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000492",
+      "midi_filename": "drummer1/session3/7_dance-disco_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000493",
+      "midi_filename": "drummer1/session3/8_rock_135_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000494",
+      "midi_filename": "drummer1/session3/9_rock_135_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000495",
+      "midi_filename": "drummer10/session1/1_jazz-swing_124_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000496",
+      "midi_filename": "drummer10/session1/10_jazz-swing_110_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000497",
+      "midi_filename": "drummer10/session1/2_jazz-swing_215_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000498",
+      "midi_filename": "drummer10/session1/3_jazz-swing_215_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000499",
+      "midi_filename": "drummer10/session1/4_jazz-swing_215_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000500",
+      "midi_filename": "drummer10/session1/5_jazz-swing_215_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000501",
+      "midi_filename": "drummer10/session1/6_jazz-swing_215_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000502",
+      "midi_filename": "drummer10/session1/7_jazz-swing_215_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000503",
+      "midi_filename": "drummer10/session1/8_jazz-swing_215_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000504",
+      "midi_filename": "drummer10/session1/9_jazz-swing_110_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000505",
+      "midi_filename": "drummer2/session1/1_rock_110_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000506",
+      "midi_filename": "drummer2/session1/2_rock_102_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000507",
+      "midi_filename": "drummer3/session1/1_rock_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000508",
+      "midi_filename": "drummer3/session1/10_rock_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000510",
+      "midi_filename": "drummer3/session1/12_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000511",
+      "midi_filename": "drummer3/session1/13_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000514",
+      "midi_filename": "drummer3/session1/16_jazz_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000515",
+      "midi_filename": "drummer3/session1/17_jazz_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000516",
+      "midi_filename": "drummer3/session1/18_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000517",
+      "midi_filename": "drummer3/session1/19_jazz_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000518",
+      "midi_filename": "drummer3/session1/2_rock_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000519",
+      "midi_filename": "drummer3/session1/20_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000520",
+      "midi_filename": "drummer3/session1/21_jazz_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000521",
+      "midi_filename": "drummer3/session1/22_jazz_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000522",
+      "midi_filename": "drummer3/session1/23_jazz_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000523",
+      "midi_filename": "drummer3/session1/24_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000524",
+      "midi_filename": "drummer3/session1/25_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000526",
+      "midi_filename": "drummer3/session1/27_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000527",
+      "midi_filename": "drummer3/session1/28_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000528",
+      "midi_filename": "drummer3/session1/29_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000529",
+      "midi_filename": "drummer3/session1/3_rock_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000530",
+      "midi_filename": "drummer3/session1/30_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000531",
+      "midi_filename": "drummer3/session1/31_jazz_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000533",
+      "midi_filename": "drummer3/session1/33_jazz_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000534",
+      "midi_filename": "drummer3/session1/34_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000535",
+      "midi_filename": "drummer3/session1/35_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000536",
+      "midi_filename": "drummer3/session1/36_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000538",
+      "midi_filename": "drummer3/session1/38_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000540",
+      "midi_filename": "drummer3/session1/4_rock_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000541",
+      "midi_filename": "drummer3/session1/40_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000543",
+      "midi_filename": "drummer3/session1/42_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000545",
+      "midi_filename": "drummer3/session1/44_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000546",
+      "midi_filename": "drummer3/session1/45_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000547",
+      "midi_filename": "drummer3/session1/46_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000548",
+      "midi_filename": "drummer3/session1/47_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000549",
+      "midi_filename": "drummer3/session1/48_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000550",
+      "midi_filename": "drummer3/session1/49_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000551",
+      "midi_filename": "drummer3/session1/5_rock_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000552",
+      "midi_filename": "drummer3/session1/50_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000553",
+      "midi_filename": "drummer3/session1/6_rock_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000555",
+      "midi_filename": "drummer3/session1/8_jazz_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000556",
+      "midi_filename": "drummer3/session1/9_rock_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000557",
+      "midi_filename": "drummer3/session2/1_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000560",
+      "midi_filename": "drummer3/session2/12_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000561",
+      "midi_filename": "drummer3/session2/13_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000562",
+      "midi_filename": "drummer3/session2/14_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000563",
+      "midi_filename": "drummer3/session2/15_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000564",
+      "midi_filename": "drummer3/session2/16_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000565",
+      "midi_filename": "drummer3/session2/17_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000566",
+      "midi_filename": "drummer3/session2/18_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000567",
+      "midi_filename": "drummer3/session2/19_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000568",
+      "midi_filename": "drummer3/session2/2_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000569",
+      "midi_filename": "drummer3/session2/20_rock_92_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000570",
+      "midi_filename": "drummer3/session2/21_rock_92_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000571",
+      "midi_filename": "drummer3/session2/22_rock_92_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000572",
+      "midi_filename": "drummer3/session2/23_rock_92_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000573",
+      "midi_filename": "drummer3/session2/24_rock_92_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000575",
+      "midi_filename": "drummer3/session2/26_hiphop_92_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000576",
+      "midi_filename": "drummer3/session2/27_jazz_92_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000577",
+      "midi_filename": "drummer3/session2/28_rock_92_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000578",
+      "midi_filename": "drummer3/session2/29_rock_92_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000579",
+      "midi_filename": "drummer3/session2/3_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000580",
+      "midi_filename": "drummer3/session2/30_rock_92_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000581",
+      "midi_filename": "drummer3/session2/31_hiphop_92_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000582",
+      "midi_filename": "drummer3/session2/32_hiphop_92_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000583",
+      "midi_filename": "drummer3/session2/33_hiphop_92_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000584",
+      "midi_filename": "drummer3/session2/34_rock_92_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000586",
+      "midi_filename": "drummer3/session2/36_rock_92_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000587",
+      "midi_filename": "drummer3/session2/37_rock_92_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000588",
+      "midi_filename": "drummer3/session2/38_rock_92_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000589",
+      "midi_filename": "drummer3/session2/39_rock_92_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000590",
+      "midi_filename": "drummer3/session2/4_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000591",
+      "midi_filename": "drummer3/session2/40_hiphop_110_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000592",
+      "midi_filename": "drummer3/session2/41_hiphop_110_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000593",
+      "midi_filename": "drummer3/session2/42_rock_110_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000594",
+      "midi_filename": "drummer3/session2/43_rock_110_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000595",
+      "midi_filename": "drummer3/session2/44_rock_110_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000596",
+      "midi_filename": "drummer3/session2/45_rock_110_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000597",
+      "midi_filename": "drummer3/session2/46_rock_110_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000598",
+      "midi_filename": "drummer3/session2/47_rock_110_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000599",
+      "midi_filename": "drummer3/session2/48_rock_110_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000601",
+      "midi_filename": "drummer3/session2/6_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000602",
+      "midi_filename": "drummer3/session2/7_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000603",
+      "midi_filename": "drummer3/session2/8_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000604",
+      "midi_filename": "drummer3/session2/9_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000605",
+      "midi_filename": "drummer4/session1/1_rock_87_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000607",
+      "midi_filename": "drummer4/session1/3_jazz-klezmer_152_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000608",
+      "midi_filename": "drummer4/session1/4_latin-brazilian_92_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000610",
+      "midi_filename": "drummer4/session1/6_blues-shuffle_134_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000611",
+      "midi_filename": "drummer4/session1/7_blues-shuffle_134_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000612",
+      "midi_filename": "drummer4/session1/8_blues-shuffle_112_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000613",
+      "midi_filename": "drummer4/session1/9_latin-merengue_158_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000624",
+      "midi_filename": "drummer5/session1/1_latin-brazilian-bossa_127_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000625",
+      "midi_filename": "drummer5/session1/10_latin-brazilian-sambareggae_96_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000628",
+      "midi_filename": "drummer5/session1/13_afrocuban-calypso_124_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000629",
+      "midi_filename": "drummer5/session1/14_latin-brazilian-songo_112_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000630",
+      "midi_filename": "drummer5/session1/15_funk_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000631",
+      "midi_filename": "drummer5/session1/16_rock_136_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000632",
+      "midi_filename": "drummer5/session1/17_blues-shuffle_72_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000633",
+      "midi_filename": "drummer5/session1/18_afrocuban_128_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000634",
+      "midi_filename": "drummer5/session1/19_middleeastern_126_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000635",
+      "midi_filename": "drummer5/session1/2_latin-brazilian-bossa_127_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000636",
+      "midi_filename": "drummer5/session1/20_latin-brazilian-baiao_110_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000637",
+      "midi_filename": "drummer5/session1/3_latin-brazilian-samba_89_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000639",
+      "midi_filename": "drummer5/session1/5_latin-brazilian-samba_89_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000640",
+      "midi_filename": "drummer5/session1/6_latin-brazilian-maracatu_96_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000642",
+      "midi_filename": "drummer5/session1/8_latin-venezuelan-merengue_162_beat_5-8.mid"
+    },
+    {
+      "segment_id": "GMD000643",
+      "midi_filename": "drummer5/session1/9_latin-dominican-merengue_130_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000644",
+      "midi_filename": "drummer5/session2/1_latin-venezuelan-sangueo_101_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000645",
+      "midi_filename": "drummer5/session2/10_neworleans-funk_102_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000646",
+      "midi_filename": "drummer5/session2/11_soul_96_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000647",
+      "midi_filename": "drummer5/session2/12_rock_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000648",
+      "midi_filename": "drummer5/session2/13_rock_140_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000649",
+      "midi_filename": "drummer5/session2/14_rock_140_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000651",
+      "midi_filename": "drummer5/session2/16_latin-ando_125_beat_3-4.mid"
+    },
+    {
+      "segment_id": "GMD000653",
+      "midi_filename": "drummer5/session2/18_latin-brazilian-samba_93_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000654",
+      "midi_filename": "drummer5/session2/19_latin-brazilian-ijexa_108_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000655",
+      "midi_filename": "drummer5/session2/2_latin-brazilian_101_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000656",
+      "midi_filename": "drummer5/session2/20_latin-brazilian-ijexa_108_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000657",
+      "midi_filename": "drummer5/session2/21_latin-brazilian-ijexa_108_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000659",
+      "midi_filename": "drummer5/session2/23_latin-brazilian-songo_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000660",
+      "midi_filename": "drummer5/session2/24_latin-brazilian-songo_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000661",
+      "midi_filename": "drummer5/session2/3_latin-brazilian_101_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000663",
+      "midi_filename": "drummer5/session2/5_reggae_126_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000664",
+      "midi_filename": "drummer5/session2/6_neworleans-secondline_99_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000665",
+      "midi_filename": "drummer5/session2/7_neworleans-secondline_124_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000666",
+      "midi_filename": "drummer5/session2/8_neworleans-chacha_124_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000667",
+      "midi_filename": "drummer5/session2/9_neworleans-shuffle_104_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000668",
+      "midi_filename": "drummer6/session1/1_rock_70_beat_6-8.mid"
+    },
+    {
+      "segment_id": "GMD000669",
+      "midi_filename": "drummer6/session1/2_rock_70_beat_6-8.mid"
+    },
+    {
+      "segment_id": "GMD000670",
+      "midi_filename": "drummer6/session1/3_rock_80_beat_6-8.mid"
+    },
+    {
+      "segment_id": "GMD000672",
+      "midi_filename": "drummer6/session1/5_rock_60_beat_6-8.mid"
+    },
+    {
+      "segment_id": "GMD000673",
+      "midi_filename": "drummer6/session2/1_rock_95_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000674",
+      "midi_filename": "drummer6/session2/2_rock_95_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000675",
+      "midi_filename": "drummer6/session2/3_rock_88_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000677",
+      "midi_filename": "drummer6/session3/2_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000678",
+      "midi_filename": "drummer6/session3/3_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000681",
+      "midi_filename": "drummer6/session3/6_rock_88_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000682",
+      "midi_filename": "drummer6/session3/7_rock_88_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000693",
+      "midi_filename": "drummer7/session1/1_rock_86_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000694",
+      "midi_filename": "drummer7/session1/10_rock_93_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000695",
+      "midi_filename": "drummer7/session1/11_rock_93_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000696",
+      "midi_filename": "drummer7/session1/12_funk_102_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000699",
+      "midi_filename": "drummer7/session1/15_jazz_112_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000701",
+      "midi_filename": "drummer7/session1/17_hiphop_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000702",
+      "midi_filename": "drummer7/session1/18_hiphop_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000703",
+      "midi_filename": "drummer7/session1/19_hiphop_100_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000705",
+      "midi_filename": "drummer7/session1/20_hiphop_100_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000706",
+      "midi_filename": "drummer7/session1/21_hiphop_100_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000707",
+      "midi_filename": "drummer7/session1/22_hiphop_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000708",
+      "midi_filename": "drummer7/session1/23_hiphop_100_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000709",
+      "midi_filename": "drummer7/session1/24_hiphop_100_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000710",
+      "midi_filename": "drummer7/session1/25_hiphop_100_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000711",
+      "midi_filename": "drummer7/session1/26_hiphop_100_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000713",
+      "midi_filename": "drummer7/session1/28_hiphop_100_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000715",
+      "midi_filename": "drummer7/session1/3_rock_86_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000716",
+      "midi_filename": "drummer7/session1/30_hiphop_100_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000717",
+      "midi_filename": "drummer7/session1/31_hiphop_100_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000718",
+      "midi_filename": "drummer7/session1/32_hiphop_100_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000720",
+      "midi_filename": "drummer7/session1/34_hiphop_100_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000721",
+      "midi_filename": "drummer7/session1/35_hiphop_100_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000722",
+      "midi_filename": "drummer7/session1/36_hiphop_100_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000723",
+      "midi_filename": "drummer7/session1/37_hiphop_100_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000724",
+      "midi_filename": "drummer7/session1/38_hiphop_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000725",
+      "midi_filename": "drummer7/session1/39_hiphop_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000726",
+      "midi_filename": "drummer7/session1/4_rock_86_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000727",
+      "midi_filename": "drummer7/session1/40_hiphop_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000728",
+      "midi_filename": "drummer7/session1/5_rock_86_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000729",
+      "midi_filename": "drummer7/session1/6_rock_86_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000730",
+      "midi_filename": "drummer7/session1/7_rock_93_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000731",
+      "midi_filename": "drummer7/session1/8_rock_93_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000732",
+      "midi_filename": "drummer7/session1/9_rock_93_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000733",
+      "midi_filename": "drummer7/session2/1_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000736",
+      "midi_filename": "drummer7/session2/101_pop_142_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000738",
+      "midi_filename": "drummer7/session2/103_pop_132_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000739",
+      "midi_filename": "drummer7/session2/104_pop_132_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000740",
+      "midi_filename": "drummer7/session2/105_pop_132_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000741",
+      "midi_filename": "drummer7/session2/106_soul-motown_104_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000743",
+      "midi_filename": "drummer7/session2/108_soul-motown_104_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000744",
+      "midi_filename": "drummer7/session2/109_soul-motown_104_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000745",
+      "midi_filename": "drummer7/session2/11_rock_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000746",
+      "midi_filename": "drummer7/session2/110_soul-motown_104_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000747",
+      "midi_filename": "drummer7/session2/111_soul-motown_104_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000751",
+      "midi_filename": "drummer7/session2/115_jazz-fusion_96_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000752",
+      "midi_filename": "drummer7/session2/116_jazz-fusion_96_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000753",
+      "midi_filename": "drummer7/session2/117_jazz-fusion_96_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000754",
+      "midi_filename": "drummer7/session2/118_jazz-fusion_96_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000756",
+      "midi_filename": "drummer7/session2/12_rock_95_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000758",
+      "midi_filename": "drummer7/session2/121_jazz-fusion_96_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000760",
+      "midi_filename": "drummer7/session2/123_hiphop_140_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000761",
+      "midi_filename": "drummer7/session2/124_hiphop_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000762",
+      "midi_filename": "drummer7/session2/125_hiphop_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000763",
+      "midi_filename": "drummer7/session2/126_hiphop_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000764",
+      "midi_filename": "drummer7/session2/127_hiphop_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000765",
+      "midi_filename": "drummer7/session2/128_hiphop_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000766",
+      "midi_filename": "drummer7/session2/129_hiphop_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000767",
+      "midi_filename": "drummer7/session2/13_rock_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000768",
+      "midi_filename": "drummer7/session2/130_hiphop_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000769",
+      "midi_filename": "drummer7/session2/131_hiphop_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000770",
+      "midi_filename": "drummer7/session2/132_hiphop_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000775",
+      "midi_filename": "drummer7/session2/17_rock_118_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000777",
+      "midi_filename": "drummer7/session2/19_rock_118_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000779",
+      "midi_filename": "drummer7/session2/20_rock_118_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000780",
+      "midi_filename": "drummer7/session2/21_rock_118_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000781",
+      "midi_filename": "drummer7/session2/22_rock_118_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000782",
+      "midi_filename": "drummer7/session2/23_rock_118_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000783",
+      "midi_filename": "drummer7/session2/24_rock_118_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000784",
+      "midi_filename": "drummer7/session2/25_rock_118_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000785",
+      "midi_filename": "drummer7/session2/26_rock_118_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000787",
+      "midi_filename": "drummer7/session2/28_rock_75_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000788",
+      "midi_filename": "drummer7/session2/29_rock_75_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000789",
+      "midi_filename": "drummer7/session2/3_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000790",
+      "midi_filename": "drummer7/session2/30_rock_75_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000791",
+      "midi_filename": "drummer7/session2/31_rock_75_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000792",
+      "midi_filename": "drummer7/session2/32_rock_75_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000793",
+      "midi_filename": "drummer7/session2/33_rock_75_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000794",
+      "midi_filename": "drummer7/session2/34_rock_75_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000796",
+      "midi_filename": "drummer7/session2/36_rock_75_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000797",
+      "midi_filename": "drummer7/session2/37_rock_112_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000798",
+      "midi_filename": "drummer7/session2/38_rock_112_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000799",
+      "midi_filename": "drummer7/session2/39_rock_112_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000800",
+      "midi_filename": "drummer7/session2/4_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000802",
+      "midi_filename": "drummer7/session2/41_rock_112_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000803",
+      "midi_filename": "drummer7/session2/42_rock_112_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000804",
+      "midi_filename": "drummer7/session2/43_rock_112_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000805",
+      "midi_filename": "drummer7/session2/44_rock_112_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000806",
+      "midi_filename": "drummer7/session2/45_rock_135_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000810",
+      "midi_filename": "drummer7/session2/49_rock_135_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000811",
+      "midi_filename": "drummer7/session2/5_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000812",
+      "midi_filename": "drummer7/session2/50_rock_135_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000813",
+      "midi_filename": "drummer7/session2/51_rock_135_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000814",
+      "midi_filename": "drummer7/session2/52_rock_135_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000816",
+      "midi_filename": "drummer7/session2/54_soul-motown_148_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000817",
+      "midi_filename": "drummer7/session2/55_soul-motown_148_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000818",
+      "midi_filename": "drummer7/session2/56_soul-motown_148_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000819",
+      "midi_filename": "drummer7/session2/57_soul-motown_148_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000821",
+      "midi_filename": "drummer7/session2/59_soul-motown_148_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000822",
+      "midi_filename": "drummer7/session2/6_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000823",
+      "midi_filename": "drummer7/session2/60_soul-motown_148_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000824",
+      "midi_filename": "drummer7/session2/61_soul-motown_148_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000826",
+      "midi_filename": "drummer7/session2/63_soul-motown_148_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000827",
+      "midi_filename": "drummer7/session2/64_rock_145_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000828",
+      "midi_filename": "drummer7/session2/65_rock_145_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000830",
+      "midi_filename": "drummer7/session2/67_rock_145_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000831",
+      "midi_filename": "drummer7/session2/68_rock_145_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000832",
+      "midi_filename": "drummer7/session2/69_rock_145_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000833",
+      "midi_filename": "drummer7/session2/7_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000835",
+      "midi_filename": "drummer7/session2/71_rock_145_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000836",
+      "midi_filename": "drummer7/session2/72_funk_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000838",
+      "midi_filename": "drummer7/session2/74_funk_100_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000839",
+      "midi_filename": "drummer7/session2/75_funk_100_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000840",
+      "midi_filename": "drummer7/session2/76_funk_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000841",
+      "midi_filename": "drummer7/session2/77_funk_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000842",
+      "midi_filename": "drummer7/session2/78_funk_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000843",
+      "midi_filename": "drummer7/session2/79_funk_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000845",
+      "midi_filename": "drummer7/session2/80_country_78_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000846",
+      "midi_filename": "drummer7/session2/81_country_78_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000849",
+      "midi_filename": "drummer7/session2/84_country_78_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000850",
+      "midi_filename": "drummer7/session2/85_country_78_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000851",
+      "midi_filename": "drummer7/session2/86_country_78_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000852",
+      "midi_filename": "drummer7/session2/87_hiphop_75_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000853",
+      "midi_filename": "drummer7/session2/88_hiphop_75_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000854",
+      "midi_filename": "drummer7/session2/89_hiphop_75_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000855",
+      "midi_filename": "drummer7/session2/9_rock_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000856",
+      "midi_filename": "drummer7/session2/90_hiphop_75_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000858",
+      "midi_filename": "drummer7/session2/92_hiphop_75_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000860",
+      "midi_filename": "drummer7/session2/94_hiphop_75_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000861",
+      "midi_filename": "drummer7/session2/95_hiphop_75_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000863",
+      "midi_filename": "drummer7/session2/97_pop_142_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000864",
+      "midi_filename": "drummer7/session2/98_pop_142_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000865",
+      "midi_filename": "drummer7/session2/99_pop_142_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000866",
+      "midi_filename": "drummer7/session3/1_rock_60_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000867",
+      "midi_filename": "drummer7/session3/10_rock_60_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000868",
+      "midi_filename": "drummer7/session3/100_hiphop_70_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000869",
+      "midi_filename": "drummer7/session3/101_hiphop_70_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000870",
+      "midi_filename": "drummer7/session3/102_hiphop_70_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000871",
+      "midi_filename": "drummer7/session3/103_hiphop_70_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000872",
+      "midi_filename": "drummer7/session3/104_hiphop_70_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000873",
+      "midi_filename": "drummer7/session3/105_hiphop_70_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000874",
+      "midi_filename": "drummer7/session3/106_hiphop_70_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000876",
+      "midi_filename": "drummer7/session3/108_rock_95_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000879",
+      "midi_filename": "drummer7/session3/110_rock_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000880",
+      "midi_filename": "drummer7/session3/111_rock_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000881",
+      "midi_filename": "drummer7/session3/112_rock_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000882",
+      "midi_filename": "drummer7/session3/113_rock_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000883",
+      "midi_filename": "drummer7/session3/114_rock_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000884",
+      "midi_filename": "drummer7/session3/115_rock_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000885",
+      "midi_filename": "drummer7/session3/116_rock_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000887",
+      "midi_filename": "drummer7/session3/118_rock_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000888",
+      "midi_filename": "drummer7/session3/119_rock_95_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000889",
+      "midi_filename": "drummer7/session3/12_pop-soft_83_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000890",
+      "midi_filename": "drummer7/session3/120_rock_93_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000891",
+      "midi_filename": "drummer7/session3/121_rock_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000893",
+      "midi_filename": "drummer7/session3/123_rock_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000894",
+      "midi_filename": "drummer7/session3/124_rock_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000895",
+      "midi_filename": "drummer7/session3/125_rock_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000896",
+      "midi_filename": "drummer7/session3/126_rock_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000897",
+      "midi_filename": "drummer7/session3/127_rock_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000899",
+      "midi_filename": "drummer7/session3/129_rock_93_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000900",
+      "midi_filename": "drummer7/session3/13_pop-soft_83_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000901",
+      "midi_filename": "drummer7/session3/130_soul_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000902",
+      "midi_filename": "drummer7/session3/131_soul_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000906",
+      "midi_filename": "drummer7/session3/135_soul_105_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000908",
+      "midi_filename": "drummer7/session3/137_soul_105_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000910",
+      "midi_filename": "drummer7/session3/139_soul_105_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000912",
+      "midi_filename": "drummer7/session3/140_soul_105_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000913",
+      "midi_filename": "drummer7/session3/141_soul_105_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000914",
+      "midi_filename": "drummer7/session3/142_soul_105_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000917",
+      "midi_filename": "drummer7/session3/145_soul_105_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000918",
+      "midi_filename": "drummer7/session3/146_soul_105_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000919",
+      "midi_filename": "drummer7/session3/147_soul_105_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000920",
+      "midi_filename": "drummer7/session3/148_soul_105_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000921",
+      "midi_filename": "drummer7/session3/149_soul_105_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000922",
+      "midi_filename": "drummer7/session3/15_pop-soft_83_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000923",
+      "midi_filename": "drummer7/session3/150_soul_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000924",
+      "midi_filename": "drummer7/session3/151_soul_98_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000925",
+      "midi_filename": "drummer7/session3/152_soul_98_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000926",
+      "midi_filename": "drummer7/session3/153_soul_98_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000927",
+      "midi_filename": "drummer7/session3/154_soul_98_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000929",
+      "midi_filename": "drummer7/session3/156_soul_98_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000930",
+      "midi_filename": "drummer7/session3/157_soul_98_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000931",
+      "midi_filename": "drummer7/session3/158_soul_98_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000932",
+      "midi_filename": "drummer7/session3/159_soul_98_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000933",
+      "midi_filename": "drummer7/session3/16_pop-soft_83_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000934",
+      "midi_filename": "drummer7/session3/17_pop-soft_83_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000935",
+      "midi_filename": "drummer7/session3/18_pop-soft_83_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000936",
+      "midi_filename": "drummer7/session3/19_pop-soft_83_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000937",
+      "midi_filename": "drummer7/session3/2_rock_60_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000938",
+      "midi_filename": "drummer7/session3/20_pop-soft_83_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000939",
+      "midi_filename": "drummer7/session3/21_pop-soft_83_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000941",
+      "midi_filename": "drummer7/session3/23_pop-soft_83_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000943",
+      "midi_filename": "drummer7/session3/25_hiphop_67_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000944",
+      "midi_filename": "drummer7/session3/26_hiphop_67_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000945",
+      "midi_filename": "drummer7/session3/27_hiphop_67_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000946",
+      "midi_filename": "drummer7/session3/28_hiphop_67_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000947",
+      "midi_filename": "drummer7/session3/29_hiphop_67_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000948",
+      "midi_filename": "drummer7/session3/3_rock_60_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000949",
+      "midi_filename": "drummer7/session3/30_hiphop_67_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000950",
+      "midi_filename": "drummer7/session3/31_hiphop_67_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000951",
+      "midi_filename": "drummer7/session3/32_hiphop_67_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000952",
+      "midi_filename": "drummer7/session3/33_hiphop_67_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000954",
+      "midi_filename": "drummer7/session3/35_hiphop_67_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000955",
+      "midi_filename": "drummer7/session3/36_hiphop_67_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000956",
+      "midi_filename": "drummer7/session3/37_hiphop_67_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000957",
+      "midi_filename": "drummer7/session3/38_hiphop_67_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000958",
+      "midi_filename": "drummer7/session3/39_rock-indie_63_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000959",
+      "midi_filename": "drummer7/session3/4_rock_60_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000960",
+      "midi_filename": "drummer7/session3/40_rock-indie_63_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000961",
+      "midi_filename": "drummer7/session3/41_rock-indie_63_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000962",
+      "midi_filename": "drummer7/session3/42_rock-indie_63_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000964",
+      "midi_filename": "drummer7/session3/44_rock-indie_63_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000966",
+      "midi_filename": "drummer7/session3/46_rock-indie_63_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000967",
+      "midi_filename": "drummer7/session3/47_funk_112_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000968",
+      "midi_filename": "drummer7/session3/48_funk_112_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000969",
+      "midi_filename": "drummer7/session3/49_funk_112_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000971",
+      "midi_filename": "drummer7/session3/50_funk_112_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000972",
+      "midi_filename": "drummer7/session3/51_funk_112_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000973",
+      "midi_filename": "drummer7/session3/52_funk_112_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000975",
+      "midi_filename": "drummer7/session3/54_funk_112_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000976",
+      "midi_filename": "drummer7/session3/55_funk_112_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000977",
+      "midi_filename": "drummer7/session3/56_funk_112_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000978",
+      "midi_filename": "drummer7/session3/57_funk_112_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000979",
+      "midi_filename": "drummer7/session3/58_funk_112_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000980",
+      "midi_filename": "drummer7/session3/59_funk_112_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000981",
+      "midi_filename": "drummer7/session3/6_rock_60_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000982",
+      "midi_filename": "drummer7/session3/60_funk_112_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000983",
+      "midi_filename": "drummer7/session3/61_funk_112_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000984",
+      "midi_filename": "drummer7/session3/62_funk_112_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000985",
+      "midi_filename": "drummer7/session3/63_funk_112_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000986",
+      "midi_filename": "drummer7/session3/64_funk_112_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000987",
+      "midi_filename": "drummer7/session3/65_funk_112_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000988",
+      "midi_filename": "drummer7/session3/66_funk_112_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000989",
+      "midi_filename": "drummer7/session3/67_neworleans-funk_93_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000990",
+      "midi_filename": "drummer7/session3/68_neworleans-funk_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000991",
+      "midi_filename": "drummer7/session3/69_neworleans-funk_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000992",
+      "midi_filename": "drummer7/session3/7_rock_60_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000994",
+      "midi_filename": "drummer7/session3/71_neworleans-funk_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000995",
+      "midi_filename": "drummer7/session3/72_neworleans-funk_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000997",
+      "midi_filename": "drummer7/session3/74_neworleans-funk_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000998",
+      "midi_filename": "drummer7/session3/75_neworleans-funk_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000999",
+      "midi_filename": "drummer7/session3/76_neworleans-funk_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001000",
+      "midi_filename": "drummer7/session3/77_neworleans-funk_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001001",
+      "midi_filename": "drummer7/session3/78_neworleans-funk_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001002",
+      "midi_filename": "drummer7/session3/79_neworleans-funk_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001003",
+      "midi_filename": "drummer7/session3/8_rock_60_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001004",
+      "midi_filename": "drummer7/session3/80_neworleans-funk_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001005",
+      "midi_filename": "drummer7/session3/81_neworleans-funk_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001006",
+      "midi_filename": "drummer7/session3/82_neworleans-funk_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001007",
+      "midi_filename": "drummer7/session3/83_neworleans-funk_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001008",
+      "midi_filename": "drummer7/session3/84_neworleans-funk_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001013",
+      "midi_filename": "drummer7/session3/89_neworleans-funk_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001014",
+      "midi_filename": "drummer7/session3/9_rock_60_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001015",
+      "midi_filename": "drummer7/session3/90_neworleans-funk_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001016",
+      "midi_filename": "drummer7/session3/91_neworleans-funk_93_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001017",
+      "midi_filename": "drummer7/session3/92_hiphop_70_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001018",
+      "midi_filename": "drummer7/session3/93_hiphop_70_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001019",
+      "midi_filename": "drummer7/session3/94_hiphop_70_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001020",
+      "midi_filename": "drummer7/session3/95_hiphop_70_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001021",
+      "midi_filename": "drummer7/session3/96_hiphop_70_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001022",
+      "midi_filename": "drummer7/session3/97_hiphop_70_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001023",
+      "midi_filename": "drummer7/session3/98_hiphop_70_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001024",
+      "midi_filename": "drummer7/session3/99_hiphop_70_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001035",
+      "midi_filename": "drummer8/session1/1_funk_95_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001036",
+      "midi_filename": "drummer8/session1/10_neworleans-funk_82_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001037",
+      "midi_filename": "drummer8/session1/11_neworleans-funk_82_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001038",
+      "midi_filename": "drummer8/session1/12_latin_118_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001039",
+      "midi_filename": "drummer8/session1/13_latin_118_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001040",
+      "midi_filename": "drummer8/session1/14_hiphop_94_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001041",
+      "midi_filename": "drummer8/session1/15_hiphop_94_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001043",
+      "midi_filename": "drummer8/session1/17_afrobeat_90_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001046",
+      "midi_filename": "drummer8/session1/2_funk_95_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001047",
+      "midi_filename": "drummer8/session1/20_rock-shuffle_112_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001048",
+      "midi_filename": "drummer8/session1/21_rock-shuffle_112_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001049",
+      "midi_filename": "drummer8/session1/22_funk_115_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001050",
+      "midi_filename": "drummer8/session1/23_hiphop_70_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001051",
+      "midi_filename": "drummer8/session1/24_funk-latin_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001052",
+      "midi_filename": "drummer8/session1/25_funk-latin_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001053",
+      "midi_filename": "drummer8/session1/26_afrobeat_94_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001054",
+      "midi_filename": "drummer8/session1/27_latin_122_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001055",
+      "midi_filename": "drummer8/session1/28_rock_102_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001056",
+      "midi_filename": "drummer8/session1/3_hiphop_90_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001057",
+      "midi_filename": "drummer8/session1/4_hiphop_90_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001058",
+      "midi_filename": "drummer8/session1/5_hiphop_90_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001059",
+      "midi_filename": "drummer8/session1/6_funk_80_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001060",
+      "midi_filename": "drummer8/session1/7_funk_80_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001062",
+      "midi_filename": "drummer8/session1/9_funk_96_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001063",
+      "midi_filename": "drummer8/session2/1_funk_92_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001064",
+      "midi_filename": "drummer8/session2/10_hiphop_86_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001066",
+      "midi_filename": "drummer8/session2/12_funk_81_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001067",
+      "midi_filename": "drummer8/session2/13_afrobeat_103_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001068",
+      "midi_filename": "drummer8/session2/14_afrobeat_103_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001069",
+      "midi_filename": "drummer8/session2/15_funk_95_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001073",
+      "midi_filename": "drummer8/session2/19_neworleans-funk_90_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001074",
+      "midi_filename": "drummer8/session2/2_funk_92_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001075",
+      "midi_filename": "drummer8/session2/20_neworleans-funk_90_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001076",
+      "midi_filename": "drummer8/session2/21_afrobeat_110_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001077",
+      "midi_filename": "drummer8/session2/22_rock_96_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001079",
+      "midi_filename": "drummer8/session2/24_latin_84_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001080",
+      "midi_filename": "drummer8/session2/25_latin_84_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001081",
+      "midi_filename": "drummer8/session2/26_dance-disco_137_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001082",
+      "midi_filename": "drummer8/session2/27_dance-disco_137_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001083",
+      "midi_filename": "drummer8/session2/28_latin-bounce_106_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001084",
+      "midi_filename": "drummer8/session2/29_latin-bounce_106_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001085",
+      "midi_filename": "drummer8/session2/3_afrobeat_114_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001086",
+      "midi_filename": "drummer8/session2/30_afrobeat_98_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001087",
+      "midi_filename": "drummer8/session2/31_afrobeat_98_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001088",
+      "midi_filename": "drummer8/session2/32_rock_117_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001089",
+      "midi_filename": "drummer8/session2/33_rock_117_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001090",
+      "midi_filename": "drummer8/session2/34_latin-brazilian-songo_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001091",
+      "midi_filename": "drummer8/session2/35_latin-brazilian-songo_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001092",
+      "midi_filename": "drummer8/session2/36_latin_118_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001094",
+      "midi_filename": "drummer8/session2/38_rock_112_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001095",
+      "midi_filename": "drummer8/session2/39_rock-indie_104_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001096",
+      "midi_filename": "drummer8/session2/4_afrobeat_114_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001099",
+      "midi_filename": "drummer8/session2/42_highlife_126_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001100",
+      "midi_filename": "drummer8/session2/5_funk_91_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001101",
+      "midi_filename": "drummer8/session2/6_funk_91_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001102",
+      "midi_filename": "drummer8/session2/7_latin_95_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001103",
+      "midi_filename": "drummer8/session2/8_latin_95_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001104",
+      "midi_filename": "drummer8/session2/9_hiphop_86_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001105",
+      "midi_filename": "drummer9/session1/1_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001106",
+      "midi_filename": "drummer9/session1/10_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001107",
+      "midi_filename": "drummer9/session1/11_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001109",
+      "midi_filename": "drummer9/session1/13_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001110",
+      "midi_filename": "drummer9/session1/14_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001111",
+      "midi_filename": "drummer9/session1/15_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001112",
+      "midi_filename": "drummer9/session1/16_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001113",
+      "midi_filename": "drummer9/session1/17_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001114",
+      "midi_filename": "drummer9/session1/18_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001115",
+      "midi_filename": "drummer9/session1/19_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001116",
+      "midi_filename": "drummer9/session1/2_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001117",
+      "midi_filename": "drummer9/session1/20_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001118",
+      "midi_filename": "drummer9/session1/21_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001119",
+      "midi_filename": "drummer9/session1/22_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001120",
+      "midi_filename": "drummer9/session1/23_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001122",
+      "midi_filename": "drummer9/session1/25_rock_90_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001123",
+      "midi_filename": "drummer9/session1/26_rock_90_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001124",
+      "midi_filename": "drummer9/session1/27_rock_90_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001125",
+      "midi_filename": "drummer9/session1/28_rock_90_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001126",
+      "midi_filename": "drummer9/session1/29_rock_90_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001128",
+      "midi_filename": "drummer9/session1/30_rock_90_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001129",
+      "midi_filename": "drummer9/session1/4_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001130",
+      "midi_filename": "drummer9/session1/5_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001131",
+      "midi_filename": "drummer9/session1/6_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001133",
+      "midi_filename": "drummer9/session1/8_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001134",
+      "midi_filename": "drummer9/session1/9_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001135",
+      "midi_filename": "drummer2/session3/1_rock-shuffle_85_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001136",
+      "midi_filename": "drummer2/session2/1_rock_130_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001138",
+      "midi_filename": "drummer2/session2/3_rock_130_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001139",
+      "midi_filename": "drummer2/session2/4_rock_130_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001140",
+      "midi_filename": "drummer2/session2/5_rock_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001141",
+      "midi_filename": "drummer2/session2/6_rock_130_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001142",
+      "midi_filename": "drummer2/session2/7_rock_130_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001143",
+      "midi_filename": "drummer2/session2/8_rock_130_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001144",
+      "midi_filename": "drummer2/session2/9_rock_130_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001145",
+      "midi_filename": "drummer2/session2/10_rock_130_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001146",
+      "midi_filename": "drummer2/session2/11_rock_130_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001147",
+      "midi_filename": "drummer2/session2/12_rock_130_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001148",
+      "midi_filename": "drummer2/session2/13_rock_130_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001149",
+      "midi_filename": "drummer2/session2/14_rock_130_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001150",
+      "midi_filename": "drummer2/session2/15_rock_130_beat_4-4.mid"
+    }
+  ],
+  "validation": [
+    {
+      "segment_id": "GMD000036",
+      "midi_filename": "drummer1/session1/121_funk_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000041",
+      "midi_filename": "drummer1/session1/126_funk-fast_125_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000049",
+      "midi_filename": "drummer1/session1/133_funk-fast_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000057",
+      "midi_filename": "drummer1/session1/140_funk-fast_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000062",
+      "midi_filename": "drummer1/session1/145_latin-brazilian-baiao_95_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000064",
+      "midi_filename": "drummer1/session1/147_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000075",
+      "midi_filename": "drummer1/session1/157_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000078",
+      "midi_filename": "drummer1/session1/16_jazz-funk_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000081",
+      "midi_filename": "drummer1/session1/162_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000089",
+      "midi_filename": "drummer1/session1/17_jazz-funk_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000091",
+      "midi_filename": "drummer1/session1/171_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000118",
+      "midi_filename": "drummer1/session1/196_reggae_78_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000122",
+      "midi_filename": "drummer1/session1/2_funk_80_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000127",
+      "midi_filename": "drummer1/session1/203_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000129",
+      "midi_filename": "drummer1/session1/205_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000141",
+      "midi_filename": "drummer1/session1/216_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000143",
+      "midi_filename": "drummer1/session1/218_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000163",
+      "midi_filename": "drummer1/session1/236_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000165",
+      "midi_filename": "drummer1/session1/238_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000184",
+      "midi_filename": "drummer1/session1/255_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000186",
+      "midi_filename": "drummer1/session1/257_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000191",
+      "midi_filename": "drummer1/session1/261_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000203",
+      "midi_filename": "drummer1/session1/30_latin-samba_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000204",
+      "midi_filename": "drummer1/session1/31_latin-samba_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000211",
+      "midi_filename": "drummer1/session1/38_latin-samba_116_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000215",
+      "midi_filename": "drummer1/session1/41_latin-samba_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000234",
+      "midi_filename": "drummer1/session1/59_jazz_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000236",
+      "midi_filename": "drummer1/session1/60_jazz_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000237",
+      "midi_filename": "drummer1/session1/61_jazz_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000238",
+      "midi_filename": "drummer1/session1/62_jazz_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000246",
+      "midi_filename": "drummer1/session1/7_jazz-funk_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000278",
+      "midi_filename": "drummer1/session1/99_neworleans-funk_84_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000279",
+      "midi_filename": "drummer1/session2/1_latin-chacarera_157_beat_3-4.mid"
+    },
+    {
+      "segment_id": "GMD000281",
+      "midi_filename": "drummer1/session2/100_funk-rock_92_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000288",
+      "midi_filename": "drummer1/session2/107_funk-rock_92_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000317",
+      "midi_filename": "drummer1/session2/133_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000318",
+      "midi_filename": "drummer1/session2/134_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000319",
+      "midi_filename": "drummer1/session2/135_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000324",
+      "midi_filename": "drummer1/session2/14_country_114_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000327",
+      "midi_filename": "drummer1/session2/142_gospel_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000328",
+      "midi_filename": "drummer1/session2/143_gospel_120_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000329",
+      "midi_filename": "drummer1/session2/144_gospel_120_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000334",
+      "midi_filename": "drummer1/session2/149_gospel_120_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000336",
+      "midi_filename": "drummer1/session2/150_gospel_120_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000374",
+      "midi_filename": "drummer1/session2/185_rock_115_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000377",
+      "midi_filename": "drummer1/session2/188_rock_115_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000385",
+      "midi_filename": "drummer1/session2/195_rock_115_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000386",
+      "midi_filename": "drummer1/session2/196_rock_115_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000388",
+      "midi_filename": "drummer1/session2/198_rock_115_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000395",
+      "midi_filename": "drummer1/session2/25_country_114_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000409",
+      "midi_filename": "drummer1/session2/38_punk_128_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000430",
+      "midi_filename": "drummer1/session2/57_punk_128_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000436",
+      "midi_filename": "drummer1/session2/62_punk_144_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000441",
+      "midi_filename": "drummer1/session2/67_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000453",
+      "midi_filename": "drummer1/session2/78_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000454",
+      "midi_filename": "drummer1/session2/79_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000463",
+      "midi_filename": "drummer1/session2/87_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000480",
+      "midi_filename": "drummer1/session3/12_latin-bomba_96_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000481",
+      "midi_filename": "drummer1/session3/13_rock_115_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000483",
+      "midi_filename": "drummer1/session3/15_funk_117_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000513",
+      "midi_filename": "drummer3/session1/15_jazz_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000537",
+      "midi_filename": "drummer3/session1/37_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000539",
+      "midi_filename": "drummer3/session1/39_jazz_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000542",
+      "midi_filename": "drummer3/session1/41_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000554",
+      "midi_filename": "drummer3/session1/7_rock_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000574",
+      "midi_filename": "drummer3/session2/25_hiphop_92_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000600",
+      "midi_filename": "drummer3/session2/5_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000606",
+      "midi_filename": "drummer4/session1/2_jazz_158_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000609",
+      "midi_filename": "drummer4/session1/5_latin-brazilian_184_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000626",
+      "midi_filename": "drummer5/session1/11_latin-brazilian-sambareggae_96_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000638",
+      "midi_filename": "drummer5/session1/4_latin-brazilian-samba_89_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000650",
+      "midi_filename": "drummer5/session2/15_latin-venezuelan-joropo_80_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000652",
+      "midi_filename": "drummer5/session2/17_latin-brazilian-samba_110_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000658",
+      "midi_filename": "drummer5/session2/22_latin-brazilian-frevo_133_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000671",
+      "midi_filename": "drummer6/session1/4_rock_80_beat_6-8.mid"
+    },
+    {
+      "segment_id": "GMD000676",
+      "midi_filename": "drummer6/session3/1_rock_90_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000679",
+      "midi_filename": "drummer6/session3/4_rock_127_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000680",
+      "midi_filename": "drummer6/session3/5_rock_180_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000697",
+      "midi_filename": "drummer7/session1/13_funk_102_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000698",
+      "midi_filename": "drummer7/session1/14_jazz_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000704",
+      "midi_filename": "drummer7/session1/2_rock_86_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000719",
+      "midi_filename": "drummer7/session1/33_hiphop_100_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000734",
+      "midi_filename": "drummer7/session2/10_rock_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000735",
+      "midi_filename": "drummer7/session2/100_pop_142_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000737",
+      "midi_filename": "drummer7/session2/102_pop_132_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000742",
+      "midi_filename": "drummer7/session2/107_soul-motown_104_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000749",
+      "midi_filename": "drummer7/session2/113_jazz-fusion_96_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000755",
+      "midi_filename": "drummer7/session2/119_jazz-fusion_96_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000757",
+      "midi_filename": "drummer7/session2/120_jazz-fusion_96_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000771",
+      "midi_filename": "drummer7/session2/133_hiphop_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000772",
+      "midi_filename": "drummer7/session2/14_rock_95_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000773",
+      "midi_filename": "drummer7/session2/15_rock_118_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000774",
+      "midi_filename": "drummer7/session2/16_rock_118_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000786",
+      "midi_filename": "drummer7/session2/27_rock_75_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000807",
+      "midi_filename": "drummer7/session2/46_rock_135_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000808",
+      "midi_filename": "drummer7/session2/47_rock_135_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000809",
+      "midi_filename": "drummer7/session2/48_rock_135_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000820",
+      "midi_filename": "drummer7/session2/58_soul-motown_148_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000825",
+      "midi_filename": "drummer7/session2/62_soul-motown_148_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000829",
+      "midi_filename": "drummer7/session2/66_rock_145_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000834",
+      "midi_filename": "drummer7/session2/70_rock_145_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000837",
+      "midi_filename": "drummer7/session2/73_funk_100_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000844",
+      "midi_filename": "drummer7/session2/8_rock_95_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000847",
+      "midi_filename": "drummer7/session2/82_country_78_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000857",
+      "midi_filename": "drummer7/session2/91_hiphop_75_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000862",
+      "midi_filename": "drummer7/session2/96_pop_142_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000875",
+      "midi_filename": "drummer7/session3/107_hiphop_70_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000878",
+      "midi_filename": "drummer7/session3/11_pop-soft_83_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000905",
+      "midi_filename": "drummer7/session3/134_soul_105_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000907",
+      "midi_filename": "drummer7/session3/136_soul_105_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000915",
+      "midi_filename": "drummer7/session3/143_soul_105_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000916",
+      "midi_filename": "drummer7/session3/144_soul_105_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000928",
+      "midi_filename": "drummer7/session3/155_soul_98_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000940",
+      "midi_filename": "drummer7/session3/22_pop-soft_83_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000953",
+      "midi_filename": "drummer7/session3/34_hiphop_67_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000993",
+      "midi_filename": "drummer7/session3/70_neworleans-funk_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001012",
+      "midi_filename": "drummer7/session3/88_neworleans-funk_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001042",
+      "midi_filename": "drummer8/session1/16_afrobeat_90_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001044",
+      "midi_filename": "drummer8/session1/18_funk_108_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001065",
+      "midi_filename": "drummer8/session2/11_funk_81_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001072",
+      "midi_filename": "drummer8/session2/18_afrobeat_85_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001093",
+      "midi_filename": "drummer8/session2/37_rock_112_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001108",
+      "midi_filename": "drummer9/session1/12_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001137",
+      "midi_filename": "drummer2/session2/2_rock_130_beat_4-4.mid"
+    }
+  ],
+  "test": [
+    {
+      "segment_id": "GMD000001",
+      "midi_filename": "drummer1/eval_session/1_funk-groove1_138_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000002",
+      "midi_filename": "drummer1/eval_session/10_soul-groove10_102_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000003",
+      "midi_filename": "drummer1/eval_session/2_funk-groove2_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000004",
+      "midi_filename": "drummer1/eval_session/3_soul-groove3_86_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000005",
+      "midi_filename": "drummer1/eval_session/4_soul-groove4_80_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000006",
+      "midi_filename": "drummer1/eval_session/5_funk-groove5_84_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000007",
+      "midi_filename": "drummer1/eval_session/6_hiphop-groove6_87_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000008",
+      "midi_filename": "drummer1/eval_session/7_pop-groove7_138_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000009",
+      "midi_filename": "drummer1/eval_session/8_rock-groove8_65_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000010",
+      "midi_filename": "drummer1/eval_session/9_soul-groove9_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000018",
+      "midi_filename": "drummer1/session1/105_funk_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000058",
+      "midi_filename": "drummer1/session1/141_funk-fast_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000071",
+      "midi_filename": "drummer1/session1/153_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000085",
+      "midi_filename": "drummer1/session1/166_latin-brazilian-baiao_95_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000100",
+      "midi_filename": "drummer1/session1/18_jazz-funk_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000110",
+      "midi_filename": "drummer1/session1/189_reggae_78_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000116",
+      "midi_filename": "drummer1/session1/194_reggae_78_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000131",
+      "midi_filename": "drummer1/session1/207_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000137",
+      "midi_filename": "drummer1/session1/212_rock-halftime_140_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000166",
+      "midi_filename": "drummer1/session1/239_funk-purdieshuffle_130_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000179",
+      "midi_filename": "drummer1/session1/250_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000188",
+      "midi_filename": "drummer1/session1/259_funk-purdieshuffle_130_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000200",
+      "midi_filename": "drummer1/session1/28_latin-samba_116_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000201",
+      "midi_filename": "drummer1/session1/29_latin-samba_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000213",
+      "midi_filename": "drummer1/session1/4_jazz-funk_116_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000217",
+      "midi_filename": "drummer1/session1/43_latin-samba_116_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000229",
+      "midi_filename": "drummer1/session1/54_jazz_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000248",
+      "midi_filename": "drummer1/session1/71_jazz_125_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000272",
+      "midi_filename": "drummer1/session1/93_neworleans-funk_84_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000277",
+      "midi_filename": "drummer1/session1/98_neworleans-funk_84_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000292",
+      "midi_filename": "drummer1/session2/110_rock-prog_190_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000298",
+      "midi_filename": "drummer1/session2/116_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000301",
+      "midi_filename": "drummer1/session2/119_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000315",
+      "midi_filename": "drummer1/session2/131_afrocuban-bembe_122_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000346",
+      "midi_filename": "drummer1/session2/16_country_114_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000347",
+      "midi_filename": "drummer1/session2/160_gospel_120_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000354",
+      "midi_filename": "drummer1/session2/167_afrocuban-rhumba_110_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000368",
+      "midi_filename": "drummer1/session2/18_country_114_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000394",
+      "midi_filename": "drummer1/session2/24_country_114_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000401",
+      "midi_filename": "drummer1/session2/30_country_114_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000406",
+      "midi_filename": "drummer1/session2/35_punk_128_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000419",
+      "midi_filename": "drummer1/session2/47_punk_128_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000420",
+      "midi_filename": "drummer1/session2/48_punk_128_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000421",
+      "midi_filename": "drummer1/session2/49_punk_128_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000458",
+      "midi_filename": "drummer1/session2/82_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000462",
+      "midi_filename": "drummer1/session2/86_punk_144_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000475",
+      "midi_filename": "drummer1/session2/98_funk-rock_92_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000476",
+      "midi_filename": "drummer1/session2/99_funk-rock_92_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000509",
+      "midi_filename": "drummer3/session1/11_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000512",
+      "midi_filename": "drummer3/session1/14_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000525",
+      "midi_filename": "drummer3/session1/26_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000532",
+      "midi_filename": "drummer3/session1/32_jazz_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000544",
+      "midi_filename": "drummer3/session1/43_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000558",
+      "midi_filename": "drummer3/session2/10_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000559",
+      "midi_filename": "drummer3/session2/11_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000585",
+      "midi_filename": "drummer3/session2/35_rock_92_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000614",
+      "midi_filename": "drummer5/eval_session/1_funk-groove1_138_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000615",
+      "midi_filename": "drummer5/eval_session/10_soul-groove10_102_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000616",
+      "midi_filename": "drummer5/eval_session/2_funk-groove2_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000617",
+      "midi_filename": "drummer5/eval_session/3_soul-groove3_86_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000618",
+      "midi_filename": "drummer5/eval_session/4_soul-groove4_80_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000619",
+      "midi_filename": "drummer5/eval_session/5_funk-groove5_84_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000620",
+      "midi_filename": "drummer5/eval_session/6_hiphop-groove6_87_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000621",
+      "midi_filename": "drummer5/eval_session/7_pop-groove7_138_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000622",
+      "midi_filename": "drummer5/eval_session/8_rock-groove8_65_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000623",
+      "midi_filename": "drummer5/eval_session/9_soul-groove9_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000627",
+      "midi_filename": "drummer5/session1/12_latin-brazilian-sambareggae_96_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000641",
+      "midi_filename": "drummer5/session1/7_latin-brazilian-maracatu_96_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000662",
+      "midi_filename": "drummer5/session2/4_reggae_141_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000683",
+      "midi_filename": "drummer7/eval_session/1_funk-groove1_138_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000684",
+      "midi_filename": "drummer7/eval_session/10_soul-groove10_102_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000685",
+      "midi_filename": "drummer7/eval_session/2_funk-groove2_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000686",
+      "midi_filename": "drummer7/eval_session/3_soul-groove3_86_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000687",
+      "midi_filename": "drummer7/eval_session/4_soul-groove4_80_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000688",
+      "midi_filename": "drummer7/eval_session/5_funk-groove5_84_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000689",
+      "midi_filename": "drummer7/eval_session/6_hiphop-groove6_87_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000690",
+      "midi_filename": "drummer7/eval_session/7_pop-groove7_138_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000691",
+      "midi_filename": "drummer7/eval_session/8_rock-groove8_65_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000692",
+      "midi_filename": "drummer7/eval_session/9_soul-groove9_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000700",
+      "midi_filename": "drummer7/session1/16_hiphop_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000712",
+      "midi_filename": "drummer7/session1/27_hiphop_100_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000714",
+      "midi_filename": "drummer7/session1/29_hiphop_100_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000748",
+      "midi_filename": "drummer7/session2/112_jazz-fusion_96_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000750",
+      "midi_filename": "drummer7/session2/114_jazz-fusion_96_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000759",
+      "midi_filename": "drummer7/session2/122_jazz-fusion_96_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000776",
+      "midi_filename": "drummer7/session2/18_rock_118_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000778",
+      "midi_filename": "drummer7/session2/2_rock_120_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000795",
+      "midi_filename": "drummer7/session2/35_rock_75_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000801",
+      "midi_filename": "drummer7/session2/40_rock_112_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000815",
+      "midi_filename": "drummer7/session2/53_rock_135_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000848",
+      "midi_filename": "drummer7/session2/83_country_78_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000859",
+      "midi_filename": "drummer7/session2/93_hiphop_75_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000877",
+      "midi_filename": "drummer7/session3/109_rock_95_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000886",
+      "midi_filename": "drummer7/session3/117_rock_95_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000892",
+      "midi_filename": "drummer7/session3/122_rock_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000898",
+      "midi_filename": "drummer7/session3/128_rock_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000903",
+      "midi_filename": "drummer7/session3/132_soul_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000904",
+      "midi_filename": "drummer7/session3/133_soul_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000909",
+      "midi_filename": "drummer7/session3/138_soul_105_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000911",
+      "midi_filename": "drummer7/session3/14_pop-soft_83_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000942",
+      "midi_filename": "drummer7/session3/24_hiphop_67_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000963",
+      "midi_filename": "drummer7/session3/43_rock-indie_63_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000965",
+      "midi_filename": "drummer7/session3/45_rock-indie_63_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000970",
+      "midi_filename": "drummer7/session3/5_rock_60_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000974",
+      "midi_filename": "drummer7/session3/53_funk_112_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD000996",
+      "midi_filename": "drummer7/session3/73_neworleans-funk_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001009",
+      "midi_filename": "drummer7/session3/85_neworleans-funk_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001010",
+      "midi_filename": "drummer7/session3/86_neworleans-funk_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001011",
+      "midi_filename": "drummer7/session3/87_neworleans-funk_93_fill_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001025",
+      "midi_filename": "drummer8/eval_session/1_funk-groove1_138_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001026",
+      "midi_filename": "drummer8/eval_session/10_soul-groove10_102_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001027",
+      "midi_filename": "drummer8/eval_session/2_funk-groove2_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001028",
+      "midi_filename": "drummer8/eval_session/3_soul-groove3_86_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001029",
+      "midi_filename": "drummer8/eval_session/4_soul-groove4_80_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001030",
+      "midi_filename": "drummer8/eval_session/5_funk-groove5_84_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001031",
+      "midi_filename": "drummer8/eval_session/6_hiphop-groove6_87_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001032",
+      "midi_filename": "drummer8/eval_session/7_pop-groove7_138_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001033",
+      "midi_filename": "drummer8/eval_session/8_rock-groove8_65_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001034",
+      "midi_filename": "drummer8/eval_session/9_soul-groove9_105_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001045",
+      "midi_filename": "drummer8/session1/19_funk_108_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001061",
+      "midi_filename": "drummer8/session1/8_funk_96_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001070",
+      "midi_filename": "drummer8/session2/16_funk_95_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001071",
+      "midi_filename": "drummer8/session2/17_afrobeat_85_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001078",
+      "midi_filename": "drummer8/session2/23_rock_96_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001097",
+      "midi_filename": "drummer8/session2/40_rock-indie_104_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001098",
+      "midi_filename": "drummer8/session2/41_highlife_126_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001121",
+      "midi_filename": "drummer9/session1/24_rock_90_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001127",
+      "midi_filename": "drummer9/session1/3_rock_100_beat_4-4.mid"
+    },
+    {
+      "segment_id": "GMD001132",
+      "midi_filename": "drummer9/session1/7_rock_100_beat_4-4.mid"
+    }
+  ]
+}

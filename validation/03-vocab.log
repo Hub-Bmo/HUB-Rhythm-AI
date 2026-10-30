@@ -1,0 +1,72 @@
+讀取： gmd_sequences_v2.jsonl
+
+============================
+Vocabulary 建立完成
+Segment 數： 1150
+Vocabulary 大小： 133
+輸出： vocab.json
+============================
+
+最常出現的 30 個 token：
+<HIT_SET>                      266711
+<END_HIT_SET>                  266711
+<TIME_SHIFT_240>               194432
+<STROKE_snare>                 135269
+<STROKE_kick>                  88127
+<VEL_3>                        83377
+<VEL_8>                        78578
+<VEL_4>                        74500
+<STROKE_hihat_closed>          66581
+<VEL_5>                        63754
+<TIME_SHIFT_480>               61954
+<STROKE_hihat_pedal>           52345
+<VEL_2>                        47396
+<STROKE_ride>                  46104
+<VEL_6>                        43382
+<VEL_7>                        30741
+<VEL_1>                        24584
+<STROKE_tom_high>              14733
+<STROKE_hihat_open>            14152
+<STROKE_tom_low>               12279
+<STROKE_ride_bell>             5567
+<STROKE_tom_mid>               5278
+<TIME_SHIFT_720>               4974
+<TIME_SHIFT_960>               3979
+<STROKE_crash>                 3598
+<STROKE_splash>                2279
+<BOS>                          1150
+<SOURCE_GMD>                   1150
+<EOS>                          1150
+<TS_4-4>                       1138
+
+前 30 個 vocab ID：
+0 <PAD>
+1 <UNK>
+2 <HIT_SET>
+3 <END_HIT_SET>
+4 <TIME_SHIFT_240>
+5 <STROKE_snare>
+6 <STROKE_kick>
+7 <VEL_3>
+8 <VEL_8>
+9 <VEL_4>
+10 <STROKE_hihat_closed>
+11 <VEL_5>
+12 <TIME_SHIFT_480>
+13 <STROKE_hihat_pedal>
+14 <VEL_2>
+15 <STROKE_ride>
+16 <VEL_6>
+17 <VEL_7>
+18 <VEL_1>
+19 <STROKE_tom_high>
+20 <STROKE_hihat_open>
+21 <STROKE_tom_low>
+22 <STROKE_ride_bell>
+23 <STROKE_tom_mid>
+24 <TIME_SHIFT_720>
+25 <TIME_SHIFT_960>
+26 <STROKE_crash>
+27 <STROKE_splash>
+28 <BOS>
+29 <SOURCE_GMD>

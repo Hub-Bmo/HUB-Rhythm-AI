@@ -1,0 +1,734 @@
+GMD → 國樂／北管節奏生成模型
+
+跨對話研究交接資料
+
+以下是目前「AI 音樂／節奏生成」專案的研究脈絡與目前進度。請將此內容視為前一個對話的工作背景，後續直接延續，不要重新從零設計。
+
+一、研究目標
+
+目前研究方向是：
+
+使用 GMD（Groove MIDI Dataset）作為大型基礎節奏資料，先訓練一個通用的打擊樂節奏生成模型，再利用國樂／北管資料進行 Fine-tuning，使模型逐漸學習國樂／北管的節奏語法。
+
+最終希望做到：
+
+模型可以持續生成節奏。
+
+不只是單一 4／8 小節，而是可以連續生成。
+
+GMD 提供一般打擊樂節奏的基礎能力。
+
+國樂／北管資料進一步調整模型，使其具有國樂節奏特徵。
+
+未來可以加入國樂專屬的打擊樂器與演奏方式。
+
+最終可能需要建立「模型 Token → 真實北管／國樂聲音」的 renderer 或 sample mapping。
+
+二、目前最重要的資料表示概念：一個時間點可以同時有多個打擊事件
+
+這是目前研究中特別重要的決定。
+
+我們認為：
+
+「一個事件（event / HIT_SET）」應該代表同一個時間點上，可以同時發生的一組打擊樂器事件。
+
+例如同一個 tick：
+
+Kick
+Snare
+Cymbal
+
+可以同時發生。
+
+因此 Token 化時使用：
+
+<HIT_SET>
+<STROKE_kick>
+<VEL_4>
+<STROKE_snare>
+<VEL_6>
+<STROKE_crash>
+<VEL_5>
+<END_HIT_SET>
+
+而不是把同一時間點拆成三個不同時間事件。
+
+這個概念與目前 GMD 的資料表示方式相符。
+
+三、原始資料 Track 與模型資料的關係
+
+目前討論的結論是：
+
+原始資料
+
+可以保留不同樂器的 Track：
+
+Piece
+├── Track 1：鼓
+├── Track 2：鑼
+├── Track 3：鈸
+└── ...
+
+這樣保留原始音樂結構與樂器資訊。
+
+進入模型之前
+
+再按照 tick 將不同 Track 的事件合併：
+
+Track 1
+Track 2
+Track 3
+   ↓
+依 tick 排序
+   ↓
+相同 tick 合併
+   ↓
+HIT_SET
+   ↓
+Token sequence
+
+因此推薦：
+
+原始資料可以分 Track 保存；模型輸入則使用「同一時間點可包含多個 Event」的 HIT_SET 結構。
+
+不要為了模型輸入而強迫每一個樂器變成獨立的序列。
+
+四、目前 GMD Token 結構
+
+GMD 已經完成 Tokenization。
+
+目前 GMD 約：
+
+Segment：1150
+Vocabulary：約 133
+
+曾經有過包含其他 token 的 vocabulary 版本，但目前正式 GMD 模型 checkpoint 的 vocabulary size 是 133。
+
+目前主要 GMD stroke 包含：
+
+Kick
+
+<STROKE_kick>
+
+Snare
+
+<STROKE_snare>
+<STROKE_side_stick>
+
+Hi-hat
+
+<STROKE_hihat_closed>
+<STROKE_hihat_open>
+<STROKE_hihat_pedal>
+
+Tom
+
+<STROKE_tom_high>
+<STROKE_tom_mid>
+<STROKE_tom_low>
+
+Ride
+
+<STROKE_ride>
+<STROKE_ride_bell>
+
+Cymbal
+
+<STROKE_crash>
+<STROKE_splash>
+
+另外 GMD vocabulary 中曾出現：
+
+<STROKE_midi_note_22>
+<STROKE_midi_note_26>
+
+這些沒有被明確 mapping 成命名樂器，因此不要武斷地把它們指定成某一種樂器。
+
+五、GMD 的 Velocity
+
+目前 GMD 使用離散 Velocity token，例如：
+
+<VEL_1>
+<VEL_2>
+<VEL_3>
+<VEL_4>
+<VEL_5>
+<VEL_6>
+<VEL_7>
+<VEL_8>
+
+因此模型不只是預測「哪一個鼓」，也學習：
+
+這個打擊事件的力度。
+
+六、時間 Token
+
+目前使用：
+
+<TIME_SHIFT_240>
+<TIME_SHIFT_480>
+<TIME_SHIFT_720>
+<TIME_SHIFT_960>
+...
+
+也有：
+
+<TIME_SHIFT_0>
+<TIME_SHIFT_1440>
+<TIME_SHIFT_1920>
+<TIME_SHIFT_3840>
+
+實際 vocabulary 依資料產生。
+
+目前 GMD 原始資料：
+
+PPQ = 480
+
+但模型的部分資料／播放系統使用：
+
+PPQ = 960
+
+兩者不要混淆。
+
+目前 Token sequence 的核心概念是：
+
+TIME_SHIFT
+    ↓
+HIT_SET
+    ↓
+多個 STROKE + VELOCITY
+    ↓
+END_HIT_SET
+    ↓
+下一個 TIME_SHIFT
+
+七、目前 GMD LSTM 基礎模型
+
+第一階段已經成功完成 GMD LSTM 模型。
+
+模型：
+
+Embedding = 256
+Hidden = 512
+LSTM layers = 2
+Vocabulary = 133
+
+訓練資料：
+
+GMD Segment = 1150
+
+訓練時：
+
+BATCH_SIZE = 8
+MAX_SEQ_LEN = 512
+
+GPU：
+
+NVIDIA RTX 4060 Ti 8GB
+
+PyTorch + CUDA 已經成功。
+
+八、GMD LSTM 訓練結果
+
+30 epochs 的後段結果：
+
+Epoch 09/30 | Train Loss: 0.5958 | Val Loss: 0.7365
+Epoch 10/30 | Train Loss: 0.5744 | Val Loss: 0.7471
+Epoch 11/30 | Train Loss: 0.5564 | Val Loss: 0.7377
+Epoch 12/30 | Train Loss: 0.5389 | Val Loss: 0.7400
+Epoch 13/30 | Train Loss: 0.5193 | Val Loss: 0.7471
+Epoch 14/30 | Train Loss: 0.5038 | Val Loss: 0.7566
+...
+Epoch 30/30 | Train Loss: 0.2636 | Val Loss: 1.0673
+
+最佳模型是在：
+
+Epoch 09
+
+輸出：
+
+gmd_pretrained.pt
+
+這個模型目前應視為：
+
+GMD-LSTM baseline / pretrained model
+
+不要刪除，後續 Transformer 實驗仍應保留它作為 baseline。
+
+九、持續生成
+
+我們已經成功做出 GMD 的持續生成版本。
+
+目前希望：
+
+一次生成 8 小節
+    ↓
+持續生成下一個 8 小節
+    ↓
+再下一個 8 小節
+    ↓
+...
+
+而不是每 4 小節產生明顯斷點。
+
+目前已經可以穩定連續生成與播放。
+
+播放程式使用：
+
+sounddevice
+
+並使用自己的 drum synthesis / renderer 播放。
+
+重要：
+
+模型本身只生成 Token，不直接生成音訊。
+
+聲音是後端 renderer 產生的。
+
+十、目前播放參數
+
+原本較穩定的播放版本使用：
+
+PPQ = 960
+SAMPLE_RATE = 44100
+BPM = 138
+Temperature = 0.85
+BARS_PER_CHUNK = 8
+BUFFER_SIZE = 3
+TOP_K = 12
+
+這些參數目前作為播放／生成比較的基準。
+
+十一、GMD Fine-tuning → 北管的第一個實驗
+
+之後建立 Unified Vocabulary。
+
+GMD：
+
+133 tokens
+
+北管：
+
+28 tokens
+
+共用：
+
+13 tokens
+
+新增北管：
+
+15 tokens
+
+Unified：
+
+148 tokens
+
+新增北管 Token：
+
+<SOURCE_BEIGUAN>
+<ACCENT>
+<ORNAMENT>
+<ROLL>
+<STROKE_open>
+<STROKE_center>
+<STROKE_clash>
+<STROKE_pitch_1>
+<STROKE_pitch_2>
+<STROKE_pitch_3>
+<STROKE_pitch_4>
+<STROKE_pitch_5>
+<STROKE_quan>
+<STROKE_tsai>
+<STROKE_ba>
+
+十二、重要：北管沒有直接 mapping 到 GMD 樂器
+
+目前的設計不是：
+
+北管 open → GMD snare
+北管 center → GMD kick
+北管 clash → GMD crash
+
+沒有這樣做。
+
+而是：
+
+GMD vocabulary
+      +
+北管 vocabulary
+      ↓
+Unified Vocabulary
+
+讓模型直接學習北管自己的 Token。
+
+這樣可以保留北管自己的音樂資訊，而不會強迫北管打擊樂器被解釋成西式鼓組。
+
+十三、GMD → 北管 Model Expansion
+
+將原本 GMD 模型：
+
+Vocabulary 133
+
+擴充成：
+
+Vocabulary 148
+
+Embedding：
+
+133 → 148
+
+FC weight：
+
+133 → 148
+
+FC bias：
+
+133 → 148
+
+LSTM 權重：
+
+完全不變
+
+輸出：
+
+gmd_beiguan_ready.pt
+
+意思是：
+
+GMD 已學會的能力保留，只增加北管 Token 所需要的輸出空間。
+
+十四、北管 Fine-tuning v1
+
+目前北管資料非常少：
+
+Segment = 4
+
+切分：
+
+Train = 3
+Validation = 1
+
+模型：
+
+Vocabulary = 148
+Embedding = 256
+Hidden = 512
+Layers = 2
+
+10 epochs：
+
+Epoch 01 | Train Loss 3.1444 | Val Loss 3.6413
+Epoch 02 | Train Loss 2.8387 | Val Loss 3.4503
+Epoch 03 | Train Loss 2.6987 | Val Loss 3.2739
+Epoch 04 | Train Loss 2.5369 | Val Loss 3.1238
+Epoch 05 | Train Loss 2.4066 | Val Loss 2.9831
+Epoch 06 | Train Loss 2.2851 | Val Loss 2.8547
+Epoch 07 | Train Loss 2.1455 | Val Loss 2.7462
+Epoch 08 | Train Loss 2.0354 | Val Loss 2.6492
+Epoch 09 | Train Loss 1.9577 | Val Loss 2.5539
+Epoch 10 | Train Loss 1.8664 | Val Loss 2.4596
+
+輸出：
+
+beiguan_finetuned_v1.pt
+
+這個模型只應視為：
+
+Proof of Concept / 實驗觀察
+
+不能視為正式北管模型。
+
+十五、為什麼目前沒有急著處理「北管樂器 → GMD 樂器」mapping？
+
+因為目前研究的第一個問題是：
+
+模型能不能從 GMD 的一般節奏能力，透過 Fine-tuning 學習北管節奏 Token？
+
+而不是：
+
+北管樂器到底應該對應 GMD 哪一個鼓？
+
+這兩個問題應分開。
+
+目前：
+
+模型層
+↓
+北管 Token
+
+以及：
+
+聲音層
+↓
+北管 sample / synthesis / MIDI
+
+可以分開處理。
+
+十六、未來如果要真正播放北管，才需要做 Renderer / Mapping
+
+如果模型輸出：
+
+<STROKE_open>
+<STROKE_center>
+<STROKE_clash>
+
+那麼最後要真正發出北管聲音時，必須知道：
+
+<STROKE_open>
+      ↓
+哪一個北管樂器 / sample？
+
+這比較適合叫：
+
+Token → Instrument / Sound Renderer
+
+而不是把北管 Token 硬改成 GMD Token。
+
+因此未來可以：
+
+Transformer
+    ↓
+北管 Token
+    ↓
+北管 Renderer
+    ↓
+北管聲音
+
+十七、目前準備改成 Transformer
+
+下一階段不希望繼續使用 LSTM 作為主要模型，而是：
+
+使用 Transformer / Causal Transformer 重新訓練 GMD。
+
+重要原則：
+
+資料先不要重新設計
+
+盡量沿用：
+
+gmd_sequences_v2.jsonl
+vocab.json
+
+以及目前已建立的 Tokenization。
+
+目的是：
+
+只替換模型架構，讓 LSTM vs Transformer 成為可比較的實驗。
+
+十八、Transformer 實驗目標
+
+建立：
+
+GMD Transformer v1
+
+作為：
+
+GMD-LSTM baseline
+      vs
+GMD-Transformer
+
+比較：
+
+Train Loss
+Validation Loss
+生成品質
+節奏合理性
+重複模式
+長距離結構
+持續生成穩定性
+
+未來再進一步：
+
+GMD Transformer
+      ↓
+北管 Fine-tuning
+
+與：
+
+GMD LSTM
+      ↓
+北管 Fine-tuning
+
+做比較。
+
+十九、建議的 Transformer v1 初始架構
+
+先不要做超大型 Transformer。
+
+建議第一版：
+
+Vocabulary ≈ 133
+Embedding = 256
+Transformer Layers = 4
+Attention Heads = 8
+Feed Forward = 1024
+Dropout = 0.1
+MAX_SEQ_LEN = 512
+
+使用：
+
+Causal Self-Attention
+
+模型只能看到當前 Token 以前的內容，不能偷看未來 Token。
+
+二十、為什麼 Transformer 可能適合這個研究
+
+LSTM：
+
+Token 1
+  ↓
+Token 2
+  ↓
+Token 3
+  ↓
+Token 4
+  ↓
+...
+
+主要透過 hidden state 累積歷史資訊。
+
+Transformer：
+
+Token 1 ─┐
+Token 2 ─┤
+Token 3 ─┤→ Attention → 下一個 Token
+Token 4 ─┤
+Token 5 ─┘
+
+可以直接學習較遠距離的 Token 關係。
+
+對音樂而言，希望它可以更好地學習：
+
+重複
+呼應
+樂句
+節奏型
+較長距離的節奏結構
+
+但不能假設 Transformer 一定比 LSTM 好。
+
+GMD 只有約 1150 segments，因此 Transformer 太大也可能過擬合。
+
+二十一、Transformer 的重要概念
+
+需要理解：
+
+Token Embedding
+
+把：
+
+<STROKE_kick>
+
+轉成向量。
+
+Positional Encoding / Positional Embedding
+
+讓模型知道：
+
+Token 在第幾個位置。
+
+Self-Attention
+
+讓模型決定：
+
+預測目前 Token 時，前面哪些 Token 比較重要。
+
+Causal Mask
+
+限制模型：
+
+不能看到未來 Token。
+
+Feed Forward Network
+
+Transformer block 中進一步處理 representation。
+
+二十二、目前研究上最重要的實驗架構
+
+希望最終形成：
+
+                GMD
+                 │
+      ┌──────────┴──────────┐
+      ↓                     ↓
+    LSTM                Transformer
+      │                     │
+      ↓                     ↓
+GMD-LSTM             GMD-Transformer
+      │                     │
+      ↓                     ↓
+
+北管 Fine-tune         北管 Fine-tune
+│                     │
+↓                     ↓
+北管生成模型            北管生成模型
+
+這樣可以研究：
+
+LSTM 與 Transformer 哪一種架構，更適合從一般打擊樂資料學習後，再 Fine-tuning 到國樂／北管節奏生成。
+
+二十三、下一個對話的直接任務
+
+現在請直接從：
+
+「建立 GMD Transformer v1」
+
+開始。
+
+不要先重新做 GMD Tokenization，也不要重新討論是否要把國樂樂器 mapping 成 GMD。
+
+第一步應該是：
+
+確認目前 gmd_sequences_v2.jsonl
+
+確認 vocab.json
+
+確認目前資料格式
+
+建立 Transformer Dataset / DataLoader
+
+建立 Causal Transformer Model
+
+使用與 LSTM 相同的 train/validation split
+
+先訓練 GMD Transformer v1
+
+儲存：
+
+gmd_transformer_pretrained.pt
+
+再建立 Transformer 的生成器
+
+最後與現有 gmd_pretrained.pt 的 LSTM 結果比較。
+
+二十四、重要研究原則
+
+後續不要因為 Transformer 比較新，就把現有 LSTM 架構全部丟掉。
+
+目前 LSTM 是：
+
+Baseline
+
+Transformer 是：
+
+新實驗模型
+
+而 GMD 與北管的資料表示應盡可能保持一致，這樣模型比較才有意義。
+
+另外，國樂／北管資料未來仍然非常少，因此目前的 4 segment 北管 Fine-tuning 只適合作為概念驗證，不能拿來宣稱正式模型效果。
+
+最重要的資料表示原則：
+
+同一個 tick 可以同時發生多個打擊事件，使用 HIT_SET 表示。
+
+原始資料可以保留不同 Track；進入模型前再依 tick 合併成 HIT_SET。
+
+最重要的模型原則：
+
+不要把北管樂器硬 mapping 成 GMD 樂器；先讓模型學習北管自己的 Token。
+
+最終聲音輸出則另外處理：
+
+Model Token → 北管 Renderer / Sample / MIDI
+
+不要把「模型學節奏」與「最後發出什麼樂器聲音」混為同一個問題。

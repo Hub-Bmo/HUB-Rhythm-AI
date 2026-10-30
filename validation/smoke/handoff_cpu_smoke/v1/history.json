@@ -1,0 +1,10 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 4.577332281748215,
+    "val_loss": 3.660400286691145,
+    "seconds": 4.35,
+    "global_step": 2,
+    "best": true
+  }
+]

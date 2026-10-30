@@ -1,0 +1,6 @@
+{
+  "val_loss": 5.0383742989112505,
+  "definition": "Expanded GMD checkpoint before fine-tuning, same unified vocabulary and target masks",
+  "checkpoint": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\MusicAI_Research_Handoff_20261030\\reproduced_runs\\handoff_smoke\\v1\\gmd_transformer_pretrained.pt",
+  "checkpoint_sha256": "b5dc7678355e9e7173aba3de8254572a79929e05c5de0b97fa89415588aa8070"
+}

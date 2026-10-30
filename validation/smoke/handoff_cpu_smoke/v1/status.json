@@ -1,0 +1,15 @@
+{
+  "phase": "completed",
+  "updated_at": "2026-10-29T18:43:13.093075+00:00",
+  "pid": 48420,
+  "epoch": 1,
+  "max_epochs": 1,
+  "batch": 0,
+  "batches_per_epoch": 2,
+  "global_step": 2,
+  "best_val_loss": 3.660400286691145,
+  "best_epoch": 1,
+  "elapsed_seconds_this_process": 4.9,
+  "test_loss": 3.7389676681638915,
+  "summary": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\MusicAI_Research_Handoff_20261030\\reproduced_runs\\handoff_cpu_smoke\\v1\\summary.json"
+}

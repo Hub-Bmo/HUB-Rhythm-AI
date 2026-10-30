@@ -1,0 +1,32 @@
+[
+  {
+    "path": "projects/guoyue_transformer_ft_v1/data/dataset_manifest.json",
+    "original_sha256": "85423af6b1f1e4363c410df8effed91912672d44c2b129fb4c4fbf665c77a805",
+    "portable_sha256": "26d079c8b4a5d6c340a3bf8222b097cbb65a7f0ba9388b5a346a1c31be27f616",
+    "change": "Only runtime provenance paths rebased; tokens/vocabulary/model weights unchanged"
+  },
+  {
+    "path": "outputs/guoyue_gmd12_tokens_v1/dataset_manifest.json",
+    "original_sha256": "6735ffd1718267e4fe0dda3b5563e24612f8aa4c23202c6b08a57480c03814a7",
+    "portable_sha256": "ceb6635d38e0988c92ef30a617c7b0f01b5145ef8d86b9d1c5ef88d882b2c74c",
+    "change": "Only runtime provenance paths rebased; tokens/vocabulary/model weights unchanged"
+  },
+  {
+    "path": "rhythm_transformer/evaluate_finetune.py",
+    "original_sha256": "64521e6699854b3a6397f6b955d85d893f3b1476dea0ab5e2532ffece306f2a7",
+    "portable_sha256": "4a4e45c85d7ab50eeaffaad253cdc6a9d54896e726925d79aa7429f5e95a37e4",
+    "change": "Resolve historical input references strictly within this bundle; write new diagnostics under verification instead of overwriting archived outputs."
+  },
+  {
+    "path": "rhythm_transformer/train.py",
+    "original_sha256": "b8e01373c163cdcd7ff4e03028cb56b1091ba628489814078dc6b95421e2a9d3",
+    "portable_sha256": "318a12c47ed4aa4a898dd3074f30a16fce89abd4f543b40e3ef193422df33107",
+    "change": "Keep original initialization provenance in checkpoints when resuming a new experiment."
+  },
+  {
+    "path": "tests/test_score_tokenizer.py",
+    "original_sha256": "e1fd7dad29bf04919789d86476e9be986c0cb91ef348b09cc1b23c21aca2518f",
+    "portable_sha256": "53a3be4d1df8d1942c6f4562b6616379e5396290ff64f0e5e131627703a49189",
+    "change": "Use the bundled canonical 節慶歡舞 JSON fixture when the original JCHW.json path is absent."
+  }
+]

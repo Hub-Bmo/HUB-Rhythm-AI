@@ -1,0 +1,123 @@
+{
+  "warnings": [
+    "6 組同時事件轉換後相同；全部保留，未自動去重。",
+    "本格式為國樂 tokenizer v1，尚未驗證與既有 GMD vocab／tokenizer 相容；接入基礎模型前須對齊。",
+    "同作品、同來源套件及重複引用小節必須留在同一資料切分；此工具不自動切訓練／驗證集。"
+  ],
+  "collisions": [
+    {
+      "piece_id": "piece_6a6dadf5e2f97131606a",
+      "source_bar": 278,
+      "playback_bar": 3,
+      "pass_index": 1,
+      "segment_id": "AUTO-029",
+      "tick": 4320,
+      "event_tokens": [
+        "<INST:C00004>",
+        "<ROLL:C00002>",
+        "<ACCENT:C00002>",
+        "<ORNAMENT:C00002>",
+        "<TIE:C00001>",
+        "<ATTACK_YES>",
+        "<DURATION_480>"
+      ],
+      "count": 2,
+      "action": "preserve_all"
+    },
+    {
+      "piece_id": "piece_5b62c018d8edaa9941cb",
+      "source_bar": 69,
+      "playback_bar": 69,
+      "pass_index": 1,
+      "segment_id": "SEG-84745b3a1c764d368b0390f94969043f",
+      "tick": 242880,
+      "event_tokens": [
+        "<INST:C00001>",
+        "<ROLL:C00002>",
+        "<ACCENT:C00002>",
+        "<ORNAMENT:C00002>",
+        "<TIE:C00001>",
+        "<ATTACK_YES>",
+        "<DURATION_480>"
+      ],
+      "count": 2,
+      "action": "preserve_all"
+    },
+    {
+      "piece_id": "piece_5b62c018d8edaa9941cb",
+      "source_bar": 69,
+      "playback_bar": 69,
+      "pass_index": 1,
+      "segment_id": "SEG-84745b3a1c764d368b0390f94969043f",
+      "tick": 243360,
+      "event_tokens": [
+        "<INST:C00001>",
+        "<ROLL:C00002>",
+        "<ACCENT:C00002>",
+        "<ORNAMENT:C00002>",
+        "<TIE:C00001>",
+        "<ATTACK_YES>",
+        "<DURATION_480>"
+      ],
+      "count": 2,
+      "action": "preserve_all"
+    },
+    {
+      "piece_id": "piece_5b62c018d8edaa9941cb",
+      "source_bar": 69,
+      "playback_bar": 69,
+      "pass_index": 1,
+      "segment_id": "SEG-84745b3a1c764d368b0390f94969043f",
+      "tick": 243840,
+      "event_tokens": [
+        "<INST:C00001>",
+        "<ROLL:C00002>",
+        "<ACCENT:C00002>",
+        "<ORNAMENT:C00002>",
+        "<TIE:C00001>",
+        "<ATTACK_YES>",
+        "<DURATION_480>"
+      ],
+      "count": 2,
+      "action": "preserve_all"
+    },
+    {
+      "piece_id": "piece_5b62c018d8edaa9941cb",
+      "source_bar": 69,
+      "playback_bar": 69,
+      "pass_index": 1,
+      "segment_id": "SEG-84745b3a1c764d368b0390f94969043f",
+      "tick": 244320,
+      "event_tokens": [
+        "<INST:C00001>",
+        "<ROLL:C00002>",
+        "<ACCENT:C00002>",
+        "<ORNAMENT:C00002>",
+        "<TIE:C00001>",
+        "<ATTACK_YES>",
+        "<DURATION_480>"
+      ],
+      "count": 2,
+      "action": "preserve_all"
+    },
+    {
+      "piece_id": "piece_5b62c018d8edaa9941cb",
+      "source_bar": 212,
+      "playback_bar": 74,
+      "pass_index": 1,
+      "segment_id": "SEG-6d34606a61394f2dbe1abd221a825033",
+      "tick": 283440,
+      "event_tokens": [
+        "<INST:C00006>",
+        "<ROLL:C00002>",
+        "<ACCENT:C00002>",
+        "<ORNAMENT:C00002>",
+        "<TIE:C00001>",
+        "<ATTACK_YES>",
+        "<DURATION_240>"
+      ],
+      "count": 2,
+      "action": "preserve_all"
+    }
+  ]
+}

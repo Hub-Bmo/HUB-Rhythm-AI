@@ -1,0 +1,710 @@
+{
+  "tokens": [
+    "<BOS>",
+    "<SOURCE_GMD>",
+    "<TS_4-4>",
+    "<BPM_138>",
+    "<TIME_SHIFT_960>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_960>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_7>",
+    "<STROKE_snare>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_960>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_2>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_2>",
+    "<STROKE_snare>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_2>",
+    "<STROKE_snare>",
+    "<VEL_2>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_6>",
+    "<STROKE_snare>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_960>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_720>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_7>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_960>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_960>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_5>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_720>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_960>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_6>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_960>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_2>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_3>",
+    "<STROKE_snare>",
+    "<VEL_3>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_2>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_720>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_960>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_720>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_6>",
+    "<STROKE_snare>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_960>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_3>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_2>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_3>",
+    "<STROKE_snare>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_960>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_2>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_720>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_960>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_3>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_960>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_720>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_960>",
+    "<HIT_SET>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_720>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_720>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_2>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_6>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_960>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_2>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_720>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_720>",
+    "<HIT_SET>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_720>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_960>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_5>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<EOS>"
+  ],
+  "events": [
+    {
+      "tick": 960,
+      "stroke": "kick",
+      "velocity": 80
+    },
+    {
+      "tick": 1920,
+      "stroke": "snare",
+      "velocity": 112
+    },
+    {
+      "tick": 1920,
+      "stroke": "snare",
+      "velocity": 96
+    },
+    {
+      "tick": 2880,
+      "stroke": "snare",
+      "velocity": 32
+    },
+    {
+      "tick": 3120,
+      "stroke": "snare",
+      "velocity": 32
+    },
+    {
+      "tick": 3120,
+      "stroke": "snare",
+      "velocity": 48
+    },
+    {
+      "tick": 3360,
+      "stroke": "snare",
+      "velocity": 32
+    },
+    {
+      "tick": 3360,
+      "stroke": "snare",
+      "velocity": 32
+    },
+    {
+      "tick": 3600,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 4080,
+      "stroke": "snare",
+      "velocity": 96
+    },
+    {
+      "tick": 4080,
+      "stroke": "snare",
+      "velocity": 96
+    },
+    {
+      "tick": 5040,
+      "stroke": "snare",
+      "velocity": 48
+    },
+    {
+      "tick": 5280,
+      "stroke": "hihat_pedal",
+      "velocity": 80
+    },
+    {
+      "tick": 5520,
+      "stroke": "kick",
+      "velocity": 80
+    },
+    {
+      "tick": 6240,
+      "stroke": "snare",
+      "velocity": 112
+    },
+    {
+      "tick": 6240,
+      "stroke": "hihat_pedal",
+      "velocity": 112
+    },
+    {
+      "tick": 7200,
+      "stroke": "snare",
+      "velocity": 112
+    },
+    {
+      "tick": 7680,
+      "stroke": "snare",
+      "velocity": 96
+    },
+    {
+      "tick": 8640,
+      "stroke": "kick",
+      "velocity": 80
+    },
+    {
+      "tick": 8640,
+      "stroke": "hihat_pedal",
+      "velocity": 112
+    },
+    {
+      "tick": 9360,
+      "stroke": "snare",
+      "velocity": 96
+    },
+    {
+      "tick": 9600,
+      "stroke": "snare",
+      "velocity": 96
+    },
+    {
+      "tick": 10560,
+      "stroke": "snare",
+      "velocity": 48
+    },
+    {
+      "tick": 10800,
+      "stroke": "snare",
+      "velocity": 96
+    },
+    {
+      "tick": 10800,
+      "stroke": "hihat_pedal",
+      "velocity": 96
+    },
+    {
+      "tick": 11760,
+      "stroke": "snare",
+      "velocity": 96
+    },
+    {
+      "tick": 12240,
+      "stroke": "snare",
+      "velocity": 48
+    },
+    {
+      "tick": 12480,
+      "stroke": "snare",
+      "velocity": 32
+    },
+    {
+      "tick": 12720,
+      "stroke": "snare",
+      "velocity": 48
+    },
+    {
+      "tick": 12720,
+      "stroke": "snare",
+      "velocity": 48
+    },
+    {
+      "tick": 12720,
+      "stroke": "hihat_pedal",
+      "velocity": 96
+    },
+    {
+      "tick": 12960,
+      "stroke": "snare",
+      "velocity": 32
+    },
+    {
+      "tick": 13200,
+      "stroke": "kick",
+      "velocity": 80
+    },
+    {
+      "tick": 13920,
+      "stroke": "snare",
+      "velocity": 96
+    },
+    {
+      "tick": 14160,
+      "stroke": "hihat_pedal",
+      "velocity": 112
+    },
+    {
+      "tick": 15120,
+      "stroke": "snare",
+      "velocity": 48
+    },
+    {
+      "tick": 15360,
+      "stroke": "kick",
+      "velocity": 112
+    },
+    {
+      "tick": 16080,
+      "stroke": "snare",
+      "velocity": 96
+    },
+    {
+      "tick": 16080,
+      "stroke": "snare",
+      "velocity": 112
+    },
+    {
+      "tick": 17040,
+      "stroke": "snare",
+      "velocity": 48
+    },
+    {
+      "tick": 17040,
+      "stroke": "hihat_pedal",
+      "velocity": 96
+    },
+    {
+      "tick": 17280,
+      "stroke": "snare",
+      "velocity": 32
+    },
+    {
+      "tick": 17520,
+      "stroke": "snare",
+      "velocity": 48
+    },
+    {
+      "tick": 17520,
+      "stroke": "snare",
+      "velocity": 48
+    },
+    {
+      "tick": 17760,
+      "stroke": "snare",
+      "velocity": 48
+    },
+    {
+      "tick": 18000,
+      "stroke": "snare",
+      "velocity": 80
+    },
+    {
+      "tick": 18240,
+      "stroke": "snare",
+      "velocity": 48
+    },
+    {
+      "tick": 18480,
+      "stroke": "kick",
+      "velocity": 96
+    },
+    {
+      "tick": 19440,
+      "stroke": "snare",
+      "velocity": 32
+    },
+    {
+      "tick": 19440,
+      "stroke": "hihat_pedal",
+      "velocity": 112
+    },
+    {
+      "tick": 20160,
+      "stroke": "kick",
+      "velocity": 80
+    },
+    {
+      "tick": 20400,
+      "stroke": "snare",
+      "velocity": 96
+    },
+    {
+      "tick": 21360,
+      "stroke": "snare",
+      "velocity": 48
+    },
+    {
+      "tick": 21360,
+      "stroke": "hihat_pedal",
+      "velocity": 112
+    },
+    {
+      "tick": 22320,
+      "stroke": "snare",
+      "velocity": 48
+    },
+    {
+      "tick": 22560,
+      "stroke": "kick",
+      "velocity": 96
+    },
+    {
+      "tick": 23280,
+      "stroke": "snare",
+      "velocity": 48
+    },
+    {
+      "tick": 23520,
+      "stroke": "kick",
+      "velocity": 80
+    },
+    {
+      "tick": 24480,
+      "stroke": "hihat_pedal",
+      "velocity": 112
+    },
+    {
+      "tick": 25200,
+      "stroke": "snare",
+      "velocity": 48
+    },
+    {
+      "tick": 25440,
+      "stroke": "snare",
+      "velocity": 48
+    },
+    {
+      "tick": 25680,
+      "stroke": "kick",
+      "velocity": 96
+    },
+    {
+      "tick": 26400,
+      "stroke": "snare",
+      "velocity": 32
+    },
+    {
+      "tick": 26640,
+      "stroke": "snare",
+      "velocity": 96
+    },
+    {
+      "tick": 26640,
+      "stroke": "hihat_pedal",
+      "velocity": 112
+    },
+    {
+      "tick": 27600,
+      "stroke": "snare",
+      "velocity": 32
+    },
+    {
+      "tick": 27840,
+      "stroke": "snare",
+      "velocity": 96
+    },
+    {
+      "tick": 28560,
+      "stroke": "kick",
+      "velocity": 80
+    },
+    {
+      "tick": 29280,
+      "stroke": "hihat_pedal",
+      "velocity": 112
+    },
+    {
+      "tick": 30000,
+      "stroke": "snare",
+      "velocity": 48
+    },
+    {
+      "tick": 30240,
+      "stroke": "snare",
+      "velocity": 48
+    },
+    {
+      "tick": 30480,
+      "stroke": "kick",
+      "velocity": 96
+    },
+    {
+      "tick": 31440,
+      "stroke": "snare",
+      "velocity": 80
+    },
+    {
+      "tick": 31440,
+      "stroke": "hihat_pedal",
+      "velocity": 112
+    }
+  ],
+  "ppq": 960,
+  "bpm": 138,
+  "bars": 8,
+  "seed": 123,
+  "temperature": 0.85,
+  "top_k": 12,
+  "note": "Grammar-constrained sampling; WAV uses simple synthetic audition sounds, not recorded drum samples."
+}

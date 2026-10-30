@@ -1,0 +1,32 @@
+{
+  "v1": {
+    "python": "3.13.13 (tags/v3.13.13:01104ce, Apr  7 2026, 19:25:48) [MSC v.1944 64 bit (AMD64)]",
+    "python_executable": "C:\\Users\\Habu_\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+    "torch": "2.14.1+cu130",
+    "cuda": "13.0",
+    "device": "cuda",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti",
+    "precision": "torch.bfloat16",
+    "parameters": 3358853
+  },
+  "v2": {
+    "python": "3.13.13 (tags/v3.13.13:01104ce, Apr  7 2026, 19:25:48) [MSC v.1944 64 bit (AMD64)]",
+    "python_executable": "C:\\Users\\Habu_\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+    "torch": "2.14.1+cu130",
+    "cuda": "13.0",
+    "device": "cuda",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti",
+    "precision": "torch.bfloat16",
+    "parameters": 3393224
+  },
+  "v3": {
+    "python": "3.13.13 (tags/v3.13.13:01104ce, Apr  7 2026, 19:25:48) [MSC v.1944 64 bit (AMD64)]",
+    "python_executable": "C:\\Users\\Habu_\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+    "torch": "2.14.1+cu130",
+    "cuda": "13.0",
+    "device": "cuda",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti",
+    "precision": "torch.bfloat16",
+    "parameters": 3393224
+  }
+}

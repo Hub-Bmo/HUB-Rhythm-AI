@@ -1,0 +1,358 @@
+{
+  "tokens": [
+    "<PAD>",
+    "<BOS>",
+    "<EOS>",
+    "<SEGMENT_START>",
+    "<BAR>",
+    "<METER_4/4>",
+    "<TIME_SHIFT_0>",
+    "<HIT_SET>",
+    "<EVENT>",
+    "<INST:C00001>",
+    "<ROLL:C00002>",
+    "<ACCENT:C00002>",
+    "<ORNAMENT:C00002>",
+    "<TIE:C00001>",
+    "<ATTACK_YES>",
+    "<DURATION_960>",
+    "<END_EVENT>",
+    "<INST:C00002>",
+    "<DURATION_480>",
+    "<INST:C00003>",
+    "<INST:C00004>",
+    "<INST:C00005>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<DURATION_240>",
+    "<TIME_SHIFT_240>",
+    "<TIE:C00002>",
+    "<TIE:C00004>",
+    "<ATTACK_NO>",
+    "<TIME_SHIFT_960>",
+    "<END_BAR>",
+    "<SEGMENT_END>",
+    "<ROLL_UNKNOWN>",
+    "<ACCENT_UNKNOWN>",
+    "<ORNAMENT_UNKNOWN>",
+    "<DURATION_720>",
+    "<DURATION_1440>",
+    "<TIME_SHIFT_1440>",
+    "<TIME_SHIFT_720>",
+    "<TIME_SHIFT_2880>",
+    "<TIME_SHIFT_3840>",
+    "<INST:C00006>",
+    "<TIE_UNKNOWN>",
+    "<ATTACK_UNKNOWN>",
+    "<DURATION_3840>",
+    "<METER_2/4>",
+    "<TIME_SHIFT_1920>",
+    "<DURATION_1920>",
+    "<INST:C00007>",
+    "<INST:C00008>",
+    "<INST:C00009>",
+    "<METER_3/4>",
+    "<INST:C00010>",
+    "<METER_6/8>",
+    "<INST:C00011>",
+    "<ROLL:C00001>",
+    "<DURATION_2880>",
+    "<ACCENT:C00001>",
+    "<TIME_SHIFT_3120>",
+    "<INST:C00012>",
+    "<INST:C00013>",
+    "<INST:C00014>",
+    "<INST:C00015>",
+    "<INST:C00016>",
+    "<INST:C00017>",
+    "<INST:C00018>",
+    "<TIE:C00003>",
+    "<INST:C00019>",
+    "<ORNAMENT:C00001>",
+    "<INST:C00020>",
+    "<INST:C00021>",
+    "<INST:C00022>",
+    "<INST:C00023>",
+    "<INST:C00024>",
+    "<TIME_SHIFT_2160>",
+    "<TIME_SHIFT_2400>",
+    "<INST:C00025>",
+    "<INST:C00026>",
+    "<INST:C00027>",
+    "<INST:C00028>",
+    "<INST:C00029>",
+    "<INST:C00030>",
+    "<INST:C00031>",
+    "<INST:C00032>"
+  ],
+  "token_to_id": {
+    "<PAD>": 0,
+    "<BOS>": 1,
+    "<EOS>": 2,
+    "<SEGMENT_START>": 3,
+    "<BAR>": 4,
+    "<METER_4/4>": 5,
+    "<TIME_SHIFT_0>": 6,
+    "<HIT_SET>": 7,
+    "<EVENT>": 8,
+    "<INST:C00001>": 9,
+    "<ROLL:C00002>": 10,
+    "<ACCENT:C00002>": 11,
+    "<ORNAMENT:C00002>": 12,
+    "<TIE:C00001>": 13,
+    "<ATTACK_YES>": 14,
+    "<DURATION_960>": 15,
+    "<END_EVENT>": 16,
+    "<INST:C00002>": 17,
+    "<DURATION_480>": 18,
+    "<INST:C00003>": 19,
+    "<INST:C00004>": 20,
+    "<INST:C00005>": 21,
+    "<END_HIT_SET>": 22,
+    "<TIME_SHIFT_480>": 23,
+    "<DURATION_240>": 24,
+    "<TIME_SHIFT_240>": 25,
+    "<TIE:C00002>": 26,
+    "<TIE:C00004>": 27,
+    "<ATTACK_NO>": 28,
+    "<TIME_SHIFT_960>": 29,
+    "<END_BAR>": 30,
+    "<SEGMENT_END>": 31,
+    "<ROLL_UNKNOWN>": 32,
+    "<ACCENT_UNKNOWN>": 33,
+    "<ORNAMENT_UNKNOWN>": 34,
+    "<DURATION_720>": 35,
+    "<DURATION_1440>": 36,
+    "<TIME_SHIFT_1440>": 37,
+    "<TIME_SHIFT_720>": 38,
+    "<TIME_SHIFT_2880>": 39,
+    "<TIME_SHIFT_3840>": 40,
+    "<INST:C00006>": 41,
+    "<TIE_UNKNOWN>": 42,
+    "<ATTACK_UNKNOWN>": 43,
+    "<DURATION_3840>": 44,
+    "<METER_2/4>": 45,
+    "<TIME_SHIFT_1920>": 46,
+    "<DURATION_1920>": 47,
+    "<INST:C00007>": 48,
+    "<INST:C00008>": 49,
+    "<INST:C00009>": 50,
+    "<METER_3/4>": 51,
+    "<INST:C00010>": 52,
+    "<METER_6/8>": 53,
+    "<INST:C00011>": 54,
+    "<ROLL:C00001>": 55,
+    "<DURATION_2880>": 56,
+    "<ACCENT:C00001>": 57,
+    "<TIME_SHIFT_3120>": 58,
+    "<INST:C00012>": 59,
+    "<INST:C00013>": 60,
+    "<INST:C00014>": 61,
+    "<INST:C00015>": 62,
+    "<INST:C00016>": 63,
+    "<INST:C00017>": 64,
+    "<INST:C00018>": 65,
+    "<TIE:C00003>": 66,
+    "<INST:C00019>": 67,
+    "<ORNAMENT:C00001>": 68,
+    "<INST:C00020>": 69,
+    "<INST:C00021>": 70,
+    "<INST:C00022>": 71,
+    "<INST:C00023>": 72,
+    "<INST:C00024>": 73,
+    "<TIME_SHIFT_2160>": 74,
+    "<TIME_SHIFT_2400>": 75,
+    "<INST:C00025>": 76,
+    "<INST:C00026>": 77,
+    "<INST:C00027>": 78,
+    "<INST:C00028>": 79,
+    "<INST:C00029>": 80,
+    "<INST:C00030>": 81,
+    "<INST:C00031>": 82,
+    "<INST:C00032>": 83
+  },
+  "concepts": {
+    "instrument": [
+      {
+        "id": "C00001",
+        "label": "小鈸"
+      },
+      {
+        "id": "C00002",
+        "label": "小鑼"
+      },
+      {
+        "id": "C00003",
+        "label": "大鑼"
+      },
+      {
+        "id": "C00004",
+        "label": "小鼓"
+      },
+      {
+        "id": "C00005",
+        "label": "大鼓"
+      },
+      {
+        "id": "C00006",
+        "label": "定音鼓"
+      },
+      {
+        "id": "C00007",
+        "label": "大鈸"
+      },
+      {
+        "id": "C00008",
+        "label": "方響"
+      },
+      {
+        "id": "C00009",
+        "label": "木魚"
+      },
+      {
+        "id": "C00010",
+        "label": "鈴鼓"
+      },
+      {
+        "id": "C00011",
+        "label": "低音鼓"
+      },
+      {
+        "id": "C00012",
+        "label": "軍鈸"
+      },
+      {
+        "id": "C00013",
+        "label": "小堂鼓"
+      },
+      {
+        "id": "C00014",
+        "label": "大堂鼓"
+      },
+      {
+        "id": "C00015",
+        "label": "大鈸（獅鈸）"
+      },
+      {
+        "id": "C00016",
+        "label": "吊鈸"
+      },
+      {
+        "id": "C00017",
+        "label": "碰鈴"
+      },
+      {
+        "id": "C00018",
+        "label": "低音鑼"
+      },
+      {
+        "id": "C00019",
+        "label": "大銅磐"
+      },
+      {
+        "id": "C00020",
+        "label": "低音堂鼓"
+      },
+      {
+        "id": "C00021",
+        "label": "班鼓"
+      },
+      {
+        "id": "C00022",
+        "label": "子弟鑼"
+      },
+      {
+        "id": "C00023",
+        "label": "高音堂鼓"
+      },
+      {
+        "id": "C00024",
+        "label": "最下方鑼聲部"
+      },
+      {
+        "id": "C00025",
+        "label": "沙鎚"
+      },
+      {
+        "id": "C00026",
+        "label": "沙槌"
+      },
+      {
+        "id": "C00027",
+        "label": "風鈴"
+      },
+      {
+        "id": "C00028",
+        "label": "風鑼"
+      },
+      {
+        "id": "C00029",
+        "label": "鈴鑼"
+      },
+      {
+        "id": "C00030",
+        "label": "三角鐵"
+      },
+      {
+        "id": "C00031",
+        "label": "低音大鑼"
+      },
+      {
+        "id": "C00032",
+        "label": "文鑼"
+      }
+    ],
+    "technique": [],
+    "pitch": [],
+    "dynamic": [],
+    "is_roll": [
+      {
+        "id": "C00001",
+        "label": "有輪奏"
+      },
+      {
+        "id": "C00002",
+        "label": "無輪奏"
+      }
+    ],
+    "is_accent": [
+      {
+        "id": "C00001",
+        "label": "有重音"
+      },
+      {
+        "id": "C00002",
+        "label": "無重音"
+      }
+    ],
+    "is_ornament": [
+      {
+        "id": "C00001",
+        "label": "有裝飾音"
+      },
+      {
+        "id": "C00002",
+        "label": "無裝飾音"
+      }
+    ],
+    "tie": [
+      {
+        "id": "C00001",
+        "label": "無延音線"
+      },
+      {
+        "id": "C00002",
+        "label": "延音開始"
+      },
+      {
+        "id": "C00003",
+        "label": "延音延續"
+      },
+      {
+        "id": "C00004",
+        "label": "延音結束"
+      }
+    ],
+    "slur": []
+  }
+}

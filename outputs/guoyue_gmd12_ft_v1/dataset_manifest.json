@@ -1,0 +1,721 @@
+{
+  "token_format": "musicai-token-sequences-v1",
+  "adapter": "guoyue-to-existing-gmd12-functional-v1",
+  "ppq": 960,
+  "source_folder": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\outputs\\六份樂譜_20261029_TOKEN版\\TOKEN\\tokens-20261029-113446-d35a4b",
+  "source_hashes": {
+    "sequences.jsonl": "5a2782a3422818808fbda095dff65665dc731ddaa95c6e14768e7346f1801d64",
+    "vocab.json": "1f129baf85f03ff48bd90f82027dd8ab75b42209d86873dfd37ce2c82e17b1c1",
+    "rules.json": "06e4dcd82cd8c436a3780b1151e3e8e40eab62ca9303d9990662d1503737cb4a",
+    "manifest.json": "abcb10da71cb877669595c80b0da8702be9530dafba3324e22d561ab9ea89dee"
+  },
+  "base_vocab_sha256": "7cd5241e2448a728b732976b1d7df65cad859cc1ef5cb53087454bcc435a5137",
+  "base_vocab_size": 133,
+  "unified_vocab_size": 200,
+  "new_tokens": 67,
+  "source_sequence_count": 132,
+  "source_token_count": 62389,
+  "source_masked_tokens": 3157,
+  "split_policy": "5 complete works train / 1 complete work validation; no independent test set",
+  "validation_title": "黃土情",
+  "split_counts": {
+    "train": 100,
+    "validation": 30
+  },
+  "split_token_counts": {
+    "train": 55218,
+    "validation": 6715
+  },
+  "split_titles": {
+    "train": [
+      "天下無雙",
+      "海神音詩",
+      "節慶歡舞",
+      "闖將令",
+      "黃土高坡"
+    ],
+    "validation": [
+      "黃土情"
+    ]
+  },
+  "removed_cross_split_duplicates": [
+    {
+      "title": "黃土高坡",
+      "segment_id": "AUTO-011",
+      "tokens": 228
+    },
+    {
+      "title": "黃土高坡",
+      "segment_id": "AUTO-012",
+      "tokens": 228
+    }
+  ],
+  "concepts": {
+    "instrument": [
+      {
+        "id": "C00001",
+        "label": "小鈸"
+      },
+      {
+        "id": "C00002",
+        "label": "小鑼"
+      },
+      {
+        "id": "C00003",
+        "label": "大鑼"
+      },
+      {
+        "id": "C00004",
+        "label": "小鼓"
+      },
+      {
+        "id": "C00005",
+        "label": "大鼓"
+      },
+      {
+        "id": "C00006",
+        "label": "定音鼓"
+      },
+      {
+        "id": "C00007",
+        "label": "大鈸"
+      },
+      {
+        "id": "C00008",
+        "label": "方響"
+      },
+      {
+        "id": "C00009",
+        "label": "木魚"
+      },
+      {
+        "id": "C00010",
+        "label": "鈴鼓"
+      },
+      {
+        "id": "C00011",
+        "label": "低音鼓"
+      },
+      {
+        "id": "C00012",
+        "label": "軍鈸"
+      },
+      {
+        "id": "C00013",
+        "label": "小堂鼓"
+      },
+      {
+        "id": "C00014",
+        "label": "大堂鼓"
+      },
+      {
+        "id": "C00015",
+        "label": "大鈸（獅鈸）"
+      },
+      {
+        "id": "C00016",
+        "label": "吊鈸"
+      },
+      {
+        "id": "C00017",
+        "label": "碰鈴"
+      },
+      {
+        "id": "C00018",
+        "label": "低音鑼"
+      },
+      {
+        "id": "C00019",
+        "label": "大銅磐"
+      },
+      {
+        "id": "C00020",
+        "label": "低音堂鼓"
+      },
+      {
+        "id": "C00021",
+        "label": "班鼓"
+      },
+      {
+        "id": "C00022",
+        "label": "子弟鑼"
+      },
+      {
+        "id": "C00023",
+        "label": "高音堂鼓"
+      },
+      {
+        "id": "C00024",
+        "label": "最下方鑼聲部"
+      },
+      {
+        "id": "C00025",
+        "label": "沙鎚"
+      },
+      {
+        "id": "C00026",
+        "label": "沙槌"
+      },
+      {
+        "id": "C00027",
+        "label": "風鈴"
+      },
+      {
+        "id": "C00028",
+        "label": "風鑼"
+      },
+      {
+        "id": "C00029",
+        "label": "鈴鑼"
+      },
+      {
+        "id": "C00030",
+        "label": "三角鐵"
+      },
+      {
+        "id": "C00031",
+        "label": "低音大鑼"
+      },
+      {
+        "id": "C00032",
+        "label": "文鑼"
+      }
+    ],
+    "technique": [],
+    "pitch": [],
+    "dynamic": [],
+    "is_roll": [
+      {
+        "id": "C00001",
+        "label": "有輪奏"
+      },
+      {
+        "id": "C00002",
+        "label": "無輪奏"
+      }
+    ],
+    "is_accent": [
+      {
+        "id": "C00001",
+        "label": "有重音"
+      },
+      {
+        "id": "C00002",
+        "label": "無重音"
+      }
+    ],
+    "is_ornament": [
+      {
+        "id": "C00001",
+        "label": "有裝飾音"
+      },
+      {
+        "id": "C00002",
+        "label": "無裝飾音"
+      }
+    ],
+    "tie": [
+      {
+        "id": "C00001",
+        "label": "無延音線"
+      },
+      {
+        "id": "C00002",
+        "label": "延音開始"
+      },
+      {
+        "id": "C00003",
+        "label": "延音延續"
+      },
+      {
+        "id": "C00004",
+        "label": "延音結束"
+      }
+    ],
+    "slur": []
+  },
+  "profile": {
+    "name": "暫行節奏：已知輪奏與重音保留，未知欄位遮罩",
+    "fields": {
+      "duration": true,
+      "technique": false,
+      "pitch": false,
+      "dynamic": false,
+      "is_roll": true,
+      "is_accent": true,
+      "is_ornament": true,
+      "tie": true,
+      "slur": false,
+      "tempo": false
+    },
+    "projections": {
+      "instrument": {},
+      "technique": {},
+      "pitch": {},
+      "dynamic": {},
+      "is_roll": {},
+      "is_accent": {},
+      "is_ornament": {},
+      "tie": {},
+      "slur": {}
+    }
+  },
+  "local_to_unified_id": {
+    "0": 0,
+    "1": 28,
+    "2": 30,
+    "3": 133,
+    "4": 134,
+    "5": 135,
+    "6": 32,
+    "7": 2,
+    "8": 136,
+    "9": 137,
+    "10": 138,
+    "11": 139,
+    "12": 140,
+    "13": 141,
+    "14": 142,
+    "15": 143,
+    "16": 144,
+    "17": 145,
+    "18": 146,
+    "19": 147,
+    "20": 148,
+    "21": 149,
+    "22": 3,
+    "23": 12,
+    "24": 150,
+    "25": 4,
+    "26": 151,
+    "27": 152,
+    "28": 153,
+    "29": 25,
+    "30": 154,
+    "31": 155,
+    "32": 156,
+    "33": 157,
+    "34": 158,
+    "35": 159,
+    "36": 160,
+    "37": 35,
+    "38": 24,
+    "39": 51,
+    "40": 64,
+    "41": 161,
+    "42": 162,
+    "43": 163,
+    "44": 164,
+    "45": 165,
+    "46": 34,
+    "47": 166,
+    "48": 167,
+    "49": 168,
+    "50": 169,
+    "51": 170,
+    "52": 171,
+    "53": 172,
+    "54": 173,
+    "55": 174,
+    "56": 175,
+    "57": 176,
+    "58": 79,
+    "59": 177,
+    "60": 178,
+    "61": 179,
+    "62": 180,
+    "63": 181,
+    "64": 182,
+    "65": 183,
+    "66": 184,
+    "67": 185,
+    "68": 186,
+    "69": 187,
+    "70": 188,
+    "71": 189,
+    "72": 190,
+    "73": 191,
+    "74": 71,
+    "75": 75,
+    "76": 192,
+    "77": 193,
+    "78": 194,
+    "79": 195,
+    "80": 196,
+    "81": 197,
+    "82": 198,
+    "83": 199
+  },
+  "tokens_and_masks_preserved": true,
+  "limitations": [
+    "Only six works; exploratory first fine-tuning run.",
+    "First four scores contain provisional excerpt preparation.",
+    "No pitch, fine technique, dynamics or tempo tokens in this selected profile."
+  ],
+  "instrument_projection": {
+    "version": "gmd12-functional-v1",
+    "type": "functional_and_timbre_experiment",
+    "identity_claim": false,
+    "mappings": [
+      {
+        "source_name": "小鈸",
+        "source_token": "<INST:C00001>",
+        "target_token": "<STROKE_splash>",
+        "target_name": "GMD splash 命名分類（鈸邊）",
+        "reason": "短促、明亮的金屬標點，對應本 GMD 中標為 splash 的鈸邊分類",
+        "confidence": "中",
+        "source_occurrences": 580
+      },
+      {
+        "source_name": "小鑼",
+        "source_token": "<INST:C00002>",
+        "target_token": "<STROKE_ride_bell>",
+        "target_name": "Ride 鈸鐘",
+        "reason": "清楚、集中的金屬點音與句讀功能",
+        "confidence": "中",
+        "source_occurrences": 366
+      },
+      {
+        "source_name": "大鑼",
+        "source_token": "<INST:C00003>",
+        "target_token": "<STROKE_crash>",
+        "target_name": "Crash 鈸",
+        "reason": "較大幅度的金屬重點與段落強調",
+        "confidence": "中",
+        "source_occurrences": 90
+      },
+      {
+        "source_name": "小鼓",
+        "source_token": "<INST:C00004>",
+        "target_token": "<STROKE_snare>",
+        "target_name": "小鼓／軍鼓",
+        "reason": "清晰鼓擊、節奏推進及加花功能",
+        "confidence": "中",
+        "source_occurrences": 650
+      },
+      {
+        "source_name": "大鼓",
+        "source_token": "<INST:C00005>",
+        "target_token": "<STROKE_kick>",
+        "target_name": "低音大鼓",
+        "reason": "低音節奏支點與重拍功能",
+        "confidence": "高",
+        "source_occurrences": 92
+      },
+      {
+        "source_name": "定音鼓",
+        "source_token": "<INST:C00006>",
+        "target_token": "<STROKE_tom_mid>",
+        "target_name": "中音通鼓",
+        "reason": "有共鳴的鼓聲與鼓句功能；本批音高欄位關閉，暫固定中音 tom",
+        "confidence": "中",
+        "source_occurrences": 791
+      },
+      {
+        "source_name": "大鈸",
+        "source_token": "<INST:C00007>",
+        "target_token": "<STROKE_crash>",
+        "target_name": "Crash 鈸",
+        "reason": "強調重點、爆發性金屬聲與收句功能",
+        "confidence": "高",
+        "source_occurrences": 59
+      },
+      {
+        "source_name": "方響",
+        "source_token": "<INST:C00008>",
+        "target_token": "<STROKE_ride_bell>",
+        "target_name": "Ride 鈸鐘",
+        "reason": "金屬定音點擊的集中起音；此對應不保留音高差異",
+        "confidence": "低",
+        "source_occurrences": 17
+      },
+      {
+        "source_name": "木魚",
+        "source_token": "<INST:C00009>",
+        "target_token": "<STROKE_hihat_closed>",
+        "target_name": "閉合踩鈸",
+        "reason": "短音、規律拍點與細分節奏功能，依用途而非材質對應",
+        "confidence": "中",
+        "source_occurrences": 216
+      },
+      {
+        "source_name": "鈴鼓",
+        "source_token": "<INST:C00010>",
+        "target_token": "<STROKE_hihat_open>",
+        "target_name": "開放踩鈸",
+        "reason": "帶鈴片的噪音質地與較鬆散、帶尾音的節奏鋪陳",
+        "confidence": "中",
+        "source_occurrences": 691
+      },
+      {
+        "source_name": "低音鼓",
+        "source_token": "<INST:C00011>",
+        "target_token": "<STROKE_kick>",
+        "target_name": "低音大鼓",
+        "reason": "低音節奏支點與重拍功能",
+        "confidence": "高",
+        "source_occurrences": 28
+      },
+      {
+        "source_name": "軍鈸",
+        "source_token": "<INST:C00012>",
+        "target_token": "<STROKE_crash>",
+        "target_name": "Crash 鈸",
+        "reason": "鈸類重點與句讀；未另外假設實際尺寸",
+        "confidence": "中",
+        "source_occurrences": 49
+      },
+      {
+        "source_name": "小堂鼓",
+        "source_token": "<INST:C00013>",
+        "target_token": "<STROKE_tom_high>",
+        "target_name": "高音通鼓",
+        "reason": "相對小型鼓的鼓句與較高音域位置",
+        "confidence": "中",
+        "source_occurrences": 249
+      },
+      {
+        "source_name": "大堂鼓",
+        "source_token": "<INST:C00014>",
+        "target_token": "<STROKE_tom_low>",
+        "target_name": "低音通鼓",
+        "reason": "較低音域的共鳴鼓聲與鼓句；與 kick 的短低音支點分開",
+        "confidence": "中",
+        "source_occurrences": 285
+      },
+      {
+        "source_name": "大鈸（獅鈸）",
+        "source_token": "<INST:C00015>",
+        "target_token": "<STROKE_crash>",
+        "target_name": "Crash 鈸",
+        "reason": "大型對鈸的重點與段落強調功能",
+        "confidence": "高",
+        "source_occurrences": 2
+      },
+      {
+        "source_name": "吊鈸",
+        "source_token": "<INST:C00016>",
+        "target_token": "<STROKE_ride>",
+        "target_name": "Ride 鈸",
+        "reason": "持續金屬色彩、節拍鋪陳及延續聲響；輪奏欄位另外保留",
+        "confidence": "中",
+        "source_occurrences": 58
+      },
+      {
+        "source_name": "碰鈴",
+        "source_token": "<INST:C00017>",
+        "target_token": "<STROKE_ride_bell>",
+        "target_name": "Ride 鈸鐘",
+        "reason": "清亮、集中的鐘鈴類點音",
+        "confidence": "中",
+        "source_occurrences": 22
+      },
+      {
+        "source_name": "低音鑼",
+        "source_token": "<INST:C00018>",
+        "target_token": "<STROKE_crash>",
+        "target_name": "Crash 鈸",
+        "reason": "依鑼類金屬重點與長共鳴用途對應；低音差異在此合併",
+        "confidence": "中",
+        "source_occurrences": 7
+      },
+      {
+        "source_name": "大銅磐",
+        "source_token": "<INST:C00019>",
+        "target_token": "<STROKE_crash>",
+        "target_name": "Crash 鈸",
+        "reason": "暫依銅製打擊名稱與共鳴標點用途分類，未核實實物與擊法",
+        "confidence": "低",
+        "source_occurrences": 7
+      },
+      {
+        "source_name": "低音堂鼓",
+        "source_token": "<INST:C00020>",
+        "target_token": "<STROKE_tom_low>",
+        "target_name": "低音通鼓",
+        "reason": "明確的低音域鼓句與共鳴鼓聲",
+        "confidence": "高",
+        "source_occurrences": 25
+      },
+      {
+        "source_name": "班鼓",
+        "source_token": "<INST:C00021>",
+        "target_token": "<STROKE_snare>",
+        "target_name": "小鼓／軍鼓",
+        "reason": "暫依班／板鼓類領奏、密集節奏與清楚起音功能分類",
+        "confidence": "中",
+        "source_occurrences": 430
+      },
+      {
+        "source_name": "子弟鑼",
+        "source_token": "<INST:C00022>",
+        "target_token": "<STROKE_crash>",
+        "target_name": "Crash 鈸",
+        "reason": "專有鑼種暫依金屬句讀用途分類，未由名稱推定尺寸音高",
+        "confidence": "低",
+        "source_occurrences": 84
+      },
+      {
+        "source_name": "高音堂鼓",
+        "source_token": "<INST:C00023>",
+        "target_token": "<STROKE_tom_high>",
+        "target_name": "高音通鼓",
+        "reason": "明確的高音域鼓句與共鳴鼓聲",
+        "confidence": "高",
+        "source_occurrences": 482
+      },
+      {
+        "source_name": "最下方鑼聲部",
+        "source_token": "<INST:C00024>",
+        "target_token": "<STROKE_crash>",
+        "target_name": "Crash 鈸",
+        "reason": "只確認鑼類標點用途；聲部位置不視為尺寸或音高證據",
+        "confidence": "低",
+        "source_occurrences": 2
+      },
+      {
+        "source_name": "沙鎚",
+        "source_token": "<INST:C00025>",
+        "target_token": "<STROKE_hihat_closed>",
+        "target_name": "閉合踩鈸",
+        "reason": "短促沙聲、規律細分與節奏鋪陳功能",
+        "confidence": "中",
+        "source_occurrences": 5
+      },
+      {
+        "source_name": "沙槌",
+        "source_token": "<INST:C00026>",
+        "target_token": "<STROKE_hihat_closed>",
+        "target_name": "閉合踩鈸",
+        "reason": "依沙聲細分用途分類；保留原名在對照表，與沙鎚共用目標",
+        "confidence": "中",
+        "source_occurrences": 1
+      },
+      {
+        "source_name": "風鈴",
+        "source_token": "<INST:C00027>",
+        "target_token": "<STROKE_ride_bell>",
+        "target_name": "Ride 鈸鐘",
+        "reason": "暫依鐘鈴類金屬亮點分類，不能重現風鈴群音與滑奏",
+        "confidence": "低",
+        "source_occurrences": 4
+      },
+      {
+        "source_name": "風鑼",
+        "source_token": "<INST:C00028>",
+        "target_token": "<STROKE_crash>",
+        "target_name": "Crash 鈸",
+        "reason": "金屬共鳴、段落色彩與強調功能",
+        "confidence": "中",
+        "source_occurrences": 2
+      },
+      {
+        "source_name": "鈴鑼",
+        "source_token": "<INST:C00029>",
+        "target_token": "<STROKE_ride_bell>",
+        "target_name": "Ride 鈸鐘",
+        "reason": "暫依名稱採鐘鈴／鑼類集中的金屬點音，待實際音色核對",
+        "confidence": "低",
+        "source_occurrences": 2
+      },
+      {
+        "source_name": "三角鐵",
+        "source_token": "<INST:C00030>",
+        "target_token": "<STROKE_ride_bell>",
+        "target_name": "Ride 鈸鐘",
+        "reason": "清亮高頻金屬點音與拍點功能",
+        "confidence": "中",
+        "source_occurrences": 4
+      },
+      {
+        "source_name": "低音大鑼",
+        "source_token": "<INST:C00031>",
+        "target_token": "<STROKE_crash>",
+        "target_name": "Crash 鈸",
+        "reason": "大型鑼的段落重點與長共鳴；此對應不保留低音差異",
+        "confidence": "中",
+        "source_occurrences": 12
+      },
+      {
+        "source_name": "文鑼",
+        "source_token": "<INST:C00032>",
+        "target_token": "<STROKE_ride_bell>",
+        "target_name": "Ride 鈸鐘",
+        "reason": "暫採較收斂的鑼類句讀／點音功能，專名含義仍待實聽核對",
+        "confidence": "低",
+        "source_occurrences": 4
+      }
+    ],
+    "token_map": {
+      "<INST:C00001>": "<STROKE_splash>",
+      "<INST:C00002>": "<STROKE_ride_bell>",
+      "<INST:C00003>": "<STROKE_crash>",
+      "<INST:C00004>": "<STROKE_snare>",
+      "<INST:C00005>": "<STROKE_kick>",
+      "<INST:C00006>": "<STROKE_tom_mid>",
+      "<INST:C00007>": "<STROKE_crash>",
+      "<INST:C00008>": "<STROKE_ride_bell>",
+      "<INST:C00009>": "<STROKE_hihat_closed>",
+      "<INST:C00010>": "<STROKE_hihat_open>",
+      "<INST:C00011>": "<STROKE_kick>",
+      "<INST:C00012>": "<STROKE_crash>",
+      "<INST:C00013>": "<STROKE_tom_high>",
+      "<INST:C00014>": "<STROKE_tom_low>",
+      "<INST:C00015>": "<STROKE_crash>",
+      "<INST:C00016>": "<STROKE_ride>",
+      "<INST:C00017>": "<STROKE_ride_bell>",
+      "<INST:C00018>": "<STROKE_crash>",
+      "<INST:C00019>": "<STROKE_crash>",
+      "<INST:C00020>": "<STROKE_tom_low>",
+      "<INST:C00021>": "<STROKE_snare>",
+      "<INST:C00022>": "<STROKE_crash>",
+      "<INST:C00023>": "<STROKE_tom_high>",
+      "<INST:C00024>": "<STROKE_crash>",
+      "<INST:C00025>": "<STROKE_hihat_closed>",
+      "<INST:C00026>": "<STROKE_hihat_closed>",
+      "<INST:C00027>": "<STROKE_ride_bell>",
+      "<INST:C00028>": "<STROKE_crash>",
+      "<INST:C00029>": "<STROKE_ride_bell>",
+      "<INST:C00030>": "<STROKE_ride_bell>",
+      "<INST:C00031>": "<STROKE_crash>",
+      "<INST:C00032>": "<STROKE_ride_bell>"
+    },
+    "unused_targets": [
+      "<STROKE_hihat_pedal>"
+    ]
+  },
+  "control_dataset": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\projects\\guoyue_transformer_ft_v1\\data",
+  "control_hashes": {
+    "sequences.jsonl": "1be1a84816308241d8f3410b9b181c711ffe63a2c240df7fe6d500d19a3a3693",
+    "vocab.json": "9feaf8ad6f6573b398ab1ef55ad3be2f827ed55fa7b81f6b78d8d975d94a6289",
+    "dataset_manifest.json": "85423af6b1f1e4363c410df8effed91912672d44c2b129fb4c4fbf665c77a805"
+  },
+  "projection_source_hashes": {
+    "sequences.jsonl": "5a2782a3422818808fbda095dff65665dc731ddaa95c6e14768e7346f1801d64",
+    "vocab.json": "1f129baf85f03ff48bd90f82027dd8ab75b42209d86873dfd37ce2c82e17b1c1",
+    "rules.json": "06e4dcd82cd8c436a3780b1151e3e8e40eab62ca9303d9990662d1503737cb4a",
+    "manifest.json": "abcb10da71cb877669595c80b0da8702be9530dafba3324e22d561ab9ea89dee"
+  },
+  "source_instrument_class_count": 32,
+  "projected_used_instrument_class_count": 11,
+  "instrument_token_prefix": "STROKE",
+  "vocabulary_policy": "Keep exact original 200 IDs including unused INST classes to control initialization and model size",
+  "noninstrument_tokens_and_masks_preserved": true,
+  "training_rows_and_order_preserved": true,
+  "new_cross_split_duplicates": 0,
+  "source_instrument_token_count": 5316,
+  "prepared_instrument_token_count": 5284,
+  "projected_target_counts_all_sequences": {
+    "<STROKE_splash>": 580,
+    "<STROKE_ride_bell>": 419,
+    "<STROKE_crash>": 314,
+    "<STROKE_snare>": 1080,
+    "<STROKE_kick>": 120,
+    "<STROKE_tom_mid>": 791,
+    "<STROKE_hihat_closed>": 222,
+    "<STROKE_hihat_open>": 691,
+    "<STROKE_tom_high>": 731,
+    "<STROKE_tom_low>": 310,
+    "<STROKE_ride>": 58
+  }
+}

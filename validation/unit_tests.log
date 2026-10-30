@@ -1,0 +1,33 @@
+Running: C:\Users\Habu_\AppData\Local\Programs\Python\Python313\python.exe -m unittest tests.test_rhythm_transformer tests.test_gmd12_projection tests.test_score_tokenizer -v
+test_checkpoint_can_load_safely_and_restore_model (tests.test_rhythm_transformer.TransformerTests.test_checkpoint_can_load_safely_and_restore_model) ... ok
+test_dataset_matches_existing_lstm_windows (tests.test_rhythm_transformer.TransformerTests.test_dataset_matches_existing_lstm_windows) ... ok
+test_expansion_preserves_all_old_logits (tests.test_rhythm_transformer.TransformerTests.test_expansion_preserves_all_old_logits) ... ok
+test_future_tokens_cannot_affect_earlier_logits (tests.test_rhythm_transformer.TransformerTests.test_future_tokens_cannot_affect_earlier_logits) ... ok
+test_generation_grammar_preserves_simultaneity_and_positive_progress (tests.test_rhythm_transformer.TransformerTests.test_generation_grammar_preserves_simultaneity_and_positive_progress) ... ok
+test_prepared_six_works_preserve_masks_and_base_ids (tests.test_rhythm_transformer.TransformerTests.test_prepared_six_works_preserve_masks_and_base_ids) ... ok
+test_right_padding_does_not_change_valid_logits_or_loss (tests.test_rhythm_transformer.TransformerTests.test_right_padding_does_not_change_valid_logits_or_loss) ... ok
+test_schedule_warms_up_and_decays (tests.test_rhythm_transformer.TransformerTests.test_schedule_warms_up_and_decays) ... ok
+test_target_masks_shift_with_targets_and_padding_is_unknown (tests.test_rhythm_transformer.TransformerTests.test_target_masks_shift_with_targets_and_padding_is_unknown) ... ok
+test_unknown_target_and_padding_have_zero_loss_gradient (tests.test_rhythm_transformer.TransformerTests.test_unknown_target_and_padding_have_zero_loss_gradient) ... ok
+test_common_instrument_metric_adds_alias_probabilities_and_keeps_invalid_mass (tests.test_gmd12_projection.GMD12ProjectionTests.test_common_instrument_metric_adds_alias_probabilities_and_keeps_invalid_mass) ... ok
+test_projection_preserves_duplicate_events_and_unknown_masks (tests.test_gmd12_projection.GMD12ProjectionTests.test_projection_preserves_duplicate_events_and_unknown_masks) ... ok
+test_real_projection_changes_only_instruments_and_ids (tests.test_gmd12_projection.GMD12ProjectionTests.test_real_projection_changes_only_instruments_and_ids) ... ok
+test_unknown_instrument_requires_an_explicit_decision (tests.test_gmd12_projection.GMD12ProjectionTests.test_unknown_instrument_requires_an_explicit_decision) ... ok
+test_exports_keep_ids_stable_and_include_reproduction_inputs (tests.test_score_tokenizer.TokenizerTests.test_exports_keep_ids_stable_and_include_reproduction_inputs) ... ok
+test_global_alias_reused_but_pitch_local_rule_not_guessed (tests.test_score_tokenizer.TokenizerTests.test_global_alias_reused_but_pitch_local_rule_not_guessed) ... ok
+test_import_deduplicates_by_content_and_snapshots_source (tests.test_score_tokenizer.TokenizerTests.test_import_deduplicates_by_content_and_snapshots_source) ... ok
+test_known_tie_continuation_never_becomes_new_attack (tests.test_score_tokenizer.TokenizerTests.test_known_tie_continuation_never_becomes_new_attack) ... ok
+test_missing_mapping_blocks_only_enabled_fields (tests.test_score_tokenizer.TokenizerTests.test_missing_mapping_blocks_only_enabled_fields) ... ok
+test_no_rounding_unknown_onset_or_missing_repeat_route (tests.test_score_tokenizer.TokenizerTests.test_no_rounding_unknown_onset_or_missing_repeat_route) ... ok
+test_optional_fields_toggle_without_losing_source_or_rules (tests.test_score_tokenizer.TokenizerTests.test_optional_fields_toggle_without_losing_source_or_rules) ... ok
+test_piece_rule_has_priority_and_projection_cycles_rejected (tests.test_score_tokenizer.TokenizerTests.test_piece_rule_has_priority_and_projection_cycles_rejected) ... ok
+test_projection_preserves_identity_multiplicity_and_other_profile (tests.test_score_tokenizer.TokenizerTests.test_projection_preserves_identity_multiplicity_and_other_profile) ... ok
+test_real_jchw_order_and_full_conversion (tests.test_score_tokenizer.TokenizerTests.test_real_jchw_order_and_full_conversion) ... ok
+test_rename_keeps_identity_and_token_ids (tests.test_score_tokenizer.TokenizerTests.test_rename_keeps_identity_and_token_ids) ... ok
+test_repeats_silence_and_variable_meter_keep_exact_time (tests.test_score_tokenizer.TokenizerTests.test_repeats_silence_and_variable_meter_keep_exact_time) ... ok
+test_stale_window_cannot_overwrite_saved_mapping (tests.test_score_tokenizer.TokenizerTests.test_stale_window_cannot_overwrite_saved_mapping) ... ok
+
+----------------------------------------------------------------------
+Ran 27 tests in 3.445s
+
+OK

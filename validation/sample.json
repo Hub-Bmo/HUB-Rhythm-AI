@@ -1,0 +1,72 @@
+{
+  "tokens": [
+    "<BOS>",
+    "<SOURCE_GMD>",
+    "<TS_4-4>",
+    "<BPM_138>",
+    "<TIME_SHIFT_960>",
+    "<HIT_SET>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_960>",
+    "<HIT_SET>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_960>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_7>",
+    "<STROKE_tom_low>",
+    "<VEL_8>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_960>",
+    "<HIT_SET>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<EOS>"
+  ],
+  "events": [
+    {
+      "tick": 960,
+      "stroke": "hihat_pedal",
+      "velocity": 64
+    },
+    {
+      "tick": 1920,
+      "stroke": "hihat_pedal",
+      "velocity": 48
+    },
+    {
+      "tick": 2880,
+      "stroke": "snare",
+      "velocity": 112
+    },
+    {
+      "tick": 2880,
+      "stroke": "tom_low",
+      "velocity": 127
+    },
+    {
+      "tick": 2880,
+      "stroke": "hihat_pedal",
+      "velocity": 64
+    },
+    {
+      "tick": 3840,
+      "stroke": "hihat_pedal",
+      "velocity": 80
+    }
+  ],
+  "ppq": 960,
+  "bpm": 138,
+  "bars": 1,
+  "seed": 123,
+  "temperature": 0.85,
+  "top_k": 12,
+  "note": "Grammar-constrained sampling; WAV uses simple synthetic audition sounds, not recorded drum samples."
+}

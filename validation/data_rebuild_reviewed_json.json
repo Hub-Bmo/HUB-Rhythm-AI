@@ -1,0 +1,31 @@
+{
+  "work_dir": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\MusicAI_Research_Handoff_20261030\\work\\rebuild-20261030-024515-828923",
+  "stages": {
+    "guoyue": {
+      "tokenization": {
+        "rows": 132,
+        "semantic_equal": true,
+        "differences": [],
+        "byte_equal": true,
+        "actual_sha256": "5a2782a3422818808fbda095dff65665dc731ddaa95c6e14768e7346f1801d64",
+        "expected_sha256": "5a2782a3422818808fbda095dff65665dc731ddaa95c6e14768e7346f1801d64"
+      },
+      "fine_tune_alignment": {
+        "rows": 130,
+        "semantic_equal": true,
+        "differences": [],
+        "byte_equal": true,
+        "actual_sha256": "1be1a84816308241d8f3410b9b181c711ffe63a2c240df7fe6d500d19a3a3693",
+        "expected_sha256": "1be1a84816308241d8f3410b9b181c711ffe63a2c240df7fe6d500d19a3a3693"
+      }
+    },
+    "gmd12": {
+      "rows": 130,
+      "semantic_equal": true,
+      "differences": [],
+      "byte_equal": true,
+      "actual_sha256": "b276f80b79a2b743323be4cbe119f407e582e61fc83ce7761811883b0d99202b",
+      "expected_sha256": "b276f80b79a2b743323be4cbe119f407e582e61fc83ce7761811883b0d99202b"
+    }
+  }
+}

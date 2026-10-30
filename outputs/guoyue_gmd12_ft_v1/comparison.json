@@ -1,0 +1,131 @@
+{
+  "experiment": "Original 32 instruments vs functional GMD12 projection",
+  "control": {
+    "checkpoint": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\outputs\\guoyue_transformer_ft_v1\\guoyue_transformer_finetuned_v1.pt",
+    "checkpoint_sha256": "a297a5b2c1d38e2f28b2c1042fb4eceac415fdd1d511a320b17ff100f9f0afc3",
+    "epoch": 60,
+    "known_targets": 6483,
+    "validation_loss": 0.40649560261670037,
+    "fields": {
+      "structure": {
+        "count": 2398,
+        "loss": 0.29309769030706995,
+        "top1_accuracy": 0.9057547956630525
+      },
+      "time_shift": {
+        "count": 549,
+        "loss": 0.6305492102339837,
+        "top1_accuracy": 0.8051001821493625
+      },
+      "instrument": {
+        "count": 534,
+        "loss": 1.4481992114349251,
+        "top1_accuracy": 0.6404494382022472
+      },
+      "roll": {
+        "count": 532,
+        "loss": 0.1827659893752937,
+        "top1_accuracy": 0.9661654135338346
+      },
+      "accent": {
+        "count": 443,
+        "loss": 0.05675139760863431,
+        "top1_accuracy": 0.9932279909706546
+      },
+      "tie": {
+        "count": 525,
+        "loss": 0.12528157552083333,
+        "top1_accuracy": 0.9809523809523809
+      },
+      "attack": {
+        "count": 525,
+        "loss": 0.03868585495721726,
+        "top1_accuracy": 0.9885714285714285
+      },
+      "duration": {
+        "count": 534,
+        "loss": 1.1166315543071161,
+        "top1_accuracy": 0.5823970037453183
+      },
+      "ornament": {
+        "count": 443,
+        "loss": 0.01854697199492099,
+        "top1_accuracy": 1.0
+      }
+    },
+    "common_gmd12_instruments": {
+      "count": 534,
+      "loss": 1.3010752817218223,
+      "top1_accuracy": 0.6441947565543071,
+      "definition": "Sum probabilities of all original INST labels and native STROKE tokens that map to the same GMD class; other tokens are one invalid class."
+    }
+  },
+  "mapped": {
+    "checkpoint": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\outputs\\guoyue_gmd12_ft_v1\\guoyue_gmd12_finetuned_v1.pt",
+    "checkpoint_sha256": "b6e596af900b1ebbe2db598367bb039f2f1155d4ca2665e6fc08ea3ffa7e278e",
+    "epoch": 60,
+    "known_targets": 6483,
+    "validation_loss": 0.3671225951112532,
+    "fields": {
+      "structure": {
+        "count": 2398,
+        "loss": 0.28489222533509967,
+        "top1_accuracy": 0.9049207673060884
+      },
+      "time_shift": {
+        "count": 549,
+        "loss": 0.7308745184448464,
+        "top1_accuracy": 0.761384335154827
+      },
+      "instrument": {
+        "count": 534,
+        "loss": 1.0374539121706388,
+        "top1_accuracy": 0.702247191011236
+      },
+      "roll": {
+        "count": 532,
+        "loss": 0.15571800748208411,
+        "top1_accuracy": 0.9661654135338346
+      },
+      "accent": {
+        "count": 443,
+        "loss": 0.05432955567508465,
+        "top1_accuracy": 0.9954853273137697
+      },
+      "tie": {
+        "count": 525,
+        "loss": 0.11494163876488095,
+        "top1_accuracy": 0.9809523809523809
+      },
+      "attack": {
+        "count": 525,
+        "loss": 0.03562186104910714,
+        "top1_accuracy": 0.9885714285714285
+      },
+      "duration": {
+        "count": 534,
+        "loss": 1.0245173879330525,
+        "top1_accuracy": 0.6086142322097379
+      },
+      "ornament": {
+        "count": 443,
+        "loss": 0.019380659874082957,
+        "top1_accuracy": 1.0
+      }
+    },
+    "common_gmd12_instruments": {
+      "count": 534,
+      "loss": 1.0344806985462203,
+      "top1_accuracy": 0.702247191011236,
+      "definition": "Sum probabilities of all original INST labels and native STROKE tokens that map to the same GMD class; other tokens are one invalid class."
+    }
+  },
+  "same_rows_masks_vocabulary_architecture_and_training_settings": true,
+  "common_instrument_accuracy_change_pp": 5.805243445692887,
+  "interpretation": [
+    "Raw instrument and overall losses have different target granularity and are not alone evidence of better music.",
+    "Common GMD12 instrument scores aggregate probabilities on identical coarse labels, including an invalid-token class.",
+    "Time/duration/other field targets are unchanged, evaluated on corresponding validation contexts.",
+    "Single seed and one held-out work; no free-generation/listening quality evaluation."
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "folder": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\outputs\\六份樂譜_20261029_TOKEN版\\TOKEN\\tokens-20261029-113446-d35a4b",
+  "relative_folder": "TOKEN/tokens-20261029-113446-d35a4b",
+  "manifest": {
+    "format": "musicai-token-sequences",
+    "schema_version": "1.0",
+    "tokenizer_version": "0.1.0",
+    "created_at": "2026-10-29T03:34:46.552254+00:00",
+    "ppq": 960,
+    "source_time_unit": "quarter_note_fraction",
+    "library_revision": 11,
+    "profile": {
+      "name": "暫行節奏：已知輪奏與重音保留，未知欄位遮罩",
+      "fields": {
+        "duration": true,
+        "technique": false,
+        "pitch": false,
+        "dynamic": false,
+        "is_roll": true,
+        "is_accent": true,
+        "is_ornament": true,
+        "tie": true,
+        "slur": false,
+        "tempo": false
+      },
+      "projections": {
+        "instrument": {},
+        "technique": {},
+        "pitch": {},
+        "dynamic": {},
+        "is_roll": {},
+        "is_accent": {},
+        "is_ornament": {},
+        "tie": {},
+        "slur": {}
+      }
+    },
+    "sources": [
+      {
+        "id": "piece_81766262524732b7cdad",
+        "title": "天下無雙",
+        "source_path": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\outputs\\六份樂譜_20261029_TOKEN版\\訓練JSON\\天下無雙.json",
+        "sha256": "81766262524732b7cdad368c83f51801b123a836b972dfb3fc2002f19e9625c8"
+      },
+      {
+        "id": "piece_2d634d15f2581404082b",
+        "title": "闖將令",
+        "source_path": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\outputs\\六份樂譜_20261029_TOKEN版\\訓練JSON\\闖將令.json",
+        "sha256": "2d634d15f2581404082b25ffe38c22f97957931ba496899a87ca34cce14bf127"
+      },
+      {
+        "id": "piece_6a6dadf5e2f97131606a",
+        "title": "黃土情",
+        "source_path": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\outputs\\六份樂譜_20261029_TOKEN版\\訓練JSON\\黃土情.json",
+        "sha256": "6a6dadf5e2f97131606aaaafbc216dcad477002978b77d38959a4d89f8806a4c"
+      },
+      {
+        "id": "piece_3edc23849324de4a3b9b",
+        "title": "黃土高坡",
+        "source_path": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\outputs\\六份樂譜_20261029_TOKEN版\\訓練JSON\\黃土高坡.json",
+        "sha256": "3edc23849324de4a3b9b60c0120e2fd855a1d825f750189bc7b6200da6b55e21"
+      },
+      {
+        "id": "piece_7fa82b5d625f7a44e891",
+        "title": "節慶歡舞",
+        "source_path": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\outputs\\六份樂譜_20261029_TOKEN版\\訓練JSON\\節慶歡舞.json",
+        "sha256": "7fa82b5d625f7a44e891ca059ebdb522017ab8a53eec823a43520ac04f12664d"
+      },
+      {
+        "id": "piece_5b62c018d8edaa9941cb",
+        "title": "海神音詩",
+        "source_path": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\outputs\\六份樂譜_20261029_TOKEN版\\訓練JSON\\海神音詩.json",
+        "sha256": "5b62c018d8edaa9941cb6cbaaf5b646358151ddd8ae58aa3d4d85404800508cb"
+      }
+    ],
+    "rules_sha256": "1174b0f5f88c91fc752f5e40579e9d4dafbfd595bcb8920f2f9bb5f6ad90a671",
+    "vocab_sha256": "7cfa961a12ff35fa950105ef298a8551f40c011b5321cddc2e52f9617067cf87",
+    "sequence_count": 132,
+    "token_count": 62389,
+    "vocabulary_size": 84,
+    "unknown_tokens": 3157,
+    "warnings": [
+      "6 組同時事件轉換後相同；全部保留，未自動去重。",
+      "本格式為國樂 tokenizer v1，尚未驗證與既有 GMD vocab／tokenizer 相容；接入基礎模型前須對齊。",
+      "同作品、同來源套件及重複引用小節必須留在同一資料切分；此工具不自動切訓練／驗證集。"
+    ],
+    "loss_mask_contract": "loss_mask[i] applies to token_ids[i]. For next-token training use targets=ids[1:] and target_mask=loss_mask[1:]. Do not use this as an attention mask.",
+    "compatibility": "Independent guoyue-v1 grammar; not yet aligned to existing GMD vocabulary."
+  }
+}

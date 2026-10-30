@@ -1,0 +1,3739 @@
+{
+  "tokens": [
+    "<BOS>",
+    "<SOURCE_GMD>",
+    "<TS_4-4>",
+    "<BPM_138>",
+    "<TIME_SHIFT_0>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_7>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_5>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_2>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_5>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_7>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_2>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_5>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_3>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_2>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_7>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_open>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_6>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_1>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_5>",
+    "<STROKE_hihat_open>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_open>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_5>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_5>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_open>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_5>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_2>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_open>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_5>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_3>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_open>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_7>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_5>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_2>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_8>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_open>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_5>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_5>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_8>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_open>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_5>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_open>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_5>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_3>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_8>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_8>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_8>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_open>",
+    "<VEL_8>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_open>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_5>",
+    "<STROKE_hihat_open>",
+    "<VEL_8>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_open>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_snare>",
+    "<VEL_8>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_6>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_8>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_8>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_8>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_hihat_open>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_6>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_8>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_open>",
+    "<VEL_8>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_open>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_open>",
+    "<VEL_8>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_8>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_open>",
+    "<VEL_8>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_5>",
+    "<STROKE_hihat_closed>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_open>",
+    "<VEL_8>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_5>",
+    "<STROKE_hihat_closed>",
+    "<VEL_4>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_kick>",
+    "<VEL_4>",
+    "<STROKE_hihat_open>",
+    "<VEL_7>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_480>",
+    "<HIT_SET>",
+    "<STROKE_hihat_pedal>",
+    "<VEL_5>",
+    "<STROKE_hihat_closed>",
+    "<VEL_6>",
+    "<END_HIT_SET>",
+    "<TIME_SHIFT_240>",
+    "<HIT_SET>",
+    "<STROKE_hihat_closed>",
+    "<VEL_5>",
+    "<END_HIT_SET>",
+    "<EOS>"
+  ],
+  "events": [
+    {
+      "tick": 0,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 480,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 480,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 960,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 1440,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 1440,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 1920,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 1920,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 2400,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 2400,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 2880,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 3360,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 3360,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 3840,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 3840,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 4320,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 4320,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 4800,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 4800,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 5280,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 5760,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 5760,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 6240,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 6240,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 6720,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 6720,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 7200,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 7200,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 7680,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 7680,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 8160,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 8160,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 8640,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 9120,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 9120,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 9600,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 9840,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 9840,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 10320,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 10320,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 10800,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 10800,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 11280,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 11280,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 11760,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 12240,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 12240,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 12720,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 12720,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 13200,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 13200,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 13680,
+      "stroke": "snare",
+      "velocity": 112
+    },
+    {
+      "tick": 13680,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 14160,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 14640,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 14640,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 15120,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 15120,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 15600,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 15600,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 16080,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 16080,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 16560,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 16800,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 16800,
+      "stroke": "hihat_pedal",
+      "velocity": 64
+    },
+    {
+      "tick": 16800,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 17280,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 17280,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 17760,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 17760,
+      "stroke": "hihat_closed",
+      "velocity": 112
+    },
+    {
+      "tick": 18240,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 18720,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 18720,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 19200,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 19200,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 19680,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 19680,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 20160,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 20160,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 20640,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 20880,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 20880,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 21360,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 21360,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 21840,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 21840,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 22320,
+      "stroke": "kick",
+      "velocity": 80
+    },
+    {
+      "tick": 22320,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 22800,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 22800,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 23280,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 23760,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 23760,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 24240,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 24240,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 24720,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 24720,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 25200,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 25680,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 25680,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 26160,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 26160,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 26640,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 26640,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 27120,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 27120,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 27600,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 27600,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 28080,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 28560,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 29040,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 29040,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 29520,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 29520,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 30000,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 30000,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 30480,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 30720,
+      "stroke": "snare",
+      "velocity": 32
+    },
+    {
+      "tick": 30960,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 30960,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 31440,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 31440,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 31920,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 31920,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 32400,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 32400,
+      "stroke": "hihat_closed",
+      "velocity": 112
+    },
+    {
+      "tick": 32880,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 33360,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 33360,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 33840,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 33840,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 34320,
+      "stroke": "kick",
+      "velocity": 80
+    },
+    {
+      "tick": 34320,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 34800,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 34800,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 35280,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 35760,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 35760,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 36240,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 36240,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 36720,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 36720,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 37200,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 37200,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 37680,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 37680,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 38160,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 38160,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 38640,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 38640,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 39120,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 39120,
+      "stroke": "hihat_closed",
+      "velocity": 112
+    },
+    {
+      "tick": 39600,
+      "stroke": "snare",
+      "velocity": 112
+    },
+    {
+      "tick": 39600,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 40080,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 40560,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 40800,
+      "stroke": "snare",
+      "velocity": 32
+    },
+    {
+      "tick": 41040,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 41040,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 41520,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 41520,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 42000,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 42000,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 42480,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 42480,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 42960,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 42960,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 43440,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 43920,
+      "stroke": "hihat_pedal",
+      "velocity": 64
+    },
+    {
+      "tick": 43920,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 44400,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 44880,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 45360,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 45360,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 45840,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 45840,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 46320,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 46800,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 46800,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 47280,
+      "stroke": "kick",
+      "velocity": 80
+    },
+    {
+      "tick": 47280,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 47760,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 47760,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 48240,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 48720,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 49200,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 49440,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 49920,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 50400,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 50880,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 50880,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 51360,
+      "stroke": "kick",
+      "velocity": 48
+    },
+    {
+      "tick": 51360,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 51840,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 51840,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 52320,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 52320,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 52800,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 52800,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 53280,
+      "stroke": "hihat_closed",
+      "velocity": 32
+    },
+    {
+      "tick": 53760,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 54240,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 54240,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 54720,
+      "stroke": "snare",
+      "velocity": 112
+    },
+    {
+      "tick": 54720,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 55200,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 55680,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 55680,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 56160,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 56160,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 56640,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 57120,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 57600,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 57600,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 58080,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 58080,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 58560,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 59040,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 59040,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 59520,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 59520,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 60000,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 60000,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 60480,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 60480,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 60960,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 61440,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 61920,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 62400,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 62880,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 62880,
+      "stroke": "hihat_open",
+      "velocity": 48
+    },
+    {
+      "tick": 63360,
+      "stroke": "hihat_pedal",
+      "velocity": 96
+    },
+    {
+      "tick": 63360,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 63840,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 64320,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 64320,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 64800,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 65280,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 65760,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 65760,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 66240,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 66240,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 66720,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 66720,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 67200,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 67200,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 67680,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 68160,
+      "stroke": "kick",
+      "velocity": 48
+    },
+    {
+      "tick": 68400,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 68400,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 68880,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 69360,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 69840,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 70320,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 70800,
+      "stroke": "hihat_closed",
+      "velocity": 16
+    },
+    {
+      "tick": 71280,
+      "stroke": "hihat_closed",
+      "velocity": 112
+    },
+    {
+      "tick": 71760,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 71760,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 72240,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 72720,
+      "stroke": "kick",
+      "velocity": 80
+    },
+    {
+      "tick": 72720,
+      "stroke": "hihat_open",
+      "velocity": 96
+    },
+    {
+      "tick": 73200,
+      "stroke": "hihat_open",
+      "velocity": 64
+    },
+    {
+      "tick": 73680,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 73680,
+      "stroke": "hihat_pedal",
+      "velocity": 80
+    },
+    {
+      "tick": 73680,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 74160,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 74640,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 75120,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 75120,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 75600,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 75600,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 76080,
+      "stroke": "kick",
+      "velocity": 80
+    },
+    {
+      "tick": 76080,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 76560,
+      "stroke": "hihat_open",
+      "velocity": 96
+    },
+    {
+      "tick": 77040,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 77040,
+      "stroke": "hihat_pedal",
+      "velocity": 80
+    },
+    {
+      "tick": 77040,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 77520,
+      "stroke": "hihat_closed",
+      "velocity": 32
+    },
+    {
+      "tick": 78000,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 78480,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 78960,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 78960,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 79440,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 79920,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 79920,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 80400,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 80880,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 80880,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 81360,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 81360,
+      "stroke": "hihat_open",
+      "velocity": 80
+    },
+    {
+      "tick": 81840,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 81840,
+      "stroke": "hihat_pedal",
+      "velocity": 80
+    },
+    {
+      "tick": 81840,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 82320,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 82800,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 82800,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 83280,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 83760,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 83760,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 84240,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 84720,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 85200,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 85680,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 86160,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 86160,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 86640,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 86640,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 87120,
+      "stroke": "kick",
+      "velocity": 48
+    },
+    {
+      "tick": 87600,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 88080,
+      "stroke": "kick",
+      "velocity": 48
+    },
+    {
+      "tick": 88080,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 88560,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 88560,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 89040,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 89040,
+      "stroke": "hihat_open",
+      "velocity": 96
+    },
+    {
+      "tick": 89520,
+      "stroke": "snare",
+      "velocity": 112
+    },
+    {
+      "tick": 89520,
+      "stroke": "hihat_pedal",
+      "velocity": 80
+    },
+    {
+      "tick": 89520,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 90000,
+      "stroke": "hihat_closed",
+      "velocity": 32
+    },
+    {
+      "tick": 90480,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 90960,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 91440,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 91920,
+      "stroke": "hihat_closed",
+      "velocity": 127
+    },
+    {
+      "tick": 92400,
+      "stroke": "hihat_closed",
+      "velocity": 112
+    },
+    {
+      "tick": 92880,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 93360,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 93360,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 93840,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 94320,
+      "stroke": "hihat_open",
+      "velocity": 96
+    },
+    {
+      "tick": 94800,
+      "stroke": "kick",
+      "velocity": 80
+    },
+    {
+      "tick": 94800,
+      "stroke": "hihat_pedal",
+      "velocity": 80
+    },
+    {
+      "tick": 94800,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 95280,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 95280,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 95760,
+      "stroke": "hihat_closed",
+      "velocity": 127
+    },
+    {
+      "tick": 96240,
+      "stroke": "hihat_open",
+      "velocity": 112
+    },
+    {
+      "tick": 96720,
+      "stroke": "hihat_pedal",
+      "velocity": 80
+    },
+    {
+      "tick": 96720,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 97200,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 97200,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 97680,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 98160,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 98640,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 99120,
+      "stroke": "hihat_closed",
+      "velocity": 112
+    },
+    {
+      "tick": 99600,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 99600,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 100080,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 100080,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 100560,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 101040,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 101520,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 101520,
+      "stroke": "hihat_open",
+      "velocity": 96
+    },
+    {
+      "tick": 102000,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 102000,
+      "stroke": "hihat_pedal",
+      "velocity": 80
+    },
+    {
+      "tick": 102000,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 102480,
+      "stroke": "hihat_closed",
+      "velocity": 48
+    },
+    {
+      "tick": 102960,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 103440,
+      "stroke": "hihat_closed",
+      "velocity": 112
+    },
+    {
+      "tick": 103920,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 104400,
+      "stroke": "hihat_closed",
+      "velocity": 127
+    },
+    {
+      "tick": 104880,
+      "stroke": "hihat_closed",
+      "velocity": 112
+    },
+    {
+      "tick": 105360,
+      "stroke": "hihat_closed",
+      "velocity": 127
+    },
+    {
+      "tick": 105840,
+      "stroke": "hihat_closed",
+      "velocity": 112
+    },
+    {
+      "tick": 106080,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 106560,
+      "stroke": "hihat_closed",
+      "velocity": 127
+    },
+    {
+      "tick": 106800,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 107280,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 107280,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 107760,
+      "stroke": "hihat_open",
+      "velocity": 127
+    },
+    {
+      "tick": 108240,
+      "stroke": "hihat_open",
+      "velocity": 112
+    },
+    {
+      "tick": 108720,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 108720,
+      "stroke": "hihat_pedal",
+      "velocity": 80
+    },
+    {
+      "tick": 108720,
+      "stroke": "hihat_open",
+      "velocity": 127
+    },
+    {
+      "tick": 109200,
+      "stroke": "hihat_open",
+      "velocity": 112
+    },
+    {
+      "tick": 109680,
+      "stroke": "snare",
+      "velocity": 127
+    },
+    {
+      "tick": 109680,
+      "stroke": "hihat_pedal",
+      "velocity": 96
+    },
+    {
+      "tick": 109680,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 110160,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 110640,
+      "stroke": "hihat_closed",
+      "velocity": 127
+    },
+    {
+      "tick": 111120,
+      "stroke": "hihat_closed",
+      "velocity": 127
+    },
+    {
+      "tick": 111600,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 112080,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 112560,
+      "stroke": "hihat_closed",
+      "velocity": 127
+    },
+    {
+      "tick": 112800,
+      "stroke": "hihat_closed",
+      "velocity": 112
+    },
+    {
+      "tick": 113040,
+      "stroke": "hihat_closed",
+      "velocity": 112
+    },
+    {
+      "tick": 113520,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 113760,
+      "stroke": "hihat_open",
+      "velocity": 112
+    },
+    {
+      "tick": 114240,
+      "stroke": "hihat_pedal",
+      "velocity": 96
+    },
+    {
+      "tick": 114240,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 114720,
+      "stroke": "hihat_closed",
+      "velocity": 112
+    },
+    {
+      "tick": 114960,
+      "stroke": "hihat_closed",
+      "velocity": 127
+    },
+    {
+      "tick": 115440,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 115440,
+      "stroke": "hihat_open",
+      "velocity": 127
+    },
+    {
+      "tick": 115920,
+      "stroke": "hihat_open",
+      "velocity": 112
+    },
+    {
+      "tick": 116400,
+      "stroke": "hihat_pedal",
+      "velocity": 80
+    },
+    {
+      "tick": 116880,
+      "stroke": "hihat_closed",
+      "velocity": 112
+    },
+    {
+      "tick": 117360,
+      "stroke": "hihat_open",
+      "velocity": 127
+    },
+    {
+      "tick": 117840,
+      "stroke": "hihat_pedal",
+      "velocity": 112
+    },
+    {
+      "tick": 118320,
+      "stroke": "hihat_closed",
+      "velocity": 127
+    },
+    {
+      "tick": 118800,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 118800,
+      "stroke": "hihat_open",
+      "velocity": 127
+    },
+    {
+      "tick": 119280,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 119280,
+      "stroke": "hihat_pedal",
+      "velocity": 80
+    },
+    {
+      "tick": 119280,
+      "stroke": "hihat_closed",
+      "velocity": 112
+    },
+    {
+      "tick": 119760,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 120240,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 120240,
+      "stroke": "hihat_open",
+      "velocity": 127
+    },
+    {
+      "tick": 120720,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 120720,
+      "stroke": "hihat_pedal",
+      "velocity": 80
+    },
+    {
+      "tick": 120720,
+      "stroke": "hihat_closed",
+      "velocity": 64
+    },
+    {
+      "tick": 121200,
+      "stroke": "hihat_closed",
+      "velocity": 112
+    },
+    {
+      "tick": 121680,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    },
+    {
+      "tick": 122160,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 122160,
+      "stroke": "kick",
+      "velocity": 64
+    },
+    {
+      "tick": 122160,
+      "stroke": "hihat_open",
+      "velocity": 112
+    },
+    {
+      "tick": 122640,
+      "stroke": "hihat_pedal",
+      "velocity": 80
+    },
+    {
+      "tick": 122640,
+      "stroke": "hihat_closed",
+      "velocity": 96
+    },
+    {
+      "tick": 122880,
+      "stroke": "hihat_closed",
+      "velocity": 80
+    }
+  ],
+  "ppq": 960,
+  "bpm": 138,
+  "bars": 32,
+  "seed": 456,
+  "temperature": 0.85,
+  "top_k": 12,
+  "note": "Grammar-constrained sampling; WAV uses simple synthetic audition sounds, not recorded drum samples."
+}

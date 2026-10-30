@@ -1,0 +1,17 @@
+{
+  "copied_files": 1660,
+  "bytes": 676639006,
+  "max_file_bytes": 40819595,
+  "source_files_moved": 0,
+  "source_files_modified": 0,
+  "excluded": [
+    ".git",
+    "credentials and environment config",
+    "virtual environments",
+    "OMR caches and logs",
+    "preview caches",
+    "duplicate .bak and lock files",
+    "smoke models"
+  ],
+  "gmd_csv": "Losslessly gzip-compressed to avoid the ordinary Git single-file size limit"
+}

@@ -1,0 +1,59 @@
+{
+  "checkpoint": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\MusicAI_Research_Handoff_20261030\\reproduced_runs\\handoff_smoke\\v2\\guoyue_transformer_finetuned_v1.pt",
+  "checkpoint_sha256": "0cf31ddf1d57b7654e236d7607ba48070b240f6985cdf81539ec356696583636",
+  "best_epoch": 2,
+  "validation_loss_reloaded": 4.6896811854079905,
+  "known_validation_targets": 6483,
+  "fields": {
+    "structure": {
+      "count": 2398,
+      "loss": 4.535166023769809,
+      "top1_accuracy": 0.22894078398665554
+    },
+    "time_shift": {
+      "count": 549,
+      "loss": 5.029001593806922,
+      "top1_accuracy": 0.15300546448087432
+    },
+    "instrument": {
+      "count": 534,
+      "loss": 5.3190543071161045,
+      "top1_accuracy": 0.0
+    },
+    "roll": {
+      "count": 532,
+      "loss": 4.897556390977444,
+      "top1_accuracy": 0.0
+    },
+    "accent": {
+      "count": 443,
+      "loss": 4.671134311512415,
+      "top1_accuracy": 0.0
+    },
+    "tie": {
+      "count": 525,
+      "loss": 4.475119047619048,
+      "top1_accuracy": 0.0
+    },
+    "attack": {
+      "count": 525,
+      "loss": 4.349494047619047,
+      "top1_accuracy": 0.0
+    },
+    "duration": {
+      "count": 534,
+      "loss": 5.05003511235955,
+      "top1_accuracy": 0.0
+    },
+    "ornament": {
+      "count": 443,
+      "loss": 4.338882618510158,
+      "top1_accuracy": 0.0
+    }
+  },
+  "source_files_unchanged": true,
+  "original_gmd_token_ids_preserved": true,
+  "updated_backbone_tensor_count": 48,
+  "base_checkpoint_sha256": "b5dc7678355e9e7173aba3de8254572a79929e05c5de0b97fa89415588aa8070",
+  "interpretation": "Teacher-forced validation on one held-out work; not listening quality, free generation, or an independent test result."
+}

@@ -1,0 +1,13 @@
+{
+  "checkpoint": "outputs/gmd_transformer_v1/gmd_transformer_pretrained.pt",
+  "device": "cpu",
+  "bars": 1,
+  "generated_tokens": 29,
+  "outputs": [
+    "sample.json",
+    "sample.mid",
+    "sample.txt",
+    "sample.wav"
+  ],
+  "passed": true
+}

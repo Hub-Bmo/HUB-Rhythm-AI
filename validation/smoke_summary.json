@@ -1,0 +1,37 @@
+{
+  "note": "Each smoke stage limits training and validation to two batches. V2 handoff_smoke resumed from epoch 1 to epoch 2. Temporary smoke weights are omitted; all three formal trained models are retained in outputs. Smoke losses are not model-quality results.",
+  "runs": [
+    {
+      "run": "handoff_cpu_smoke/v1",
+      "status": "completed",
+      "smoke_test": true,
+      "epochs_completed": 1,
+      "best_epoch": 1,
+      "training_seconds_this_process": 4.9
+    },
+    {
+      "run": "handoff_smoke/v1",
+      "status": "completed",
+      "smoke_test": true,
+      "epochs_completed": 1,
+      "best_epoch": 1,
+      "training_seconds_this_process": 1.0
+    },
+    {
+      "run": "handoff_smoke/v2",
+      "status": "completed",
+      "smoke_test": true,
+      "epochs_completed": 2,
+      "best_epoch": 2,
+      "training_seconds_this_process": 0.9
+    },
+    {
+      "run": "handoff_smoke/v3",
+      "status": "completed",
+      "smoke_test": true,
+      "epochs_completed": 1,
+      "best_epoch": 1,
+      "training_seconds_this_process": 0.8
+    }
+  ]
+}

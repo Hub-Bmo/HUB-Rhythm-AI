@@ -1,0 +1,32 @@
+[
+  {
+    "version": "V1",
+    "summary": "outputs/gmd_transformer_v1/summary.json",
+    "completed_at": "2026-10-28T22:36:12.255610+00:00",
+    "training_seconds_this_process": 148.9,
+    "epochs_completed": 30,
+    "best_epoch": 30,
+    "best_val_loss": 0.6927768099203133,
+    "history_rows": 30
+  },
+  {
+    "version": "V2",
+    "summary": "outputs/guoyue_transformer_ft_v1/summary.json",
+    "completed_at": "2026-10-29T03:46:14.368891+00:00",
+    "training_seconds_this_process": 21.7,
+    "epochs_completed": 60,
+    "best_epoch": 60,
+    "best_val_loss": 0.40649560930992595,
+    "history_rows": 60
+  },
+  {
+    "version": "V3",
+    "summary": "outputs/guoyue_gmd12_ft_v1/summary.json",
+    "completed_at": "2026-10-29T04:37:26.286918+00:00",
+    "training_seconds_this_process": 21.6,
+    "epochs_completed": 60,
+    "best_epoch": 60,
+    "best_val_loss": 0.3671225954238489,
+    "history_rows": 60
+  }
+]

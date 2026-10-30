@@ -1,0 +1,551 @@
+{
+  "concepts": {
+    "instrument": [
+      {
+        "id": "C00001",
+        "label": "小鈸"
+      },
+      {
+        "id": "C00002",
+        "label": "小鑼"
+      },
+      {
+        "id": "C00003",
+        "label": "大鑼"
+      },
+      {
+        "id": "C00004",
+        "label": "小鼓"
+      },
+      {
+        "id": "C00005",
+        "label": "大鼓"
+      },
+      {
+        "id": "C00006",
+        "label": "定音鼓"
+      },
+      {
+        "id": "C00007",
+        "label": "大鈸"
+      },
+      {
+        "id": "C00008",
+        "label": "方響"
+      },
+      {
+        "id": "C00009",
+        "label": "木魚"
+      },
+      {
+        "id": "C00010",
+        "label": "鈴鼓"
+      },
+      {
+        "id": "C00011",
+        "label": "低音鼓"
+      },
+      {
+        "id": "C00012",
+        "label": "軍鈸"
+      },
+      {
+        "id": "C00013",
+        "label": "小堂鼓"
+      },
+      {
+        "id": "C00014",
+        "label": "大堂鼓"
+      },
+      {
+        "id": "C00015",
+        "label": "大鈸（獅鈸）"
+      },
+      {
+        "id": "C00016",
+        "label": "吊鈸"
+      },
+      {
+        "id": "C00017",
+        "label": "碰鈴"
+      },
+      {
+        "id": "C00018",
+        "label": "低音鑼"
+      },
+      {
+        "id": "C00019",
+        "label": "大銅磐"
+      },
+      {
+        "id": "C00020",
+        "label": "低音堂鼓"
+      },
+      {
+        "id": "C00021",
+        "label": "班鼓"
+      },
+      {
+        "id": "C00022",
+        "label": "子弟鑼"
+      },
+      {
+        "id": "C00023",
+        "label": "高音堂鼓"
+      },
+      {
+        "id": "C00024",
+        "label": "最下方鑼聲部"
+      },
+      {
+        "id": "C00025",
+        "label": "沙鎚"
+      },
+      {
+        "id": "C00026",
+        "label": "沙槌"
+      },
+      {
+        "id": "C00027",
+        "label": "風鈴"
+      },
+      {
+        "id": "C00028",
+        "label": "風鑼"
+      },
+      {
+        "id": "C00029",
+        "label": "鈴鑼"
+      },
+      {
+        "id": "C00030",
+        "label": "三角鐵"
+      },
+      {
+        "id": "C00031",
+        "label": "低音大鑼"
+      },
+      {
+        "id": "C00032",
+        "label": "文鑼"
+      }
+    ],
+    "technique": [],
+    "pitch": [],
+    "dynamic": [],
+    "is_roll": [
+      {
+        "id": "C00001",
+        "label": "有輪奏"
+      },
+      {
+        "id": "C00002",
+        "label": "無輪奏"
+      }
+    ],
+    "is_accent": [
+      {
+        "id": "C00001",
+        "label": "有重音"
+      },
+      {
+        "id": "C00002",
+        "label": "無重音"
+      }
+    ],
+    "is_ornament": [
+      {
+        "id": "C00001",
+        "label": "有裝飾音"
+      },
+      {
+        "id": "C00002",
+        "label": "無裝飾音"
+      }
+    ],
+    "tie": [
+      {
+        "id": "C00001",
+        "label": "無延音線"
+      },
+      {
+        "id": "C00002",
+        "label": "延音開始"
+      },
+      {
+        "id": "C00003",
+        "label": "延音延續"
+      },
+      {
+        "id": "C00004",
+        "label": "延音結束"
+      }
+    ],
+    "slur": []
+  },
+  "rules": [
+    {
+      "field": "is_roll",
+      "source": "true",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00001"
+    },
+    {
+      "field": "is_roll",
+      "source": "false",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00002"
+    },
+    {
+      "field": "is_accent",
+      "source": "true",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00001"
+    },
+    {
+      "field": "is_accent",
+      "source": "false",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00002"
+    },
+    {
+      "field": "is_ornament",
+      "source": "true",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00001"
+    },
+    {
+      "field": "is_ornament",
+      "source": "false",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00002"
+    },
+    {
+      "field": "tie",
+      "source": "none",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00001"
+    },
+    {
+      "field": "tie",
+      "source": "start",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00002"
+    },
+    {
+      "field": "tie",
+      "source": "continue",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00003"
+    },
+    {
+      "field": "tie",
+      "source": "stop",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00004"
+    },
+    {
+      "field": "instrument",
+      "source": "大鼓",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00005"
+    },
+    {
+      "field": "instrument",
+      "source": "低音鼓",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00011"
+    },
+    {
+      "field": "instrument",
+      "source": "小鈸",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00001"
+    },
+    {
+      "field": "instrument",
+      "source": "小鼓",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00004"
+    },
+    {
+      "field": "instrument",
+      "source": "木魚",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00009"
+    },
+    {
+      "field": "instrument",
+      "source": "鈴鼓",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00010"
+    },
+    {
+      "field": "instrument",
+      "source": "大鈸",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00007"
+    },
+    {
+      "field": "instrument",
+      "source": "定音鼓",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00006"
+    },
+    {
+      "field": "instrument",
+      "source": "方響",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00008"
+    },
+    {
+      "field": "instrument",
+      "source": "小鑼",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00002"
+    },
+    {
+      "field": "instrument",
+      "source": "大鑼",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00003"
+    },
+    {
+      "field": "instrument",
+      "source": "軍鈸",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00012"
+    },
+    {
+      "field": "instrument",
+      "source": "小堂鼓",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00013"
+    },
+    {
+      "field": "instrument",
+      "source": "大堂鼓",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00014"
+    },
+    {
+      "field": "instrument",
+      "source": "大鈸(獅鈸)",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00015"
+    },
+    {
+      "field": "instrument",
+      "source": "吊鈸",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00016"
+    },
+    {
+      "field": "instrument",
+      "source": "碰鈴",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00017"
+    },
+    {
+      "field": "instrument",
+      "source": "低音鑼",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00018"
+    },
+    {
+      "field": "instrument",
+      "source": "大銅磐",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00019"
+    },
+    {
+      "field": "instrument",
+      "source": "低音堂鼓",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00020"
+    },
+    {
+      "field": "instrument",
+      "source": "班鼓",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00021"
+    },
+    {
+      "field": "instrument",
+      "source": "子弟鑼",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00022"
+    },
+    {
+      "field": "instrument",
+      "source": "高音堂鼓",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00023"
+    },
+    {
+      "field": "instrument",
+      "source": "最下方鑼聲部",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00024"
+    },
+    {
+      "field": "instrument",
+      "source": "沙鎚",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00025"
+    },
+    {
+      "field": "instrument",
+      "source": "沙槌",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00026"
+    },
+    {
+      "field": "instrument",
+      "source": "風鈴",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00027"
+    },
+    {
+      "field": "instrument",
+      "source": "風鑼",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00028"
+    },
+    {
+      "field": "instrument",
+      "source": "鈴鑼",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00029"
+    },
+    {
+      "field": "instrument",
+      "source": "三角鐵",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00030"
+    },
+    {
+      "field": "instrument",
+      "source": "低音大鑼",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00031"
+    },
+    {
+      "field": "instrument",
+      "source": "文鑼",
+      "instrument": "",
+      "scope": "global",
+      "piece_id": null,
+      "target": "C00032"
+    }
+  ],
+  "profile": {
+    "name": "暫行節奏：已知輪奏與重音保留，未知欄位遮罩",
+    "fields": {
+      "duration": true,
+      "technique": false,
+      "pitch": false,
+      "dynamic": false,
+      "is_roll": true,
+      "is_accent": true,
+      "is_ornament": true,
+      "tie": true,
+      "slur": false,
+      "tempo": false
+    },
+    "projections": {
+      "instrument": {},
+      "technique": {},
+      "pitch": {},
+      "dynamic": {},
+      "is_roll": {},
+      "is_accent": {},
+      "is_ornament": {},
+      "tie": {},
+      "slur": {}
+    }
+  },
+  "profile_id": "basic"
+}

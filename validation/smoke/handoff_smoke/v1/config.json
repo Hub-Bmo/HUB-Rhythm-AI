@@ -1,0 +1,68 @@
+{
+  "training": {
+    "data": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\MusicAI_Research_Handoff_20261030\\projects\\gmd_transformer_v1\\data\\gmd_sequences_v2.jsonl",
+    "vocab": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\MusicAI_Research_Handoff_20261030\\projects\\gmd_transformer_v1\\data\\vocab.json",
+    "run": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\MusicAI_Research_Handoff_20261030\\reproduced_runs\\handoff_smoke\\v1",
+    "epochs": 1,
+    "batch_size": 8,
+    "lr": 0.0003,
+    "seed": 42,
+    "patience": 6,
+    "warmup": 100,
+    "save_every": 100,
+    "device": "cuda",
+    "resume": null,
+    "init_from": null,
+    "max_batches": 2,
+    "no_samples": true,
+    "model_name": "gmd_transformer_pretrained.pt"
+  },
+  "model": {
+    "vocab_size": 133,
+    "context_length": 512,
+    "d_model": 256,
+    "n_layers": 4,
+    "n_heads": 8,
+    "d_ff": 1024,
+    "dropout": 0.1,
+    "pad_id": 0
+  },
+  "data": {
+    "vocab_size": 133,
+    "sequence_sha256": "9957663c5c2e2daa6f63c0847718e431966a2c7a8662f31dd10de6e3e9a5cd7b",
+    "vocab_sha256": "7cd5241e2448a728b732976b1d7df65cad859cc1ef5cb53087454bcc435a5137",
+    "split_counts": {
+      "train": 897,
+      "validation": 124,
+      "test": 129
+    },
+    "token_counts": {
+      "test": 168983,
+      "train": 1361343,
+      "validation": 168181
+    },
+    "ppq": 960,
+    "window_policy": "legacy-lstm: chunks of 512 tokens; x=chunk[:-1], y=chunk[1:], step=512",
+    "quantization": "existing source tokens unchanged; source conversion specifies PPQ960 / 1/16 grid",
+    "masked_token_counts": {
+      "test": 0,
+      "train": 0,
+      "validation": 0
+    },
+    "window_counts": {
+      "train": 3297,
+      "validation": 417,
+      "test": 412
+    }
+  },
+  "machine": {
+    "python": "3.13.13 (tags/v3.13.13:01104ce, Apr  7 2026, 19:25:48) [MSC v.1944 64 bit (AMD64)]",
+    "python_executable": "C:\\Users\\Habu_\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+    "torch": "2.14.1+cu130",
+    "cuda": "13.0",
+    "device": "cuda",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti",
+    "precision": "torch.bfloat16",
+    "parameters": 3358853
+  }
+}

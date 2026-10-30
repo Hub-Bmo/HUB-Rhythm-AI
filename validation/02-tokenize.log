@@ -1,0 +1,32 @@
+讀取： gmd_events.csv
+[1/1150] GMD000001 | events = 410 | hit_sets = 191 | tokens = 1398
+[2/1150] GMD000002 | events = 247 | hit_sets = 176 | tokens = 1027
+[3/1150] GMD000003 | events = 324 | hit_sets = 212 | tokens = 1289
+[4/1150] GMD000004 | events = 457 | hit_sets = 254 | tokens = 1681
+[5/1150] GMD000005 | events = 223 | hit_sets = 168 | tokens = 955
+[100/1150] GMD000100 | events = 35 | hit_sets = 24 | tokens = 147
+[200/1150] GMD000200 | events = 3236 | hit_sets = 1674 | tokens = 11499
+[300/1150] GMD000300 | events = 18 | hit_sets = 12 | tokens = 77
+[400/1150] GMD000400 | events = 952 | hit_sets = 562 | tokens = 3595
+[500/1150] GMD000500 | events = 656 | hit_sets = 455 | tokens = 2682
+[600/1150] GMD000600 | events = 288 | hit_sets = 191 | tokens = 1154
+[700/1150] GMD000700 | events = 381 | hit_sets = 284 | tokens = 1619
+[800/1150] GMD000800 | events = 91 | hit_sets = 58 | tokens = 361
+[900/1150] GMD000900 | events = 15 | hit_sets = 11 | tokens = 68
+[1000/1150] GMD001000 | events = 38 | hit_sets = 24 | tokens = 153
+[1100/1150] GMD001100 | events = 2198 | hit_sets = 974 | tokens = 7323
+[1150/1150] GMD001150 | events = 38 | hit_sets = 32 | tokens = 177
+
+================================
+轉換完成
+Segment 數： 1150
+輸出： gmd_sequences_v2.jsonl
+================================
+
+第一筆 sequence：
+segment_id: GMD000001
+MIDI: drummer1/eval_session/1_funk-groove1_138_beat_4-4.mid
+event_count: 410
+hit_set_count: 191
+
+<BOS> <SOURCE_GMD> <TS_4-4> <BPM_138> <TIME_SHIFT_0> <HIT_SET> <STROKE_kick> <VEL_4> <STROKE_ride> <VEL_4> <STROKE_splash> <VEL_4> <END_HIT_SET> <TIME_SHIFT_480> <HIT_SET> <STROKE_kick> <VEL_4> <STROKE_ride> <VEL_2> <END_HIT_SET> <TIME_SHIFT_480> <HIT_SET> <STROKE_snare> <VEL_6> <STROKE_hihat_pedal> <VEL_5> <STROKE_ride> <VEL_4> <END_HIT_SET> <TIME_SHIFT_480> <HIT_SET> <STROKE_hihat_pedal> <VEL_4> <STROKE_ride> <VEL_3> <END_HIT_SET> <TIME_SHIFT_240> <HIT_SET> <STROKE_snare> <VEL_3> <END_HIT_SET> <TIME_SHIFT_240> <HIT_SET> <STROKE_hihat_pedal> <VEL_5> <STROKE_ride> <VEL_3> <END_HIT_SET> <TIME_SHIFT_240> <HIT_SET> <STROKE_snare> <VEL_3> <STROKE_hihat_pedal> <VEL_3> <END_HIT_SET> <TIME_SHIFT_240> <HIT_SET> <STROKE_kick> <VEL_4> <STROKE_ride> <VEL_3> <END_HIT_SET> <TIME_SHIFT_480> <HIT_SET> <STROKE_snare> <VEL_8> <STROKE_hihat_pedal> <VEL_5> <STROKE_ride> <VEL_4> <END_HIT_SET> <TIME_SHIFT_480> <HIT_SET> <STROKE_hihat_pedal> <VEL_2> <STROKE_ride> <VEL_3> <END_HIT_SET> <TIME_SHIFT_240> <HIT_SET> <STROKE_snare> <VEL_2> <END_HIT_SET> <TIME_SHIFT_240> <HIT_SET> <STROKE_kick> <VEL_4> <STROKE_hihat_pedal> <VEL_5> <STROKE_ride> <VEL_3> <END_HIT_SET> <TIME_SHIFT_480> <HIT_SET> <STROKE_kick> <VEL_4> <STROKE_hihat_pedal> <VEL_4> <STROKE_ride> <VEL_3>

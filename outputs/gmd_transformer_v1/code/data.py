@@ -1,0 +1,87 @@
+"""Keep the existing LSTM split and exact 512-token window construction."""
+from collections import Counter
+from hashlib import sha256
+import json
+from pathlib import Path
+
+import torch
+from torch.utils.data import Dataset
+
+
+def file_hash(path):
+    digest = sha256()
+    with Path(path).open("rb") as stream:
+        for block in iter(lambda: stream.read(1024 * 1024), b""):
+            digest.update(block)
+    return digest.hexdigest()
+
+
+def load_data(sequence_path, vocab_path):
+    vocab = json.loads(Path(vocab_path).read_text(encoding="utf-8-sig"))
+    if not isinstance(vocab, dict) or any(type(v) is not int for v in vocab.values()) or sorted(vocab.values()) != list(range(len(vocab))):
+        raise ValueError("Expected original contiguous token-to-ID vocabulary")
+    for required in ("<PAD>", "<UNK>", "<BOS>", "<EOS>", "<HIT_SET>", "<END_HIT_SET>"):
+        if required not in vocab:
+            raise ValueError(f"Missing required token {required}")
+    splits = {"train": [], "validation": [], "test": []}
+    seen_ids, seen_files, seen_sequences = {}, {}, {}
+    counters = Counter()
+    for line in Path(sequence_path).read_text(encoding="utf-8-sig").splitlines():
+        if not line.strip():
+            continue
+        item = json.loads(line)
+        split = {"val": "validation", "valid": "validation"}.get(str(item.get("split", "")).lower(), str(item.get("split", "")).lower())
+        if split not in splits:
+            raise ValueError(f"Missing or unknown split for {item.get('segment_id')}")
+        tokens = item["tokens"]
+        if len(tokens) < 2 or tokens[0] != "<BOS>" or tokens[-1] != "<EOS>":
+            raise ValueError("Source sequence must have BOS/EOS and at least two tokens")
+        unknown = set(tokens) - vocab.keys()
+        if unknown:
+            raise ValueError(f"Unmapped tokens, refusing silent UNK substitution: {unknown}")
+        if "<PAD>" in tokens:
+            raise ValueError("PAD may only be introduced by right-padding batches")
+        for registry, key in ((seen_ids, item.get("segment_id")), (seen_files, item.get("midi_filename")),
+                              (seen_sequences, sha256(json.dumps(tokens).encode()).hexdigest())):
+            if key is not None:
+                if key in registry and registry[key] != split:
+                    raise ValueError(f"Cross-split duplicate source or sequence: {key}")
+                registry[key] = split
+        ids = [vocab[token] for token in tokens]
+        splits[split].append({"ids": ids, "segment_id": item.get("segment_id"), "midi_filename": item.get("midi_filename")})
+        counters[split] += len(ids)
+    if not splits["train"] or not splits["validation"]:
+        raise ValueError("Train and validation splits must both be nonempty")
+    metadata = {"vocab_size": len(vocab), "sequence_sha256": file_hash(sequence_path), "vocab_sha256": file_hash(vocab_path),
+                "split_counts": {k: len(v) for k, v in splits.items()}, "token_counts": dict(counters),
+                "ppq": 960, "window_policy": "legacy-lstm: chunks of 512 tokens; x=chunk[:-1], y=chunk[1:], step=512",
+                "quantization": "existing source tokens unchanged; source conversion specifies PPQ960 / 1/16 grid"}
+    return vocab, splits, metadata
+
+
+class TokenDataset(Dataset):
+    def __init__(self, sequences, window_length=512):
+        self.samples = []
+        for item in sequences:
+            seq = item["ids"] if isinstance(item, dict) else item
+            for start in range(0, len(seq) - 1, window_length):
+                chunk = seq[start:start + window_length]
+                if len(chunk) >= 2:
+                    self.samples.append(torch.tensor(chunk, dtype=torch.long))
+
+    def __len__(self):
+        return len(self.samples)
+
+    def __getitem__(self, index):
+        seq = self.samples[index]
+        return seq[:-1], seq[1:]
+
+
+def collate(batch, pad_id):
+    width = max(len(x) for x, y in batch)
+    xs = torch.full((len(batch), width), pad_id, dtype=torch.long)
+    ys = xs.clone()
+    for index, (x, y) in enumerate(batch):
+        xs[index, :len(x)] = x
+        ys[index, :len(y)] = y
+    return xs, ys

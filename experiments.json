@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "experiments": {
+    "v1": {
+      "data_dir": "projects/gmd_transformer_v1/data",
+      "sequence_file": "gmd_sequences_v2.jsonl",
+      "checkpoint": "outputs/gmd_transformer_v1/gmd_transformer_pretrained.pt",
+      "model_name": "gmd_transformer_pretrained.pt",
+      "settings": {
+        "epochs": 30,
+        "batch_size": 8,
+        "lr": 0.0003,
+        "seed": 42,
+        "patience": 6,
+        "warmup": 100,
+        "save_every": 100
+      },
+      "initializes_from": null
+    },
+    "v2": {
+      "data_dir": "projects/guoyue_transformer_ft_v1/data",
+      "sequence_file": "sequences.jsonl",
+      "checkpoint": "outputs/guoyue_transformer_ft_v1/guoyue_transformer_finetuned_v1.pt",
+      "model_name": "guoyue_transformer_finetuned_v1.pt",
+      "settings": {
+        "epochs": 60,
+        "batch_size": 8,
+        "lr": 3e-05,
+        "seed": 42,
+        "patience": 10,
+        "warmup": 20,
+        "save_every": 100
+      },
+      "initializes_from": "v1"
+    },
+    "v3": {
+      "data_dir": "outputs/guoyue_gmd12_tokens_v1",
+      "sequence_file": "sequences.jsonl",
+      "checkpoint": "outputs/guoyue_gmd12_ft_v1/guoyue_gmd12_finetuned_v1.pt",
+      "model_name": "guoyue_gmd12_finetuned_v1.pt",
+      "settings": {
+        "epochs": 60,
+        "batch_size": 8,
+        "lr": 3e-05,
+        "seed": 42,
+        "patience": 10,
+        "warmup": 20,
+        "save_every": 100
+      },
+      "initializes_from": "v1"
+    }
+  }
+}

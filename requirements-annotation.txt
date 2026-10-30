@@ -1,0 +1,5 @@
+# Optional image recognition/review tools; not required for model training.
+pygame-ce==2.5.8
+Pillow>=11.0,<13
+openai>=2.0,<3
+keyring>=25,<27

@@ -1,0 +1,173 @@
+{"event": "training_start", "data": {"vocab_size": 200, "sequence_sha256": "1be1a84816308241d8f3410b9b181c711ffe63a2c240df7fe6d500d19a3a3693", "vocab_sha256": "9feaf8ad6f6573b398ab1ef55ad3be2f827ed55fa7b81f6b78d8d975d94a6289", "split_counts": {"train": 100, "validation": 30, "test": 0}, "token_counts": {"train": 55218, "validation": 6715}, "ppq": 960, "window_policy": "legacy-lstm: chunks of 512 tokens; x=chunk[:-1], y=chunk[1:], step=512", "quantization": "prepared source time tokens preserved exactly; no requantization", "masked_token_counts": {"train": 2957, "validation": 200}, "dataset_manifest": {"token_format": "musicai-token-sequences-v1", "adapter": "append-only-vocabulary-alignment-v1", "ppq": 960, "source_folder": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\outputs\\六份樂譜_20261029_TOKEN版\\TOKEN\\tokens-20261029-113446-d35a4b", "source_hashes": {"sequences.jsonl": "5a2782a3422818808fbda095dff65665dc731ddaa95c6e14768e7346f1801d64", "vocab.json": "1f129baf85f03ff48bd90f82027dd8ab75b42209d86873dfd37ce2c82e17b1c1", "rules.json": "06e4dcd82cd8c436a3780b1151e3e8e40eab62ca9303d9990662d1503737cb4a", "manifest.json": "abcb10da71cb877669595c80b0da8702be9530dafba3324e22d561ab9ea89dee"}, "base_vocab_sha256": "7cd5241e2448a728b732976b1d7df65cad859cc1ef5cb53087454bcc435a5137", "base_vocab_size": 133, "unified_vocab_size": 200, "new_tokens": 67, "source_sequence_count": 132, "source_token_count": 62389, "source_masked_tokens": 3157, "split_policy": "5 complete works train / 1 complete work validation; no independent test set", "validation_title": "黃土情", "split_counts": {"train": 100, "validation": 30}, "split_token_counts": {"train": 55218, "validation": 6715}, "split_titles": {"train": ["天下無雙", "海神音詩", "節慶歡舞", "闖將令", "黃土高坡"], "validation": ["黃土情"]}, "removed_cross_split_duplicates": [{"title": "黃土高坡", "segment_id": "AUTO-011", "tokens": 228}, {"title": "黃土高坡", "segment_id": "AUTO-012", "tokens": 228}], "concepts": {"instrument": [{"id": "C00001", "label": "小鈸"}, {"id": "C00002", "label": "小鑼"}, {"id": "C00003", "label": "大鑼"}, {"id": "C00004", "label": "小鼓"}, {"id": "C00005", "label": "大鼓"}, {"id": "C00006", "label": "定音鼓"}, {"id": "C00007", "label": "大鈸"}, {"id": "C00008", "label": "方響"}, {"id": "C00009", "label": "木魚"}, {"id": "C00010", "label": "鈴鼓"}, {"id": "C00011", "label": "低音鼓"}, {"id": "C00012", "label": "軍鈸"}, {"id": "C00013", "label": "小堂鼓"}, {"id": "C00014", "label": "大堂鼓"}, {"id": "C00015", "label": "大鈸（獅鈸）"}, {"id": "C00016", "label": "吊鈸"}, {"id": "C00017", "label": "碰鈴"}, {"id": "C00018", "label": "低音鑼"}, {"id": "C00019", "label": "大銅磐"}, {"id": "C00020", "label": "低音堂鼓"}, {"id": "C00021", "label": "班鼓"}, {"id": "C00022", "label": "子弟鑼"}, {"id": "C00023", "label": "高音堂鼓"}, {"id": "C00024", "label": "最下方鑼聲部"}, {"id": "C00025", "label": "沙鎚"}, {"id": "C00026", "label": "沙槌"}, {"id": "C00027", "label": "風鈴"}, {"id": "C00028", "label": "風鑼"}, {"id": "C00029", "label": "鈴鑼"}, {"id": "C00030", "label": "三角鐵"}, {"id": "C00031", "label": "低音大鑼"}, {"id": "C00032", "label": "文鑼"}], "technique": [], "pitch": [], "dynamic": [], "is_roll": [{"id": "C00001", "label": "有輪奏"}, {"id": "C00002", "label": "無輪奏"}], "is_accent": [{"id": "C00001", "label": "有重音"}, {"id": "C00002", "label": "無重音"}], "is_ornament": [{"id": "C00001", "label": "有裝飾音"}, {"id": "C00002", "label": "無裝飾音"}], "tie": [{"id": "C00001", "label": "無延音線"}, {"id": "C00002", "label": "延音開始"}, {"id": "C00003", "label": "延音延續"}, {"id": "C00004", "label": "延音結束"}], "slur": []}, "profile": {"name": "暫行節奏：已知輪奏與重音保留，未知欄位遮罩", "fields": {"duration": true, "technique": false, "pitch": false, "dynamic": false, "is_roll": true, "is_accent": true, "is_ornament": true, "tie": true, "slur": false, "tempo": false}, "projections": {"instrument": {}, "technique": {}, "pitch": {}, "dynamic": {}, "is_roll": {}, "is_accent": {}, "is_ornament": {}, "tie": {}, "slur": {}}}, "local_to_unified_id": {"0": 0, "1": 28, "2": 30, "3": 133, "4": 134, "5": 135, "6": 32, "7": 2, "8": 136, "9": 137, "10": 138, "11": 139, "12": 140, "13": 141, "14": 142, "15": 143, "16": 144, "17": 145, "18": 146, "19": 147, "20": 148, "21": 149, "22": 3, "23": 12, "24": 150, "25": 4, "26": 151, "27": 152, "28": 153, "29": 25, "30": 154, "31": 155, "32": 156, "33": 157, "34": 158, "35": 159, "36": 160, "37": 35, "38": 24, "39": 51, "40": 64, "41": 161, "42": 162, "43": 163, "44": 164, "45": 165, "46": 34, "47": 166, "48": 167, "49": 168, "50": 169, "51": 170, "52": 171, "53": 172, "54": 173, "55": 174, "56": 175, "57": 176, "58": 79, "59": 177, "60": 178, "61": 179, "62": 180, "63": 181, "64": 182, "65": 183, "66": 184, "67": 185, "68": 186, "69": 187, "70": 188, "71": 189, "72": 190, "73": 191, "74": 71, "75": 75, "76": 192, "77": 193, "78": 194, "79": 195, "80": 196, "81": 197, "82": 198, "83": 199}, "tokens_and_masks_preserved": true, "limitations": ["Only six works; exploratory first fine-tuning run.", "First four scores contain provisional excerpt preparation.", "No pitch, fine technique, dynamics or tempo tokens in this selected profile."]}, "window_counts": {"train": 174, "validation": 32, "test": 0}}, "model": {"vocab_size": 200, "context_length": 512, "d_model": 256, "n_layers": 4, "n_heads": 8, "d_ff": 1024, "dropout": 0.1, "pad_id": 0}, "machine": {"python": "3.13.13 (tags/v3.13.13:01104ce, Apr  7 2026, 19:25:48) [MSC v.1944 64 bit (AMD64)]", "python_executable": "C:\\Users\\Habu_\\AppData\\Local\\Programs\\Python\\Python313\\python.exe", "torch": "2.14.1+cu130", "cuda": "13.0", "device": "cuda", "gpu": "NVIDIA GeForce RTX 4060 Ti", "precision": "torch.bfloat16", "parameters": 3393224}}
+{"event": "before_finetuning", "val_loss": 5.5370285596704845}
+epoch=1 batch=1/22 step=1 train_loss=5.26046
+{"event": "epoch_complete", "epoch": 1, "train_loss": 4.698265501166241, "val_loss": 4.031539820492056, "seconds": 0.41, "global_step": 22, "best": true}
+epoch=2 batch=1/22 step=23 train_loss=4.05622
+epoch=2 batch=3/22 step=25 train_loss=4.06973
+{"event": "epoch_complete", "epoch": 2, "train_loss": 3.7391791035149966, "val_loss": 3.344075897419212, "seconds": 0.23, "global_step": 44, "best": true}
+epoch=3 batch=1/22 step=45 train_loss=3.33052
+epoch=3 batch=6/22 step=50 train_loss=3.36458
+{"event": "epoch_complete", "epoch": 3, "train_loss": 3.205735388857592, "val_loss": 2.9604062879598567, "seconds": 0.3, "global_step": 66, "best": true}
+epoch=4 batch=1/22 step=67 train_loss=2.95999
+epoch=4 batch=9/22 step=75 train_loss=2.95047
+{"event": "epoch_complete", "epoch": 4, "train_loss": 2.916301826223299, "val_loss": 2.717070954202337, "seconds": 0.34, "global_step": 88, "best": true}
+epoch=5 batch=1/22 step=89 train_loss=2.76773
+epoch=5 batch=12/22 step=100 train_loss=2.74091
+{"event": "epoch_complete", "epoch": 5, "train_loss": 2.70468324921506, "val_loss": 2.5218962469752624, "seconds": 0.38, "global_step": 110, "best": true}
+epoch=6 batch=1/22 step=111 train_loss=2.65151
+epoch=6 batch=15/22 step=125 train_loss=2.56848
+{"event": "epoch_complete", "epoch": 6, "train_loss": 2.5106572762678074, "val_loss": 2.295218775306571, "seconds": 0.25, "global_step": 132, "best": true}
+epoch=7 batch=1/22 step=133 train_loss=2.52520
+epoch=7 batch=18/22 step=150 train_loss=2.31029
+{"event": "epoch_complete", "epoch": 7, "train_loss": 2.2779981573384607, "val_loss": 2.020970297617326, "seconds": 0.24, "global_step": 154, "best": true}
+epoch=8 batch=1/22 step=155 train_loss=1.99117
+epoch=8 batch=21/22 step=175 train_loss=2.03906
+{"event": "epoch_complete", "epoch": 8, "train_loss": 2.0346433517113143, "val_loss": 1.7531443414507173, "seconds": 0.24, "global_step": 176, "best": true}
+epoch=9 batch=1/22 step=177 train_loss=1.91823
+{"event": "epoch_complete", "epoch": 9, "train_loss": 1.7922260709334343, "val_loss": 1.5029888491415047, "seconds": 0.24, "global_step": 198, "best": true}
+epoch=10 batch=1/22 step=199 train_loss=1.75504
+epoch=10 batch=2/22 step=200 train_loss=1.60272
+{"event": "epoch_complete", "epoch": 10, "train_loss": 1.5801690742319114, "val_loss": 1.3062874815924823, "seconds": 0.28, "global_step": 220, "best": true}
+epoch=11 batch=1/22 step=221 train_loss=1.44183
+epoch=11 batch=5/22 step=225 train_loss=1.50388
+{"event": "epoch_complete", "epoch": 11, "train_loss": 1.3977735582755564, "val_loss": 1.1485550889405465, "seconds": 0.25, "global_step": 242, "best": true}
+epoch=12 batch=1/22 step=243 train_loss=1.29987
+epoch=12 batch=8/22 step=250 train_loss=1.31319
+{"event": "epoch_complete", "epoch": 12, "train_loss": 1.242076454894468, "val_loss": 1.0156853667163157, "seconds": 0.24, "global_step": 264, "best": true}
+epoch=13 batch=1/22 step=265 train_loss=1.20290
+epoch=13 batch=11/22 step=275 train_loss=1.15398
+{"event": "epoch_complete", "epoch": 13, "train_loss": 1.1189713087551514, "val_loss": 0.915367577191067, "seconds": 0.24, "global_step": 286, "best": true}
+epoch=14 batch=1/22 step=287 train_loss=1.45735
+epoch=14 batch=14/22 step=300 train_loss=1.04366
+{"event": "epoch_complete", "epoch": 14, "train_loss": 1.0223294758698285, "val_loss": 0.8396168381789392, "seconds": 0.29, "global_step": 308, "best": true}
+epoch=15 batch=1/22 step=309 train_loss=1.16676
+epoch=15 batch=17/22 step=325 train_loss=0.94124
+{"event": "epoch_complete", "epoch": 15, "train_loss": 0.9411690339128534, "val_loss": 0.7941951678157055, "seconds": 0.25, "global_step": 330, "best": true}
+epoch=16 batch=1/22 step=331 train_loss=0.83942
+epoch=16 batch=20/22 step=350 train_loss=0.88692
+{"event": "epoch_complete", "epoch": 16, "train_loss": 0.8733558585728901, "val_loss": 0.7401949087999383, "seconds": 0.24, "global_step": 352, "best": true}
+epoch=17 batch=1/22 step=353 train_loss=0.99911
+{"event": "epoch_complete", "epoch": 17, "train_loss": 0.8170490892566448, "val_loss": 0.703466167976583, "seconds": 0.24, "global_step": 374, "best": true}
+epoch=18 batch=1/22 step=375 train_loss=0.89620
+{"event": "epoch_complete", "epoch": 18, "train_loss": 0.7723614974748747, "val_loss": 0.6776168613766292, "seconds": 0.24, "global_step": 396, "best": true}
+epoch=19 batch=1/22 step=397 train_loss=0.70092
+epoch=19 batch=4/22 step=400 train_loss=0.73360
+{"event": "epoch_complete", "epoch": 19, "train_loss": 0.7356183857704037, "val_loss": 0.6468241401941858, "seconds": 0.29, "global_step": 418, "best": true}
+epoch=20 batch=1/22 step=419 train_loss=0.63846
+epoch=20 batch=7/22 step=425 train_loss=0.72624
+{"event": "epoch_complete", "epoch": 20, "train_loss": 0.7038700260031725, "val_loss": 0.6288297183348517, "seconds": 0.24, "global_step": 440, "best": true}
+epoch=21 batch=1/22 step=441 train_loss=0.67053
+epoch=21 batch=10/22 step=450 train_loss=0.68561
+{"event": "epoch_complete", "epoch": 21, "train_loss": 0.6754465962639467, "val_loss": 0.6070970508505418, "seconds": 0.24, "global_step": 462, "best": true}
+epoch=22 batch=1/22 step=463 train_loss=0.62497
+epoch=22 batch=13/22 step=475 train_loss=0.65332
+{"event": "epoch_complete", "epoch": 22, "train_loss": 0.6516288142374551, "val_loss": 0.58647392775456, "seconds": 0.26, "global_step": 484, "best": true}
+epoch=23 batch=1/22 step=485 train_loss=0.58749
+epoch=23 batch=16/22 step=500 train_loss=0.62287
+{"event": "epoch_complete", "epoch": 23, "train_loss": 0.6299621107253764, "val_loss": 0.5726432935628519, "seconds": 0.29, "global_step": 506, "best": true}
+epoch=24 batch=1/22 step=507 train_loss=0.71549
+epoch=24 batch=19/22 step=525 train_loss=0.61937
+{"event": "epoch_complete", "epoch": 24, "train_loss": 0.6101468065909127, "val_loss": 0.5563676755552984, "seconds": 0.24, "global_step": 528, "best": true}
+epoch=25 batch=1/22 step=529 train_loss=0.61222
+epoch=25 batch=22/22 step=550 train_loss=0.59433
+{"event": "epoch_complete", "epoch": 25, "train_loss": 0.5943294595444264, "val_loss": 0.5407637267059039, "seconds": 0.25, "global_step": 550, "best": true}
+epoch=26 batch=1/22 step=551 train_loss=0.61791
+{"event": "epoch_complete", "epoch": 26, "train_loss": 0.5752296646706865, "val_loss": 0.5267353190254801, "seconds": 0.24, "global_step": 572, "best": true}
+epoch=27 batch=1/22 step=573 train_loss=0.53960
+epoch=27 batch=3/22 step=575 train_loss=0.57010
+{"event": "epoch_complete", "epoch": 27, "train_loss": 0.5579778133649976, "val_loss": 0.5178499776383305, "seconds": 0.24, "global_step": 594, "best": true}
+epoch=28 batch=1/22 step=595 train_loss=0.57845
+epoch=28 batch=6/22 step=600 train_loss=0.53425
+{"event": "epoch_complete", "epoch": 28, "train_loss": 0.5455160835106695, "val_loss": 0.5056870963752554, "seconds": 0.3, "global_step": 616, "best": true}
+epoch=29 batch=1/22 step=617 train_loss=0.49158
+epoch=29 batch=9/22 step=625 train_loss=0.53017
+{"event": "epoch_complete", "epoch": 29, "train_loss": 0.5314878967655531, "val_loss": 0.49653218069434, "seconds": 0.24, "global_step": 638, "best": true}
+epoch=30 batch=1/22 step=639 train_loss=0.41418
+epoch=30 batch=12/22 step=650 train_loss=0.50366
+{"event": "epoch_complete", "epoch": 30, "train_loss": 0.5202354292810981, "val_loss": 0.4852806325497937, "seconds": 0.24, "global_step": 660, "best": true}
+epoch=31 batch=1/22 step=661 train_loss=0.45911
+epoch=31 batch=15/22 step=675 train_loss=0.51162
+{"event": "epoch_complete", "epoch": 31, "train_loss": 0.5091585826950444, "val_loss": 0.47756361589927504, "seconds": 0.24, "global_step": 682, "best": true}
+epoch=32 batch=1/22 step=683 train_loss=0.46130
+epoch=32 batch=18/22 step=700 train_loss=0.49452
+{"event": "epoch_complete", "epoch": 32, "train_loss": 0.49947424827575865, "val_loss": 0.47073051691533385, "seconds": 0.29, "global_step": 704, "best": true}
+epoch=33 batch=1/22 step=705 train_loss=0.43003
+epoch=33 batch=21/22 step=725 train_loss=0.49291
+{"event": "epoch_complete", "epoch": 33, "train_loss": 0.49069730792846117, "val_loss": 0.46629713141732465, "seconds": 0.24, "global_step": 726, "best": true}
+epoch=34 batch=1/22 step=727 train_loss=0.45610
+{"event": "epoch_complete", "epoch": 34, "train_loss": 0.48378374194327645, "val_loss": 0.4620227075259332, "seconds": 0.24, "global_step": 748, "best": true}
+epoch=35 batch=1/22 step=749 train_loss=0.60982
+epoch=35 batch=2/22 step=750 train_loss=0.53640
+{"event": "epoch_complete", "epoch": 35, "train_loss": 0.47372506726815666, "val_loss": 0.45128211110126965, "seconds": 0.24, "global_step": 770, "best": true}
+epoch=36 batch=1/22 step=771 train_loss=0.54036
+epoch=36 batch=5/22 step=775 train_loss=0.50601
+{"event": "epoch_complete", "epoch": 36, "train_loss": 0.4688295992711703, "val_loss": 0.451489704066766, "seconds": 0.24, "global_step": 792, "best": false}
+epoch=37 batch=1/22 step=793 train_loss=0.42845
+epoch=37 batch=8/22 step=800 train_loss=0.46183
+{"event": "epoch_complete", "epoch": 37, "train_loss": 0.4602745399585633, "val_loss": 0.4470004520536885, "seconds": 0.3, "global_step": 814, "best": true}
+epoch=38 batch=1/22 step=815 train_loss=0.52037
+epoch=38 batch=11/22 step=825 train_loss=0.46052
+{"event": "epoch_complete", "epoch": 38, "train_loss": 0.45453178078296613, "val_loss": 0.4427927450579882, "seconds": 0.25, "global_step": 836, "best": true}
+epoch=39 batch=1/22 step=837 train_loss=0.54950
+epoch=39 batch=14/22 step=850 train_loss=0.46800
+{"event": "epoch_complete", "epoch": 39, "train_loss": 0.44978709083689133, "val_loss": 0.4392791564461259, "seconds": 0.24, "global_step": 858, "best": true}
+epoch=40 batch=1/22 step=859 train_loss=0.37553
+epoch=40 batch=17/22 step=875 train_loss=0.43837
+{"event": "epoch_complete", "epoch": 40, "train_loss": 0.44486554109688614, "val_loss": 0.4349960192989718, "seconds": 0.24, "global_step": 880, "best": true}
+epoch=41 batch=1/22 step=881 train_loss=0.34082
+epoch=41 batch=20/22 step=900 train_loss=0.44405
+{"event": "epoch_complete", "epoch": 41, "train_loss": 0.44099143791802903, "val_loss": 0.43189450036995797, "seconds": 0.29, "global_step": 902, "best": true}
+epoch=42 batch=1/22 step=903 train_loss=0.47385
+{"event": "epoch_complete", "epoch": 42, "train_loss": 0.4359830224066601, "val_loss": 0.4301754705666503, "seconds": 0.24, "global_step": 924, "best": true}
+epoch=43 batch=1/22 step=925 train_loss=0.44591
+{"event": "epoch_complete", "epoch": 43, "train_loss": 0.43173899186689624, "val_loss": 0.4284140748520168, "seconds": 0.24, "global_step": 946, "best": true}
+epoch=44 batch=1/22 step=947 train_loss=0.38553
+epoch=44 batch=4/22 step=950 train_loss=0.41198
+{"event": "epoch_complete", "epoch": 44, "train_loss": 0.42986214933296524, "val_loss": 0.4257390817962604, "seconds": 0.24, "global_step": 968, "best": true}
+epoch=45 batch=1/22 step=969 train_loss=0.48596
+epoch=45 batch=7/22 step=975 train_loss=0.43548
+{"event": "epoch_complete", "epoch": 45, "train_loss": 0.4252798051946473, "val_loss": 0.422468584076262, "seconds": 0.24, "global_step": 990, "best": true}
+epoch=46 batch=1/22 step=991 train_loss=0.41910
+epoch=46 batch=10/22 step=1000 train_loss=0.44742
+{"event": "epoch_complete", "epoch": 46, "train_loss": 0.42116786674692025, "val_loss": 0.4223186369941096, "seconds": 0.29, "global_step": 1012, "best": true}
+epoch=47 batch=1/22 step=1013 train_loss=0.36952
+epoch=47 batch=13/22 step=1025 train_loss=0.42107
+{"event": "epoch_complete", "epoch": 47, "train_loss": 0.41924073352914876, "val_loss": 0.4190926987981789, "seconds": 0.24, "global_step": 1034, "best": true}
+epoch=48 batch=1/22 step=1035 train_loss=0.42176
+epoch=48 batch=16/22 step=1050 train_loss=0.39757
+{"event": "epoch_complete", "epoch": 48, "train_loss": 0.4159549068462874, "val_loss": 0.41815080102829033, "seconds": 0.24, "global_step": 1056, "best": true}
+epoch=49 batch=1/22 step=1057 train_loss=0.27404
+epoch=49 batch=19/22 step=1075 train_loss=0.41501
+{"event": "epoch_complete", "epoch": 49, "train_loss": 0.41341245705631924, "val_loss": 0.4157088440214431, "seconds": 0.28, "global_step": 1078, "best": true}
+epoch=50 batch=1/22 step=1079 train_loss=0.40797
+epoch=50 batch=22/22 step=1100 train_loss=0.41105
+{"event": "epoch_complete", "epoch": 50, "train_loss": 0.41104774188288207, "val_loss": 0.41521899523272404, "seconds": 0.3, "global_step": 1100, "best": true}
+epoch=51 batch=1/22 step=1101 train_loss=0.33448
+{"event": "epoch_complete", "epoch": 51, "train_loss": 0.4109268387767078, "val_loss": 0.41530673974240323, "seconds": 0.25, "global_step": 1122, "best": false}
+epoch=52 batch=1/22 step=1123 train_loss=0.48272
+epoch=52 batch=3/22 step=1125 train_loss=0.41053
+{"event": "epoch_complete", "epoch": 52, "train_loss": 0.40841272931097566, "val_loss": 0.4136563662520607, "seconds": 0.24, "global_step": 1144, "best": true}
+epoch=53 batch=1/22 step=1145 train_loss=0.48851
+epoch=53 batch=6/22 step=1150 train_loss=0.38375
+{"event": "epoch_complete", "epoch": 53, "train_loss": 0.4050818289909923, "val_loss": 0.4119935089398475, "seconds": 0.24, "global_step": 1166, "best": true}
+epoch=54 batch=1/22 step=1167 train_loss=0.39458
+epoch=54 batch=9/22 step=1175 train_loss=0.39125
+{"event": "epoch_complete", "epoch": 54, "train_loss": 0.402903827431564, "val_loss": 0.41078273356006817, "seconds": 0.24, "global_step": 1188, "best": true}
+epoch=55 batch=1/22 step=1189 train_loss=0.42153
+epoch=55 batch=12/22 step=1200 train_loss=0.41404
+{"event": "epoch_complete", "epoch": 55, "train_loss": 0.40221556344252446, "val_loss": 0.4111276438588183, "seconds": 0.28, "global_step": 1210, "best": false}
+epoch=56 batch=1/22 step=1211 train_loss=0.39059
+epoch=56 batch=15/22 step=1225 train_loss=0.41162
+{"event": "epoch_complete", "epoch": 56, "train_loss": 0.402397298611476, "val_loss": 0.41009772855448867, "seconds": 0.25, "global_step": 1232, "best": true}
+epoch=57 batch=1/22 step=1233 train_loss=0.40095
+epoch=57 batch=18/22 step=1250 train_loss=0.41130
+{"event": "epoch_complete", "epoch": 57, "train_loss": 0.40042191861252063, "val_loss": 0.4099702542346329, "seconds": 0.24, "global_step": 1254, "best": true}
+epoch=58 batch=1/22 step=1255 train_loss=0.37178
+epoch=58 batch=21/22 step=1275 train_loss=0.39756
+{"event": "epoch_complete", "epoch": 58, "train_loss": 0.39923521305805754, "val_loss": 0.40835222476392585, "seconds": 0.24, "global_step": 1276, "best": true}
+epoch=59 batch=1/22 step=1277 train_loss=0.38481
+{"event": "epoch_complete", "epoch": 59, "train_loss": 0.3990528717857333, "val_loss": 0.40810651189288333, "seconds": 0.23, "global_step": 1298, "best": true}
+epoch=60 batch=1/22 step=1299 train_loss=0.38202
+epoch=60 batch=2/22 step=1300 train_loss=0.46393
+{"event": "epoch_complete", "epoch": 60, "train_loss": 0.3983271511834788, "val_loss": 0.40649560930992595, "seconds": 0.29, "global_step": 1320, "best": true}
+{"event": "completed", "status": "completed", "completed_at": "2026-10-29T03:46:14.368891+00:00", "best_epoch": 60, "best_val_loss": 0.40649560930992595, "test_loss": null, "epochs_completed": 60, "training_seconds_this_process": 21.7, "checkpoint": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\outputs\\guoyue_transformer_ft_v1\\guoyue_transformer_finetuned_v1.pt", "resumable_checkpoint": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\outputs\\guoyue_transformer_ft_v1\\last.pt", "smoke_test": false, "data": {"vocab_size": 200, "sequence_sha256": "1be1a84816308241d8f3410b9b181c711ffe63a2c240df7fe6d500d19a3a3693", "vocab_sha256": "9feaf8ad6f6573b398ab1ef55ad3be2f827ed55fa7b81f6b78d8d975d94a6289", "split_counts": {"train": 100, "validation": 30, "test": 0}, "token_counts": {"train": 55218, "validation": 6715}, "ppq": 960, "window_policy": "legacy-lstm: chunks of 512 tokens; x=chunk[:-1], y=chunk[1:], step=512", "quantization": "prepared source time tokens preserved exactly; no requantization", "masked_token_counts": {"train": 2957, "validation": 200}, "dataset_manifest": {"token_format": "musicai-token-sequences-v1", "adapter": "append-only-vocabulary-alignment-v1", "ppq": 960, "source_folder": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\outputs\\六份樂譜_20261029_TOKEN版\\TOKEN\\tokens-20261029-113446-d35a4b", "source_hashes": {"sequences.jsonl": "5a2782a3422818808fbda095dff65665dc731ddaa95c6e14768e7346f1801d64", "vocab.json": "1f129baf85f03ff48bd90f82027dd8ab75b42209d86873dfd37ce2c82e17b1c1", "rules.json": "06e4dcd82cd8c436a3780b1151e3e8e40eab62ca9303d9990662d1503737cb4a", "manifest.json": "abcb10da71cb877669595c80b0da8702be9530dafba3324e22d561ab9ea89dee"}, "base_vocab_sha256": "7cd5241e2448a728b732976b1d7df65cad859cc1ef5cb53087454bcc435a5137", "base_vocab_size": 133, "unified_vocab_size": 200, "new_tokens": 67, "source_sequence_count": 132, "source_token_count": 62389, "source_masked_tokens": 3157, "split_policy": "5 complete works train / 1 complete work validation; no independent test set", "validation_title": "黃土情", "split_counts": {"train": 100, "validation": 30}, "split_token_counts": {"train": 55218, "validation": 6715}, "split_titles": {"train": ["天下無雙", "海神音詩", "節慶歡舞", "闖將令", "黃土高坡"], "validation": ["黃土情"]}, "removed_cross_split_duplicates": [{"title": "黃土高坡", "segment_id": "AUTO-011", "tokens": 228}, {"title": "黃土高坡", "segment_id": "AUTO-012", "tokens": 228}], "concepts": {"instrument": [{"id": "C00001", "label": "小鈸"}, {"id": "C00002", "label": "小鑼"}, {"id": "C00003", "label": "大鑼"}, {"id": "C00004", "label": "小鼓"}, {"id": "C00005", "label": "大鼓"}, {"id": "C00006", "label": "定音鼓"}, {"id": "C00007", "label": "大鈸"}, {"id": "C00008", "label": "方響"}, {"id": "C00009", "label": "木魚"}, {"id": "C00010", "label": "鈴鼓"}, {"id": "C00011", "label": "低音鼓"}, {"id": "C00012", "label": "軍鈸"}, {"id": "C00013", "label": "小堂鼓"}, {"id": "C00014", "label": "大堂鼓"}, {"id": "C00015", "label": "大鈸（獅鈸）"}, {"id": "C00016", "label": "吊鈸"}, {"id": "C00017", "label": "碰鈴"}, {"id": "C00018", "label": "低音鑼"}, {"id": "C00019", "label": "大銅磐"}, {"id": "C00020", "label": "低音堂鼓"}, {"id": "C00021", "label": "班鼓"}, {"id": "C00022", "label": "子弟鑼"}, {"id": "C00023", "label": "高音堂鼓"}, {"id": "C00024", "label": "最下方鑼聲部"}, {"id": "C00025", "label": "沙鎚"}, {"id": "C00026", "label": "沙槌"}, {"id": "C00027", "label": "風鈴"}, {"id": "C00028", "label": "風鑼"}, {"id": "C00029", "label": "鈴鑼"}, {"id": "C00030", "label": "三角鐵"}, {"id": "C00031", "label": "低音大鑼"}, {"id": "C00032", "label": "文鑼"}], "technique": [], "pitch": [], "dynamic": [], "is_roll": [{"id": "C00001", "label": "有輪奏"}, {"id": "C00002", "label": "無輪奏"}], "is_accent": [{"id": "C00001", "label": "有重音"}, {"id": "C00002", "label": "無重音"}], "is_ornament": [{"id": "C00001", "label": "有裝飾音"}, {"id": "C00002", "label": "無裝飾音"}], "tie": [{"id": "C00001", "label": "無延音線"}, {"id": "C00002", "label": "延音開始"}, {"id": "C00003", "label": "延音延續"}, {"id": "C00004", "label": "延音結束"}], "slur": []}, "profile": {"name": "暫行節奏：已知輪奏與重音保留，未知欄位遮罩", "fields": {"duration": true, "technique": false, "pitch": false, "dynamic": false, "is_roll": true, "is_accent": true, "is_ornament": true, "tie": true, "slur": false, "tempo": false}, "projections": {"instrument": {}, "technique": {}, "pitch": {}, "dynamic": {}, "is_roll": {}, "is_accent": {}, "is_ornament": {}, "tie": {}, "slur": {}}}, "local_to_unified_id": {"0": 0, "1": 28, "2": 30, "3": 133, "4": 134, "5": 135, "6": 32, "7": 2, "8": 136, "9": 137, "10": 138, "11": 139, "12": 140, "13": 141, "14": 142, "15": 143, "16": 144, "17": 145, "18": 146, "19": 147, "20": 148, "21": 149, "22": 3, "23": 12, "24": 150, "25": 4, "26": 151, "27": 152, "28": 153, "29": 25, "30": 154, "31": 155, "32": 156, "33": 157, "34": 158, "35": 159, "36": 160, "37": 35, "38": 24, "39": 51, "40": 64, "41": 161, "42": 162, "43": 163, "44": 164, "45": 165, "46": 34, "47": 166, "48": 167, "49": 168, "50": 169, "51": 170, "52": 171, "53": 172, "54": 173, "55": 174, "56": 175, "57": 176, "58": 79, "59": 177, "60": 178, "61": 179, "62": 180, "63": 181, "64": 182, "65": 183, "66": 184, "67": 185, "68": 186, "69": 187, "70": 188, "71": 189, "72": 190, "73": 191, "74": 71, "75": 75, "76": 192, "77": 193, "78": 194, "79": 195, "80": 196, "81": 197, "82": 198, "83": 199}, "tokens_and_masks_preserved": true, "limitations": ["Only six works; exploratory first fine-tuning run.", "First four scores contain provisional excerpt preparation.", "No pitch, fine technique, dynamics or tempo tokens in this selected profile."]}, "window_counts": {"train": 174, "validation": 32, "test": 0}}, "model": {"vocab_size": 200, "context_length": 512, "d_model": 256, "n_layers": 4, "n_heads": 8, "d_ff": 1024, "dropout": 0.1, "pad_id": 0}, "machine": {"python": "3.13.13 (tags/v3.13.13:01104ce, Apr  7 2026, 19:25:48) [MSC v.1944 64 bit (AMD64)]", "python_executable": "C:\\Users\\Habu_\\AppData\\Local\\Programs\\Python\\Python313\\python.exe", "torch": "2.14.1+cu130", "cuda": "13.0", "device": "cuda", "gpu": "NVIDIA GeForce RTX 4060 Ti", "precision": "torch.bfloat16", "parameters": 3393224}, "initial_metrics": {"val_loss": 5.5370285596704845, "definition": "Expanded GMD checkpoint before fine-tuning, same unified vocabulary and target masks", "checkpoint": "C:\\Users\\Habu_\\OneDrive\\文件\\ChatGPT\\MusicAI\\outputs\\gmd_transformer_v1\\gmd_transformer_pretrained.pt", "checkpoint_sha256": "79adb2def24c518a65a2ce359fe179f55ce46fb1dc0156c2b8177002e29a4690"}}

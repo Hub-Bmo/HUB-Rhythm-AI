@@ -1,0 +1,7 @@
+# Cross-platform playback and live hit mixing.
+pygame-ce==2.5.8
+Pillow>=11.0,<13
+# OpenAI is imported only when the user explicitly starts online recognition.
+openai>=2.0,<3
+# API keys are stored in Windows Credential Manager / the platform keychain.
+keyring>=25,<27
